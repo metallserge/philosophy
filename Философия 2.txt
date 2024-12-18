@@ -1164,7 +1164,6 @@ https://en.wikipedia.org/wiki/Multistable_perception
     https://en.wikipedia.org/wiki/Cognitive_psychology (https://ru.wikipedia.org/wiki/Когнитивная_психология)
       <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие)
       <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    Текущий Europe Ю 4я колонка (языки)
       zh    bg      ast     ga      pl      tr      zh-yue      bn
       es    mk      az      hr      ro      is      ko          pa
       fr    ru      bs      it      sq      cs      id          ta
@@ -1810,7 +1809,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
       [pl] Объяснение поведения
         [pl] В ходе развития психологии появились (и появляются до сих пор) различные способы мышления о возможности объяснения поведения человека.
       
-        [pl] (какая-то хуйня) Некоторые концепции пытаются объяснить поведение инстинктами (https://en.wikipedia.org/wiki/Instinct ) и побуждениями (https://en.wikipedia.org/wiki/Libido ), которые представляют собой «психические механизмы», «модули стимул-реакция», сформировавшиеся в ходе эволюции (например, эволюционная психология (https://en.wikipedia.org/wiki/Evolutionary_psychology )) или которые представляют собой некоторую форму биологической энергии (например, жизненная энергия), энергия в философии  (https://pl.wikipedia.org/wiki/Energia_(filozofia) ), действие (https://pl.wikipedia.org/wiki/Akt_(filozofia) ), или жизненная сила (https://pl.wikipedia.org/wiki/Si%C5%82a_%C5%BCyciowa ), стремящаяся сохранить равновесие (как, например, в динамической психологии (https://en.wikipedia.org/wiki/Psychoanalysis ) (это фрейд)).
+        [pl] (какая-то хуйня) Некоторые концепции пытаются объяснить поведение инстинктами (https://en.wikipedia.org/wiki/Instinct ) и побуждениями (https://en.wikipedia.org/wiki/Libido ), которые представляют собой «психические механизмы», «модули стимул-реакция», сформировавшиеся в ходе эволюции (например, эволюционная психология (https://en.wikipedia.org/wiki/Evolutionary_psychology )) или которые представляют собой некоторую форму биологической энергии (например, жизненная энергия), энергия в философии  (https://pl.wikipedia.org/wiki/Energia_(filozofia) ), действие (https://pl.wikipedia.org/wiki/Akt_(filozofia) ), или жизненная сила (https://pl.wikipedia.org/wiki/Siła_życiowa ), стремящаяся сохранить равновесие (как, например, в динамической психологии (https://en.wikipedia.org/wiki/Psychoanalysis ) (это фрейд)).
       
         [pl] Другие концепции пытаются объяснить поведение посредством законов обусловленности (https://pl.wikipedia.org/wiki/Warunkowanie ) и распределения подкреплений (например, бихевиоризм (https://en.wikipedia.org/wiki/Behaviorism )).
       
@@ -1901,7 +1900,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
 
         Я: Здесь стоит упомянуть, что подразумевается работа обычных программ в программировании, которые фактически выполняют последовательную обработку комманд (даже параллельная работа на нескольких ядрах процессора по сути является последовательной). А компьютерная (математическая) модель нейронных сетей, хотя работает тоже последовательно, но представляет собой совсем другой тип программ, в них нет явных условных операторов или циклов, нет явного алгоритма (алгоритм есть, но зависит от данных, на которых обучается сеть; нейросеть выявляет связи в данных и потом использует эти связи в генерации ответа).
 
-        [pl] Одним из наиболее часто приводимых примеров такой модели является теория Аткинсона и Шиффрина (https://en.wikipedia.org/wiki/Atkinson%E2%80%93Shiffrin_memory_model ) (ниже написано, что "многие утверждения этой теории не подтверждаются), разделяющая память на три «коробочки» — сенсорную (https://en.wikipedia.org/wiki/Sensory_memory ), кратковременную (https://en.wikipedia.org/wiki/Short-term_memory ) и долговременную (https://en.wikipedia.org/wiki/Long-term_memory ) память. Упрощенная схема выглядит следующим образом: регистрация стимула -> отдельное хранилище сенсорной памяти для каждого чувства -> хранилище кратковременной памяти, общее для всех органов чувств -> хранилище долговременной памяти или забывание: условная инструкция направляет информацию в хранилище долговременной памяти, если она повторялись в кратковременной памяти или направляют информацию в небытие, если они не повторялись. Эта теория также постулирует существование чего-то вроде «генератора ответов», который запускает соответствующее поведение, основанное на активности хранилищ памяти, и позволяет передавать информацию из долговременной памяти в кратковременную.
+        [pl] Одним из наиболее часто приводимых примеров такой модели является теория Аткинсона и Шиффрина (https://en.wikipedia.org/wiki/Atkinson–Shiffrin_memory_model ) (ниже написано, что "многие утверждения этой теории не подтверждаются), разделяющая память на три «коробочки» — сенсорную (https://en.wikipedia.org/wiki/Sensory_memory ), кратковременную (https://en.wikipedia.org/wiki/Short-term_memory ) и долговременную (https://en.wikipedia.org/wiki/Long-term_memory ) память. Упрощенная схема выглядит следующим образом: регистрация стимула -> отдельное хранилище сенсорной памяти для каждого чувства -> хранилище кратковременной памяти, общее для всех органов чувств -> хранилище долговременной памяти или забывание: условная инструкция направляет информацию в хранилище долговременной памяти, если она повторялись в кратковременной памяти или направляют информацию в небытие, если они не повторялись. Эта теория также постулирует существование чего-то вроде «генератора ответов», который запускает соответствующее поведение, основанное на активности хранилищ памяти, и позволяет передавать информацию из долговременной памяти в кратковременную.
         [pl] Хотя утверждения этой теории во многих ситуациях не подтверждаются, деление памяти на кратковременную и долговременную, вероятно, является одним из самых известных «открытий» психологии, а также имеет и другие аргументы в поддержку. это не вытекает исключительно из этой концепции. Психологи искали доказательства, подтверждающие такие концепции, в различных областях, не только в лаборатории когнитивной психологии, например, теория Аткинсона и Шиффрин также относилась к нейропсихологическим исследованиям . 
 
         [pl] Однако, если представить поведение в виде условных инструкций, то нам пришлось бы рассматривать огромное, даже бесконечное, количество вложенных инструкций, то есть тех, которые делают выполнение команд, указанных условием, зависимым от дополнительных условий. Эти дополнительные инструкции должны будут учитывать, помимо конкретных стимулов и возможных реакций, также зависящие от контекста альтернативные значения стимулов и связанные с ними альтернативные реакции. (Представьте себе футбол: "если передо мной мяч и впереди ворота, то ...", "если вратарь находится слева, то ...".) Более того, другие инструкции должны были бы модифицировать само выполнение реакции исходя из темперамента (https://en.wikipedia.org/wiki/Temperament ), а также учитывать влияние настроения (https://en.wikipedia.org/wiki/Mood_(psychology) ), личности (https://en.wikipedia.org/wiki/Personality ), предыдущего опыта и т. д.
@@ -2936,7 +2935,8 @@ https://en.wikipedia.org/wiki/Multistable_perception
         * [zh] Когнитивная карта (https://en.wikipedia.org/wiki/Cognitive_map )
         * [pt] Ментальные модели (https://en.wikipedia.org/wiki/Mental_model )
 
-      [en][zh][simple] Психолингвистика / Язык
+
+      [en][zh][simple] Язык / Психолингвистика
         https://en.wikipedia.org/wiki/Language
         [simple] https://en.wikipedia.org/wiki/Psycholinguistics
         * [en][zh][pt] Освоение языка (https://en.wikipedia.org/wiki/Language_acquisition )
@@ -2970,7 +2970,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
         * [pt] Долговременная память  (https://pt.wikipedia.org/wiki/Memória_de_longo_prazo )
         * [en][zh] Семантическая память  (https://en.wikipedia.org/wiki/Semantic_memory )
         * [en][zh] Кратковременная память  (https://en.wikipedia.org/wiki/Short-term_memory )
-        * [en] Ошибка контроля источника  (https://(en.wikipedia.org/wiki/Source-monitoring_error )
+        * [en] Ошибка контроля источника  (https://en.wikipedia.org/wiki/Source-monitoring_error )
         * [en][zh] Интервальное повторение  (https://en.wikipedia.org/wiki/Spaced_repetition )
         * [en][zh] Оперативная память  (https://en.wikipedia.org/wiki/Working_memory )
         * [zh] Теория обработки информации (https://en.wikipedia.org/wiki/Information_processing_theory )  (это точно в память?? китайская вики)
@@ -2993,7 +2993,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
         * [zh] Апофения (https://en.wikipedia.org/wiki/Apophenia )
         * [zh] Мультистабильное восприятие (https://en.wikipedia.org/wiki/Multistable_perception )
 
-      [simple]Обучение
+      [simple] Обучение
         [simple] https://en.wikipedia.org/wiki/Learning
 
       [en][zh][simple] Мышление
@@ -3032,16 +3032,649 @@ https://en.wikipedia.org/wiki/Multistable_perception
 
 
     see also:
-
+https://cs.wikipedia.org/wiki/Psychický_proces
+https://de.wikipedia.org/wiki/Erkenntnis
+https://de.wikipedia.org/wiki/Erleben
+https://de.wikipedia.org/wiki/Hirnareal
+https://de.wikipedia.org/wiki/Neuropsychologische_Syndrome
+https://de.wikipedia.org/wiki/Psychogenese
+https://de.wikipedia.org/wiki/Reflexion_(Philosophie)
+https://de.wikipedia.org/wiki/Urteil_(Logik)
+https://de.wikipedia.org/wiki/Vorstellung
+https://en.wikipedia.org/wiki/Aaron_Beck
+https://en.wikipedia.org/wiki/Abnormal_psychology
+https://en.wikipedia.org/wiki/Abstraction
+https://en.wikipedia.org/wiki/Acoustics
+https://en.wikipedia.org/wiki/Action_(philosophy)
+https://en.wikipedia.org/wiki/Advanced_Personalized_Learning
+https://en.wikipedia.org/wiki/Aging_and_memory
+https://en.wikipedia.org/wiki/Albert_Bandura
+https://en.wikipedia.org/wiki/Alexander_Luria
+https://en.wikipedia.org/wiki/Ambiguous_image
+https://en.wikipedia.org/wiki/Amnesia
+https://en.wikipedia.org/wiki/Amos_Tversky
+https://en.wikipedia.org/wiki/Animal
+https://en.wikipedia.org/wiki/Animal_cognition
+https://en.wikipedia.org/wiki/Anthropology
+https://en.wikipedia.org/wiki/Aphasia
+https://en.wikipedia.org/wiki/Apophenia
+https://en.wikipedia.org/wiki/Applied_psychology
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Associationism
+https://en.wikipedia.org/wiki/Atkinson–Shiffrin_memory_model
+https://en.wikipedia.org/wiki/Attention
+https://en.wikipedia.org/wiki/Attention#Multitasking_and_divided_attention
+https://en.wikipedia.org/wiki/Auditory_cortex
+https://en.wikipedia.org/wiki/Autobiographical_memory
+https://en.wikipedia.org/wiki/B._F._Skinner
+https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory
+https://en.wikipedia.org/wiki/Behavior
+https://en.wikipedia.org/wiki/Behavioral_economics
+https://en.wikipedia.org/wiki/Behavioral_Sciences
+https://en.wikipedia.org/wiki/Behavioral_script
+https://en.wikipedia.org/wiki/Behaviorism
+https://en.wikipedia.org/wiki/Belief
+https://en.wikipedia.org/wiki/Big_Five_personality_traits
+https://en.wikipedia.org/wiki/Biological_computing
+https://en.wikipedia.org/wiki/Black_box
+https://en.wikipedia.org/wiki/Bottom–up_and_top–down_design
+https://en.wikipedia.org/wiki/Brain
+https://en.wikipedia.org/wiki/Brain_science
+https://en.wikipedia.org/wiki/Broca%27s_area
+https://en.wikipedia.org/wiki/Carl_Wernicke
+https://en.wikipedia.org/wiki/Categorization
+https://en.wikipedia.org/wiki/Causality
+https://en.wikipedia.org/wiki/Chemical_substance
+https://en.wikipedia.org/wiki/Childhood_memory
+https://en.wikipedia.org/wiki/Choice
+https://en.wikipedia.org/wiki/Chomsky_hierarchy
+https://en.wikipedia.org/wiki/Chunking_(psychology)
+https://en.wikipedia.org/wiki/Civilization
+https://en.wikipedia.org/wiki/Clark_L._Hull
+https://en.wikipedia.org/wiki/Classical_conditioning
+https://en.wikipedia.org/wiki/Claude_Shannon
+https://en.wikipedia.org/wiki/Clinical_psychology
+https://en.wikipedia.org/wiki/Cocktail_party_effect
+https://en.wikipedia.org/wiki/Cognition
+https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
+https://en.wikipedia.org/wiki/Cognitive_behavior_therapy
+https://en.wikipedia.org/wiki/Cognitive_bias
+https://en.wikipedia.org/wiki/Cognitive_capacities
+https://en.wikipedia.org/wiki/Cognitive_control
+https://en.wikipedia.org/wiki/Cognitive_development
+https://en.wikipedia.org/wiki/Cognitive_ergonomics
+https://en.wikipedia.org/wiki/Cognitive_linguistics
+https://en.wikipedia.org/wiki/Cognitive_map
+https://en.wikipedia.org/wiki/Cognitive_model
+https://en.wikipedia.org/wiki/Cognitive_module
+https://en.wikipedia.org/wiki/Cognitive_neuroscience
+https://en.wikipedia.org/wiki/Cognitive_psychology
+https://en.wikipedia.org/wiki/Cognitive_revolution
+https://en.wikipedia.org/wiki/Cognitive_science
+https://en.wikipedia.org/wiki/Cognitive_science)
+https://en.wikipedia.org/wiki/Cognitive_style).
+https://en.wikipedia.org/wiki/Cognitive_therapy
+https://en.wikipedia.org/wiki/Cognitivism_(psychology)
+https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Comparative_psychology
+https://en.wikipedia.org/wiki/Computational_neuroscience
+https://en.wikipedia.org/wiki/Computational_theory_of_mind
+https://en.wikipedia.org/wiki/Computational_thinking
+https://en.wikipedia.org/wiki/Computer_science
+https://en.wikipedia.org/wiki/Concept
+https://en.wikipedia.org/wiki/Concept_formation
+https://en.wikipedia.org/wiki/Concept_learning
+https://en.wikipedia.org/wiki/Connectionism
+https://en.wikipedia.org/wiki/Consciousness
+https://en.wikipedia.org/wiki/Constructive_memory
+https://en.wikipedia.org/wiki/Constructivism_(psychological_school)
+https://en.wikipedia.org/wiki/Correlation
+https://en.wikipedia.org/wiki/Creativity
+https://en.wikipedia.org/wiki/Critical_realism_(philosophy_of_perception)
+https://en.wikipedia.org/wiki/Cybernetics
+https://en.wikipedia.org/wiki/Daniel_David
+https://en.wikipedia.org/wiki/Daniel_Kahneman
+https://en.wikipedia.org/wiki/David_Bohm
+https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)
+https://en.wikipedia.org/wiki/Decay_theory)
+https://en.wikipedia.org/wiki/Decision-making
+https://en.wikipedia.org/wiki/Decision_theory
+https://en.wikipedia.org/wiki/Declarative_knowledge
+https://en.wikipedia.org/wiki/Declarative_memory
+https://en.wikipedia.org/wiki/Deductive_reasoning
+https://en.wikipedia.org/wiki/Deep_structure_and_surface_structure
+https://en.wikipedia.org/wiki/Depth_psychology
+https://en.wikipedia.org/wiki/Desire
+https://en.wikipedia.org/wiki/Developmental_psychology
+https://en.wikipedia.org/wiki/Donald_Broadbent
+https://en.wikipedia.org/wiki/Donald_O._Hebb
+https://en.wikipedia.org/wiki/Dual-coding_theories
+https://en.wikipedia.org/wiki/Dual-coding_theory
+https://en.wikipedia.org/wiki/Dual_process_theory
+https://en.wikipedia.org/wiki/Dynamical_system
+https://en.wikipedia.org/wiki/Dyslexia
+https://en.wikipedia.org/wiki/Ecological_psychology
+https://en.wikipedia.org/wiki/Economics
+https://en.wikipedia.org/wiki/Economy
+https://en.wikipedia.org/wiki/Educational_psychology
+https://en.wikipedia.org/wiki/Edward_C._Tolman
+https://en.wikipedia.org/wiki/Electroencephalography
+https://en.wikipedia.org/wiki/Embodied_cognition
+https://en.wikipedia.org/wiki/Emotion
+https://en.wikipedia.org/wiki/Emotion_and_memory
+https://en.wikipedia.org/wiki/Empirical_evidence
+https://en.wikipedia.org/wiki/Empirical_science
+https://en.wikipedia.org/wiki/Empiricism
+https://en.wikipedia.org/wiki/Encoding_(memory)
+https://en.wikipedia.org/wiki/Engineering_psychology
+https://en.wikipedia.org/wiki/Episodic_memory
+https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Ergonomics
+https://en.wikipedia.org/wiki/Ethology
+https://en.wikipedia.org/wiki/Evolutionary_psychology
+https://en.wikipedia.org/wiki/Executive_functions
+https://en.wikipedia.org/wiki/Experience
+https://en.wikipedia.org/wiki/Experiment
+https://en.wikipedia.org/wiki/Experimental_psychology
+https://en.wikipedia.org/wiki/Expert
+https://en.wikipedia.org/wiki/Explicit_memory
+https://en.wikipedia.org/wiki/Explicit_memory;
+https://en.wikipedia.org/wiki/Expressive_aphasia
+https://en.wikipedia.org/wiki/Expressive_aphasia)
+https://en.wikipedia.org/wiki/Eyewitness_memory
+https://en.wikipedia.org/wiki/Eye_tracking
+https://en.wikipedia.org/wiki/Faith
+https://en.wikipedia.org/wiki/False_memories
+https://en.wikipedia.org/wiki/False_memory
+https://en.wikipedia.org/wiki/Falsifiability
+https://en.wikipedia.org/wiki/Feeling
+https://en.wikipedia.org/wiki/Fixation_(visual)
+https://en.wikipedia.org/wiki/Fixed_action_pattern
+https://en.wikipedia.org/wiki/Flashbulb_memory
+https://en.wikipedia.org/wiki/Forensic_psychology
+https://en.wikipedia.org/wiki/Forgetting
+https://en.wikipedia.org/wiki/Form_perception
+https://en.wikipedia.org/wiki/Frederic_Bartlett
+https://en.wikipedia.org/wiki/Frequency
+https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)
+https://en.wikipedia.org/wiki/Functional_psychology
+https://en.wikipedia.org/wiki/Generative_grammar
+https://en.wikipedia.org/wiki/Genetic_epistemology
+https://en.wikipedia.org/wiki/George_Armitage_Miller
+https://en.wikipedia.org/wiki/Gestalt_psychology
+https://en.wikipedia.org/wiki/Glasser%27s_choice_theory )
+https://en.wikipedia.org/wiki/Goal_orientation
+https://en.wikipedia.org/wiki/Gordon_Moskowitz
+https://en.wikipedia.org/wiki/Grammar)
+https://en.wikipedia.org/wiki/Hearing
+https://en.wikipedia.org/wiki/Heritability
+https://en.wikipedia.org/wiki/Heuristic
+https://en.wikipedia.org/wiki/History_of_psychology
+https://en.wikipedia.org/wiki/Holographic_consciousness
+https://en.wikipedia.org/wiki/Holonomic_brain_theory
+https://en.wikipedia.org/wiki/Human_behavior
+https://en.wikipedia.org/wiki/Human_biology
+https://en.wikipedia.org/wiki/Hypothesis
+https://en.wikipedia.org/wiki/Illusion
+https://en.wikipedia.org/wiki/Imagination
+https://en.wikipedia.org/wiki/Implicit_memory
+https://en.wikipedia.org/wiki/Inductive_reasoning
+https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology
+https://en.wikipedia.org/wiki/Inference
+https://en.wikipedia.org/wiki/Information
+https://en.wikipedia.org/wiki/Information_processing_(psychology)
+https://en.wikipedia.org/wiki/Information_processing_theory
+https://en.wikipedia.org/wiki/Information_science
+https://en.wikipedia.org/wiki/Information_system
+https://en.wikipedia.org/wiki/Information_theory
+https://en.wikipedia.org/wiki/Instinct
+https://en.wikipedia.org/wiki/Intelligence
+https://en.wikipedia.org/wiki/Intelligent_agent
+https://en.wikipedia.org/wiki/Intensity_(physics)
+https://en.wikipedia.org/wiki/Interdependence
+https://en.wikipedia.org/wiki/Interference_theory).
+https://en.wikipedia.org/wiki/Intermediate-term_memory
+https://en.wikipedia.org/wiki/Introspection
+https://en.wikipedia.org/wiki/Intuition
+https://en.wikipedia.org/wiki/James_J._Gibson
+https://en.wikipedia.org/wiki/Jean_Piage
+https://en.wikipedia.org/wiki/Jean_Piaget
+https://en.wikipedia.org/wiki/Johann_Friedrich_Herbart
+https://en.wikipedia.org/wiki/John_Robert_Anderson_(psychologist)
+https://en.wikipedia.org/wiki/Judgement
+https://en.wikipedia.org/wiki/Jungian_cognitive_functions
+https://en.wikipedia.org/wiki/Karl_H._Pribram
+https://en.wikipedia.org/wiki/Karl_Lashley
+https://en.wikipedia.org/wiki/Knowledge
+https://en.wikipedia.org/wiki/Knowledge_organization
+https://en.wikipedia.org/wiki/Knowledge_representation
+https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+https://en.wikipedia.org/wiki/Kurt_Koffka
+https://en.wikipedia.org/wiki/Language
+https://en.wikipedia.org/wiki/Language_acquisition
+https://en.wikipedia.org/wiki/Language_acquisition), отдельные компоненты формирования языка (например, фонемы (
+https://en.wikipedia.org/wiki/Language_development
+https://en.wikipedia.org/wiki/Language_of_thought_hypothesis
+https://en.wikipedia.org/wiki/Language_processing
+https://en.wikipedia.org/wiki/Language_processing_in_the_brain
+https://en.wikipedia.org/wiki/Learning
+https://en.wikipedia.org/wiki/Learning_disability
+https://en.wikipedia.org/wiki/Learning_theory_(education)
+https://en.wikipedia.org/wiki/Lev_Vygotsky
+https://en.wikipedia.org/wiki/Libido
+https://en.wikipedia.org/wiki/Lifelong_learning
+https://en.wikipedia.org/wiki/Light
+https://en.wikipedia.org/wiki/Linguistics
+https://en.wikipedia.org/wiki/Linguistic_relativity
+https://en.wikipedia.org/wiki/List_of_memory_biases
+https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Logical_reasoning
+https://en.wikipedia.org/wiki/Long-term_memory
+https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
+https://en.wikipedia.org/wiki/Magnetoencephalography
+https://en.wikipedia.org/wiki/Mathematics
+https://en.wikipedia.org/wiki/Max_Wertheimer
+https://en.wikipedia.org/wiki/Measurement
+https://en.wikipedia.org/wiki/Media_psychology
+https://en.wikipedia.org/wiki/Memory
+https://en.wikipedia.org/wiki/Mental_chronometry
+https://en.wikipedia.org/wiki/Mental_chronometry)
+https://en.wikipedia.org/wiki/Mental_image
+https://en.wikipedia.org/wiki/Mental_model
+https://en.wikipedia.org/wiki/Mental_process
+https://en.wikipedia.org/wiki/Mental_processes
+https://en.wikipedia.org/wiki/Mental_state
+https://en.wikipedia.org/wiki/Metacognition
+https://en.wikipedia.org/wiki/Mind
+https://en.wikipedia.org/wiki/Mind_map
+https://en.wikipedia.org/wiki/Mind–body_dualism
+https://en.wikipedia.org/wiki/Mircea_Miclea
+https://en.wikipedia.org/wiki/Mood_(psychology)
+https://en.wikipedia.org/wiki/Morality
+https://en.wikipedia.org/wiki/Motivation
+https://en.wikipedia.org/wiki/Motor_skills
+https://en.wikipedia.org/wiki/Motor_theory_of_speech_perception
+https://en.wikipedia.org/wiki/Multistable_perception
+https://en.wikipedia.org/wiki/Naturalistic_decision-making
+https://en.wikipedia.org/wiki/Natural_language_processing
+https://en.wikipedia.org/wiki/Natural_selection
+https://en.wikipedia.org/wiki/Nature_versus_nurture
+https://en.wikipedia.org/wiki/Need
+https://en.wikipedia.org/wiki/Nervous_system
+https://en.wikipedia.org/wiki/Nervous_tissue
+https://en.wikipedia.org/wiki/Neural_circuit
+https://en.wikipedia.org/wiki/Neural_coding
+https://en.wikipedia.org/wiki/Neural_network
+https://en.wikipedia.org/wiki/Neural_network_(biology)
+https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+https://en.wikipedia.org/wiki/Neural_substrate
+https://en.wikipedia.org/wiki/Neuroanatomy
+https://en.wikipedia.org/wiki/Neuroimaging
+https://en.wikipedia.org/wiki/Neuroinformatics
+https://en.wikipedia.org/wiki/Neurolinguistics
+https://en.wikipedia.org/wiki/Neurology
+https://en.wikipedia.org/wiki/Neuromarketing
+https://en.wikipedia.org/wiki/Neuron
+https://en.wikipedia.org/wiki/Neurophysiology
+https://en.wikipedia.org/wiki/Neuropsychology
+https://en.wikipedia.org/wiki/Neuroscience
+https://en.wikipedia.org/wiki/Noam_Chomsky
+https://en.wikipedia.org/wiki/Nonlinear_system
+https://en.wikipedia.org/wiki/Numerical_cognition
+https://en.wikipedia.org/wiki/Object_permanence
+https://en.wikipedia.org/wiki/Observation
+https://en.wikipedia.org/wiki/Ontogeny
+https://en.wikipedia.org/wiki/Ontology
+https://en.wikipedia.org/wiki/Ontology_(information_science)
+https://en.wikipedia.org/wiki/Open_system_(systems_theory)
+https://en.wikipedia.org/wiki/Operant_conditioning
+https://en.wikipedia.org/wiki/Optical_illusion
+https://en.wikipedia.org/wiki/Orienting_reflex)
+https://en.wikipedia.org/wiki/Pareidolia
+https://en.wikipedia.org/wiki/Path_dependence
+https://en.wikipedia.org/wiki/Pattern_recognition
+https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
+https://en.wikipedia.org/wiki/Paul_Broca
+https://en.wikipedia.org/wiki/Pedagogy
+https://en.wikipedia.org/wiki/Perception
+https://en.wikipedia.org/wiki/Perceptual_psychology
+https://en.wikipedia.org/wiki/Personality
+https://en.wikipedia.org/wiki/Personality_psychology
+https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
+https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Philosophy_of_mind
+https://en.wikipedia.org/wiki/Phoneme
+https://en.wikipedia.org/wiki/Phonetics
+https://en.wikipedia.org/wiki/Phonology
+https://en.wikipedia.org/wiki/Physical_system
+https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development
+https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development (=&gt;?
+https://en.wikipedia.org/wiki/Positivism
+https://en.wikipedia.org/wiki/Positron_emission_tomography
+https://en.wikipedia.org/wiki/Pragmatics
+https://en.wikipedia.org/wiki/Priming_(psychology)
+https://en.wikipedia.org/wiki/Problem_solving
+https://en.wikipedia.org/wiki/Procedural_knowledge
+https://en.wikipedia.org/wiki/Procedural_memory
+https://en.wikipedia.org/wiki/Propositional_encoding
+https://en.wikipedia.org/wiki/Psyche_(psychology)
+https://en.wikipedia.org/wiki/Psychiatry
+https://en.wikipedia.org/wiki/Psychoanalysis
+https://en.wikipedia.org/wiki/Psycholinguistics
+https://en.wikipedia.org/wiki/Psychological_nativism
+https://en.wikipedia.org/wiki/Psychology
+https://en.wikipedia.org/wiki/Psychology_of_reasoning
+https://en.wikipedia.org/wiki/Psychopathology
+https://en.wikipedia.org/wiki/Psychopharmacology
+https://en.wikipedia.org/wiki/Psychophysics
+https://en.wikipedia.org/wiki/Rationalism
+https://en.wikipedia.org/wiki/Rational_choice_model
+https://en.wikipedia.org/wiki/Reading
+https://en.wikipedia.org/wiki/Reason
+https://en.wikipedia.org/wiki/Reason_(argument)
+https://en.wikipedia.org/wiki/Recall_(memory)
+https://en.wikipedia.org/wiki/Receptive_aphasia
+https://en.wikipedia.org/wiki/Receptive_aphasia)
+https://en.wikipedia.org/wiki/Recognition_memory
+https://en.wikipedia.org/wiki/Religion
+https://en.wikipedia.org/wiki/Research
+https://en.wikipedia.org/wiki/Richard_C._Atkinson
+https://en.wikipedia.org/wiki/Saccade
+https://en.wikipedia.org/wiki/Sally–Anne_test
+https://en.wikipedia.org/wiki/Schema_(psychology)
+https://en.wikipedia.org/wiki/Scholarly_method
+https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Scientific_method
+https://en.wikipedia.org/wiki/Self-reflection
+https://en.wikipedia.org/wiki/Semantics
+https://en.wikipedia.org/wiki/Semantic_memory
+https://en.wikipedia.org/wiki/Semantic_network
+https://en.wikipedia.org/wiki/Semantic_Web
+https://en.wikipedia.org/wiki/Sense
+https://en.wikipedia.org/wiki/Sense_of_smell
+https://en.wikipedia.org/wiki/Sense_of_time
+https://en.wikipedia.org/wiki/Sense_organ
+https://en.wikipedia.org/wiki/Sensory_memory
+https://en.wikipedia.org/wiki/Sensory_nervous_system
+https://en.wikipedia.org/wiki/Sentience
+https://en.wikipedia.org/wiki/Serial-position_effect
+https://en.wikipedia.org/wiki/Short-term_memory
+https://en.wikipedia.org/wiki/Sigmund_Freud
+https://en.wikipedia.org/wiki/Similarity_(psychology)
+https://en.wikipedia.org/wiki/Slime_mold
+https://en.wikipedia.org/wiki/Social_cognition
+https://en.wikipedia.org/wiki/Social_cognitive_theory
+https://en.wikipedia.org/wiki/Social_environment
+https://en.wikipedia.org/wiki/Social_influence
+https://en.wikipedia.org/wiki/Social_information_processing_(theory)
+https://en.wikipedia.org/wiki/Social_psychology
+https://en.wikipedia.org/wiki/Social_science
+https://en.wikipedia.org/wiki/Sociology
+https://en.wikipedia.org/wiki/Sound
+https://en.wikipedia.org/wiki/Source-monitoring_error
+https://en.wikipedia.org/wiki/Spaced_repetition
+https://en.wikipedia.org/wiki/Statistics
+https://en.wikipedia.org/wiki/Stimulus%E2%80%93response_model
+https://en.wikipedia.org/wiki/Stimulus-response_model
+https://en.wikipedia.org/wiki/Stimulus_(physiology)
+https://en.wikipedia.org/wiki/Stimulus_(psychology)
+https://en.wikipedia.org/wiki/Stimulus–response_model
+https://en.wikipedia.org/wiki/Storage_(memory)
+https://en.wikipedia.org/wiki/Structuralism
+https://en.wikipedia.org/wiki/Subconscious
+https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
+https://en.wikipedia.org/wiki/Symbol
+https://en.wikipedia.org/wiki/Syntactic_Structures
+https://en.wikipedia.org/wiki/Syntax
+https://en.wikipedia.org/wiki/Taxonomy
+https://en.wikipedia.org/wiki/Temperament
+https://en.wikipedia.org/wiki/Theory_of_mind
+https://en.wikipedia.org/wiki/Theory_of_Mind
+https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
+https://en.wikipedia.org/wiki/Thinking
+https://en.wikipedia.org/wiki/Thought
+https://en.wikipedia.org/wiki/Time_perception)
+https://en.wikipedia.org/wiki/Trait_theory
+https://en.wikipedia.org/wiki/Transformational_grammar
+https://en.wikipedia.org/wiki/Transpersonal_psychology
+https://en.wikipedia.org/wiki/Turing_test
+https://en.wikipedia.org/wiki/Type_physicalism
+https://en.wikipedia.org/wiki/Ulric_Neisser
+https://en.wikipedia.org/wiki/Uncertainty
+https://en.wikipedia.org/wiki/Understanding
+https://en.wikipedia.org/wiki/Unicellular_organism
+https://en.wikipedia.org/wiki/Universal_grammar
+https://en.wikipedia.org/wiki/Value_judgment
+https://en.wikipedia.org/wiki/Verbal_reasoning
+https://en.wikipedia.org/wiki/Visual_cortex
+https://en.wikipedia.org/wiki/Visual_object_recognition_(animal_test)
+https://en.wikipedia.org/wiki/Visual_perception
+https://en.wikipedia.org/wiki/Visual_processing
+https://en.wikipedia.org/wiki/Visual_thinking
+https://en.wikipedia.org/wiki/Vittorio_Guidano
+https://en.wikipedia.org/wiki/Von_Restorff_effect
+https://en.wikipedia.org/wiki/Walter_Kintsch
+https://en.wikipedia.org/wiki/Wernicke%27s_area
+https://en.wikipedia.org/wiki/Wilhelm_Wundt
+https://en.wikipedia.org/wiki/William_James
+https://en.wikipedia.org/wiki/WordNet
+https://en.wikipedia.org/wiki/Working_memory
+https://es.wikipedia.org/wiki/Psicolog%C3%ADa_Cognitiva_Posracionalista
+https://es.wikipedia.org/wiki/Psicología_Cognitiva_Posracionalista
+https://es.wikipedia.org/wiki/Psicoterapia_cognitiva_constructivista
+https://et.wikipedia.org/wiki/Hoiak
+https://et.wikipedia.org/wiki/Vaimsed_protsessid
+https://fi.wikipedia.org/wiki/Oppimisorientaatio
+https://fr.wikipedia.org/wiki/M%C3%A9moire_(sciences_humaines)
+https://fr.wikipedia.org/wiki/Représentation
+https://hy.wikipedia.org/wiki/Իմացական_գործընթացներ
+https://it.wikipedia.org/wiki/Cognitivismo_post-razionalista
+https://it.wikipedia.org/wiki/Elaborazione_umana_dell%27informazione )
+https://it.wikipedia.org/wiki/Human_Information_Processing
+https://ja.wikipedia.org/wiki/情報科学
+https://ja.wikipedia.org/wiki/新行動主義心理学
+https://ja.wikipedia.org/wiki/脳科学
+https://ja.wikipedia.org/wiki/認知
+https://nl.wikipedia.org/wiki/Begeerte
+https://nl.wikipedia.org/wiki/Herinnering
+https://nl.wikipedia.org/wiki/Hersenonderzoek
+https://no.wikipedia.org/wiki/Sosialpsykologi_(psykologi)
+https://pl.wikipedia.org/wiki/Akt_(filozofia)
+https://pl.wikipedia.org/wiki/Energia_(filozofia)
+https://pl.wikipedia.org/wiki/Poznanie
+https://pl.wikipedia.org/wiki/Rozpoznawanie
+https://pl.wikipedia.org/wiki/Siła_życiowa
+https://pl.wikipedia.org/wiki/Warunkowanie
+https://pt.wikipedia.org/wiki/Memória_de_longo_prazo
+https://ro.wikipedia.org/wiki/Analiză_ascendentă
+https://ro.wikipedia.org/wiki/Analiză_descendentă
+https://ro.wikipedia.org/wiki/Reprezentare_(psihologie)
+https://ru.wikipedia.org/wiki/E-Z_Reader
+https://ru.wikipedia.org/wiki/Величковский,_Борис_Митрофанович
+https://ru.wikipedia.org/wiki/Внимание
+https://ru.wikipedia.org/wiki/Восприятие
+https://ru.wikipedia.org/wiki/Время_реакции
+https://ru.wikipedia.org/wiki/Вюрцбургская_школа
+https://ru.wikipedia.org/wiki/Классическое_обусловливание
+https://ru.wikipedia.org/wiki/Когнитивная_психология
+https://ru.wikipedia.org/wiki/Когнитивная_система
+https://ru.wikipedia.org/wiki/Мышление
+https://ru.wikipedia.org/wiki/Нейробиология
+https://ru.wikipedia.org/wiki/Необихевиоризм
+https://ru.wikipedia.org/wiki/Образ_(информация)
+https://ru.wikipedia.org/wiki/Перцептивная_готовность
+https://ru.wikipedia.org/wiki/Семантика
+https://ru.wikipedia.org/wiki/Системная_предвзятость
+https://tr.wikipedia.org/wiki/Düşünme
+https://uk.wikipedia.org/wiki/Міркування
+https://uk.wikipedia.org/wiki/Психологія_мислення
 
 
   #endregion
 
-  https://en.wikipedia.org/wiki/Cognition (https://ru.wikipedia.org/wiki/Познание)
-    + https://pl.wikipedia.org/wiki/Poznanie
-    + https://ja.wikipedia.org/wiki/認知
+
+  #region Познание
+    https://en.wikipedia.org/wiki/Cognition (https://ru.wikipedia.org/wiki/Познание)
+      <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    Вероятно философия: https://pl.wikipedia.org/wiki/Poznanie (7 языков)
+    Пока непонятно: https://ja.wikipedia.org/wiki/認知 (ja2: здесь "познание", 1 язык; в en => ja1 "признание")
+
+    Языки:
+    перед Во всем мире
+      en    ja1     ja2    
+
+    [en] Познание — это «умственное действие или процесс приобретения знаний (https://en.wikipedia.org/wiki/Knowledge ) и понимания посредством мысли, опыта и чувств». [ 2 ] Оно охватывает все аспекты интеллектуальных (https://en.wikipedia.org/wiki/Intellect ) функций и процессов, таких как: восприятие (https://en.wikipedia.org/wiki/Perception ), внимание (https://en.wikipedia.org/wiki/Attention ), мышление (https://en.wikipedia.org/wiki/Thought ), воображение (https://en.wikipedia.org/wiki/Imagination ), интеллект (https://en.wikipedia.org/wiki/Intelligence ), формирование знаний (https://en.wikipedia.org/wiki/Knowledge ), память (https://en.wikipedia.org/wiki/Memory ) и рабочая память (https://en.wikipedia.org/wiki/Working_memory ), суждение (https://en.wikipedia.org/wiki/Value_judgment ) и оценка (https://en.wikipedia.org/wiki/Evaluation ), рассуждение (https://en.wikipedia.org/wiki/Reason ) и вычисление (https://en.wikipedia.org/wiki/Computation ), решение проблем (https://en.wikipedia.org/wiki/Problem_solving ) и принятие решений (https://en.wikipedia.org/wiki/Decision-making ), понимание (https://en.wikipedia.org/wiki/Comprehension_(logic) ) и производство языка (https://en.wikipedia.org/wiki/Language ). Когнитивные процессы используют уже имеющиеся знания для открытия новых.
+    [ja1] Познание - по сути , это философская (https://en.wikipedia.org/wiki/Philosophy ) концепция и относится к субъекту (https://ru.wikipedia.org/wiki/Субъект ) или ясному пониманию субъектом объекта (https://en.wikipedia.org/wiki/Subject_and_object_(philosophy) ). Хотя это слово почти синоним знания (https://en.wikipedia.org/wiki/Knowledge ), оно отличается от знания в повседневном языке. Знание в основном означает «результаты», полученные посредством узнавания, но узнавание — это не только результат, но и «действие», приводящее к пониманию объекта. [ 1 ]
+
+    [en] Когнитивные процессы анализируются с самых разных точек зрения в разных контекстах, особенно в таких областях, как лингвистика (https://en.wikipedia.org/wiki/Linguistics ), музыковедение (https://en.wikipedia.org/wiki/Musicology ), анестезиология (https://en.wikipedia.org/wiki/Anesthesia ), нейронаука (https://en.wikipedia.org/wiki/Neuroscience ), психиатрия (https://en.wikipedia.org/wiki/Psychiatry ), психология (https://en.wikipedia.org/wiki/Psychology ), образование (https://en.wikipedia.org/wiki/Education ), философия (https://en.wikipedia.org/wiki/Philosophy ), антропология (https://en.wikipedia.org/wiki/Anthropology ), биология (https://en.wikipedia.org/wiki/Biology ), системный подход (https://en.wikipedia.org/wiki/Systemics ), логика (https://en.wikipedia.org/wiki/Logic ) и компьютерные науки (https://en.wikipedia.org/wiki/Computer_science ). Эти и другие подходы к анализу познания (например, воплощенное познание (https://en.wikipedia.org/wiki/Embodied_cognition )) объединяются в развивающейся области когнитивной науки (https://en.wikipedia.org/wiki/Cognitive_science ), которая постепенно становится самостоятельной академической дисциплиной (https://en.wikipedia.org/wiki/Academic_discipline ).
+
+
+    [ja1] Познавательные процессы в философии
+      [ja1] В философии познание традиционно делится на эмпирическое и рациональное. В зависимости от философской системы конкретного мыслителя, выделяются такие виды познания, как интуитивное познание, эмоциональное познание, рациональное познание и интеллектуальное познание. Каждый из этих видов познания связан с определенными функциями субъективной или духовной деятельности, такими как чувство (https://en.wikipedia.org/wiki/Sentience ), интуиция (https://en.wikipedia.org/wiki/Intuition ), разум (https://en.wikipedia.org/wiki/Reason ) и интеллект (https://en.wikipedia.org/wiki/Wisdom ) (или рассудок (https://ru.wikipedia.org/wiki/Рассудок )).
+
+      [ja1] Изучение познания в философии относится к области эпистемологии (https://en.wikipedia.org/wiki/Epistemology ). В её рамках исследуются происхождение познания, его сущность, а также теории истины, для которых существует множество интерпретаций.
+
+    [ja1] Познание в психологии
+      [ja1] В науке (https://en.wikipedia.org/wiki/Science ) психологии (https://en.wikipedia.org/wiki/Psychology ) также используется понятие «познание» (Cognition). Однако, поскольку психология является научной дисциплиной, она основывается на наивном реализме (https://en.wikipedia.org/wiki/Naïve_realism ) (взгляде) на внешний мир, что отличает её подход от философского.
+      (почему наивный реализм? чисто человеческих органов чувств недостаточно)
+      
+      [ja1] В психологии и смежных областях слово и концепция «en:Cognition» иногда переводятся как «когнитивные процессы» (или "познание"? по переводу непонятно) (https://ja.wikipedia.org/wiki/認知 ). Например, такие термины, как "en:Cognitive Science" (https://en.wikipedia.org/wiki/Cognitive_science ) и "en:Cognitive Psychology" (https://en.wikipedia.org/wiki/Cognitive_psychology ), переводятся соответственно как «когнитивная наука» и «когнитивная психология», а не «наука о познании» или «психология познания». (на самом деле в последнем предложении используются именно японские названия, и вторая ссылка ведёт на ту же статью но на японском языке)
+
+
+      [ja1] Процесс познания в психологии / Когнитивные процессы в психологии
+        [ja1] В психологии познание понимается как один из психических процессов, при котором информация, полученная из внешнего мира, осмысляется (https://en.wikipedia.org/wiki/Meaning_(linguistics) ) и становится осознаваемой (https://en.wikipedia.org/wiki/Consciousness ). Здесь информация из внешнего мира воспринимается с помощью процессов восприятия (https://en.wikipedia.org/wiki/Perception ). Это восприятие формируется на основе сигналов от органов чувств (https://en.wikipedia.org/wiki/Sense ).
+
+        [ja1] Процесс осмысления восприятия включает в себя интеллектуальные способности (разум (https://en.wikipedia.org/wiki/Reason ), рассудок) и накопленные знания. При этом разные люди могут по-разному воспринимать и интерпретировать один и тот же объект.
+
+        [ja1] Следует отметить, что восприятие объекта не всегда означает его осознание или познание. Это можно сравнить с разницей между «смотреть» и «видеть». Кроме того, познание само по себе является «черным ящиком», и его можно объективно подтвердить только через действия, речь (https://en.wikipedia.org/wiki/Utterance  думаю, здесь должна была быть речь) или другие формы внешнего выражения.
+
+
+    [ja1] Познание в информационных технологиях
+      [ja1] В информационных технологиях (https://en.wikipedia.org/wiki/Computer_science_and_engineering ) познание понимается как процесс осмысления данных, полученных из внешней среды. Это включает извлечение значимых объектов из входной информации, воспринимаемой сенсорными системами или датчиками, например, изображений или звуков.
+
+      [ja1] Примером может служить технология, которая распознаёт человека на изображении и создаёт данные о том, что этот объект является человеком. Такие процессы обработки информации, выделяющие объекты из естественной среды, называют распознаванием образов (https://en.wikipedia.org/wiki/Pattern_recognition ).
+
+      [ja1] Распознавание образов находит применение в биометрической идентификации (https://en.wikipedia.org/wiki/Biometrics ), распознавании текстов (OCR) (https://en.wikipedia.org/wiki/Optical_character_recognition ), распознавании речи (https://en.wikipedia.org/wiki/Speech_recognition ) и многих других областях.
+
+
+
+    [en] Ранние исследования
+      год??
+      [en] основа современных концепций познания была заложена в эпоху Просвещения такими мыслителями, как Джон Локк (https://en.wikipedia.org/wiki/John_Locke ) и Дугальд Стюарт (https://en.wikipedia.org/wiki/Dugald_Stewart ), которые стремились разработать модель разума, в которой идеи приобретались, запоминались и обрабатывались.
+      
+      [en] В самом начале XIX века когнитивные модели развивались как в философии (https://en.wikipedia.org/wiki/Philosophy ) (особенно в рамках философии сознания (https://en.wikipedia.org/wiki/Philosophy_of_mind )), так и в медицине, особенно среди врачей, пытавшихся понять, как лечить безумие.
+  
+      [en] Ранние теоретики
+        [en] Вильгельм Вундт (https://en.wikipedia.org/wiki/Wilhelm_Wundt ) (1832–1920) делал акцент на концепции, которую он называл интроспекцией (https://en.wikipedia.org/wiki/Introspection ): изучением внутренних чувств человека. При интроспекции испытуемый должен был максимально объективно описывать свои чувства, чтобы Вундт мог считать полученную информацию научной. Хотя вклад Вундта нельзя назвать незначительным, современные психологи считают его методы слишком субъективными и предпочитают использовать более объективные экспериментальные процедуры для изучения человеческих когнитивных процессов. [ необходима цитата ]
+    
+        [en] Герман Эббингауз (https://en.wikipedia.org/wiki/Hermann_Ebbinghaus ) (1850–1909) проводил когнитивные исследования, в которых в основном изучались функции и объем человеческой памяти. Эббингауз разработал собственный эксперимент, в котором он составил более 2000 слогов из несуществующих слов (например, «EAS»). Затем он исследовал свою собственную способность запоминать эти не-слова. Он намеренно выбрал несуществующие слова, а не реальных, чтобы исключить влияние предшествующего опыта, связанного с их значением, и тем самым упростить их воспоминание. Эббингауз наблюдал и выдвинул гипотезу о ряде переменных, которые могли повлиять на его способность учить и вспоминать созданные им слоги. Одной из причин, как он заключил, было время между предъявлением списка стимулов и его воспроизведением. Эббингауз был первым, кто записал и построил « кривую обучения » (https://en.wikipedia.org/wiki/Learning_curve ) и « кривую забывания » (https://en.wikipedia.org/wiki/Forgetting_curve ). Его работа оказала большое влияние на изучение последовательной позиции и её влияния на память [ необходима ссылка ]
+    
+        [en] Мэри Уитон Калкинс (https://en.wikipedia.org/wiki/Mary_Whiton_Calkins ) (1863–1930) была влиятельным американским пионером в области психологии. Ее работа также была сосредоточена на изучении объема человеческой памяти. Распространенная теория, называемая эффектом новизны (https://en.wikipedia.org/wiki/Recency_effect 4 языка),связана с исследованиям, которые она проводила. Эффект новизны, также обсуждаемый в последующем разделе эксперимента, описывает склонность людей точно вспоминать последние элементы, представленные в последовательности стимулов. Теория Калкинс тесно связана с вышеупомянутым исследованием и выводами экспериментов памяти, проведенных Германом Эббингаузом.
+    
+        [en] Уильям Джеймс (https://en.wikipedia.org/wiki/William_James ) (1842–1910) — еще одна ключевая фигура в истории когнитивной науки. Джеймс был весьма недоволен акцентом Вундта на интроспекции и использованием Эббингаузом бессмысленных стимулов. Вместо этого он решил сосредоточиться на опыте человеческого обучения в повседневной жизни и его важности для изучения познания. Самым значительным вкладом Джеймса в изучение и теорию познания стал его учебник « Принципы психологии» , в котором предварительно рассматриваются такие аспекты познания, как восприятие, память, рассуждение и внимание. 
+
+    [en] Психология
+      [en] https://en.wikipedia.org/wiki/Cognitivism_(psychology)
+
+      [en] В психологии термин «познание» обычно используется в контексте представления психологических функций (https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind) ) индивида процессах обработки информации (https://en.wikipedia.org/wiki/Information_processing_(psychology) ). То же самое применимо и к когнитивной инженерии (https://en.wikipedia.org/wiki/Cognitive_engineering ). В исследованиях социального познания (https://en.wikipedia.org/wiki/Social_cognition ), раздела социальной психологии (https://en.wikipedia.org/wiki/Social_psychology ), этот термин используется для объяснения таких явлений, как установки (https://en.wikipedia.org/wiki/Attitude_(psychology) ), атрибуции (https://en.wikipedia.org/wiki/Attribution_(psychology) ) и групповая динамика (https://en.wikipedia.org/wiki/Group_dynamics ). Однако психологические исследования в области когнитивной науки также предложили воплощенный подход к пониманию познания. В отличие от традиционного вычислительного подхода, воплощенное познание (https://en.wikipedia.org/wiki/Embodied_cognition ) подчеркивает значительную роль тела в приобретении и развитии когнитивных способностей.
+
+      [en] Человеческое познание бывает сознательным и бессознательным (https://en.wikipedia.org/wiki/Unconscious_cognition ), конкретным (https://en.wikipedia.org/wiki/Tangibility ??) или абстрактным (https://en.wikipedia.org/wiki/Abstraction ), а также интуитивным (https://en.wikipedia.org/wiki/Intuition ) (как знание языка) и концептуальным (https://en.wikipedia.org/wiki/Conceptualism ) (как модель языка). Оно охватывает такие процессы, как память (https://en.wikipedia.org/wiki/Memory ), ассоциация (https://en.wikipedia.org/wiki/Association_of_ideas ), формирование концепций (https://en.wikipedia.org/wiki/Concept_learning ), распознавание образов (https://en.wikipedia.org/wiki/Pattern_recognition ), язык (https://en.wikipedia.org/wiki/Language ), внимание (https://en.wikipedia.org/wiki/Attention ), восприятие (https://en.wikipedia.org/wiki/Perception ), действия (https://en.wikipedia.org/wiki/Action_(philosophy) ), решение проблем (https://en.wikipedia.org/wiki/Problem_solving ) и ментальные образы (https://en.wikipedia.org/wiki/Mental_image ). Традиционно эмоции (https://en.wikipedia.org/wiki/Emotion ) не считались когнитивным процессом, но сейчас проводится много исследований для изучения когнитивной психологии эмоций. Также исследуется осознание человеком своих собственных стратегий и методов познания, что называется метапознанием (https://en.wikipedia.org/wiki/Metacognition ). Концепция познания претерпела несколько изменений в процессе развития различных дисциплин психологии. [ необходима цитата ]
+
+      [en] Психологи изначально рассматривали познание, управляющее действиями человека, как обработку информации. Это направление, известное как когнитивизм, возникло в 1950-х годах после движения бихевиоризма, которое рассматривало познание как форму поведения. Когнитивизм подходил к познанию как к форме вычислений, представляя разум как машину, а сознание — как исполнительную функцию. Однако посткогнитивизм начал развиваться в 1990-х годах, когда развитие когнитивной науки предложило теории, подчёркивающие необходимость когнитивного действия как воплощенного, расширенного и производящего динамические процессы в разуме. Развитие когнитивной психологии произошло благодаря синтезу различных теорий, и она начала исследовать эти динамические процессы разума и окружающей среды, отходя от дуалистических парадигм, где познание рассматривалось исключительно как систематические вычисления или поведение.
+
+
+      [en] Теория когнитивного развития Пиаже
+        [en] https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development
+        
+        [en] В течение многих лет социологи (https://en.wikipedia.org/wiki/List_of_sociologists ) и психологи (https://en.wikipedia.org/wiki/Psychologist ) проводили исследования когнитивного развития (https://en.wikipedia.org/wiki/Cognitive_development ), то есть формирования человеческого мышления или умственных процессов. [ необходима цитата ]
+
+        [en] Жан Пиаже (https://en.wikipedia.org/wiki/Jean_Piaget ) был одним из самых важных и влиятельных людей в области психологии развития (https://en.wikipedia.org/wiki/Developmental_psychology ). Он считал, что люди уникальны по сравнению с животными, поскольку обладают способностью к "абстрактному символическому мышлению». Его работы можно сравнить с трудами Льва Выготского (https://en.wikipedia.org/wiki/Lev_Vygotsky ), Зигмунда Фрейда (https://en.wikipedia.org/wiki/Sigmund_Freud ) и Эрика Эриксона (https://en.wikipedia.org/wiki/Erik_Erikson ), которые также внесли большой вклад в область психологии развития. Пиаже известен своими исследованиями когнитивного развития у детей. Он изучал интеллектуальное развитие своих троих детей и на основе этих наблюдений сформулировал теорию когнитивного развития (https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development ), описывающую этапы детского развития.
+        1. Сенсомоторный этап. Младенчество (0–2 года): Интеллект уже присутствует; наблюдаются моторная активность, но отсутствуют символы; знания ограничены и основываются на опыте и взаимодействиях; мобильность позволяет ребёнку узнавать новое; к концу этапа формируются некоторые языковые навыки. Цель состоит в том, чтобы развить постоянство объектов (https://en.wikipedia.org/wiki/Object_permanence ), базовое понимание причинно-следственных связей (https://en.wikipedia.org/wiki/Causality ), времени и пространства.
+        2. Предоперациональный этап. Малыши и дети раннего возраста (2–7 лет): Присутствуют навыки использования символов или языка; развиваются память и воображение; мышление необратимое и нелогичное; демонстрирует интуитивное решение проблем (https://en.wikipedia.org/wiki/Problem_solving ); начинает понимать отношения между объектами; осваивает концепцию сохранения чисел; преимущественно эгоцентрическое (https://en.wikipedia.org/wiki/Egocentrism ) мышление.
+        3. Конкретно-операциональный этап. Младший школьный возраст и ранний подростковый период (7–12 лет): Интеллект становится логичным и систематическим; ребёнок способен манипулировать символами, связанными с конкретными объектами; мышление становится обратимым, развивается способность принимать роль другого (theory of mind? способность понимать, что у других людей другие знания); осознаёт концепции массы, длины, веса и объема; мышление становится преимущественно операциональным; эгоцентричность мышления снижается.
+        4. Формально-операциональный этап. Подростковый и взрослый возраст (12 лет и старше): Логическое использование символов, связанных с абстрактными понятиями; празвивается гибкость мышления, способность к абстрактному мышлению и проверка мысленных гипотез; человек начинает учитывать альтернативные возможности при сложных рассуждениях и решении проблем.
+
+      [en] Начало познания
+        [en] Исследования когнитивного развития у детей охватывают также эмбриональный период, чтобы понять, когда появляется познание и какие факторы окружающей среды стимулируют формирование человеческого мышления или умственных процессов. Исследования показывают, что уже в утробе плода можно наблюдать намеренное взаимодействие с окружающей средой, что свидетельствует о когнитивных достижениях.
+
+        [en] Однако организмы с простыми рефлексами не способны самостоятельно осознавать окружающую среду, так как она представляет собой какофонию стимулов (электромагнитные волны, химические взаимодействия, колебания давления). Их восприятие слишком ограничено шумом, чтобы решить проблему выбора релевантного стимула: значимый сигнал не может преодолеть уровень шума, если он проходит через сенсорные органы (см. проблему связывания (https://en.wikipedia.org/wiki/Binding_problem )). Плоду необходима внешняя помощь для стимуляции его нервной системы в выборе релевантных сенсорных стимулов для восприятия объектов.
+
+        [en] Подход общей намеренности (https://en.wikipedia.org/wiki/Shared_intentionality ) предлагает возможное объяснение развития восприятия на этом раннем этапе. Первоначально Майкл Томаселло ввел психологический конструкт (https://en.wikipedia.org/wiki/Construct_(philosophy) ) "общей намеренности" (https://en.wikipedia.org/wiki/Shared_intentionality ), подчеркивая его вклад в когнитивное развитие с момента рождения. Этот механизм включает неосознанное взаимодействие в диаде "мать-ребенок" для обучения в окружающей среде. Позже Игорь Вал Данилов развил эту концепцию, расширив её до внутриутробного периода и уточнив нейрофизиологические (https://en.wikipedia.org/wiki/Neurophysiology ) процессы, лежащие в основе общей намеренности. Согласно этому подходу, мать разделяет с ребенком существенный сенсорный стимул, необходимый для решения актуальной когнитивной задачи. Делая это, мать предоставляет шаблон для развития нервной системы ребенка.
+
+        [en] Недавние исследования когнитивного развития детей и прогресс в экспериментах по межмозговой нейронауке сделали эту гипотезу убедительной. На основе этих данных гипотеза общей намеренности (https://en.wikipedia.org/wiki/Shared_intentionality ) ввела понятие "доперцептивной коммуникации" в модели взаимодействия мать-плод, что обусловлено нелокальным нейронным взаимодействием.
+        
+        [en] Эта модель нелокального взаимодействия предполагает коммуникацию между двумя организмами через копирование адекватной экологической динамики биологическими системами, находящимися в одной и той же среде. Наивный субъект (плод) реплицирует информацию от опытного субъекта (матери) благодаря внутренним процессам динамических систем (https://en.wikipedia.org/wiki/Dynamical_systems_theory ) (воплощенная информация (https://en.wikipedia.org/wiki/Embodied_cognition )), без использования сенсорных сигналов. Например, сердечные сокращения матери (низкочастотный осциллятор) модулируют локальные нейронные сети как в её нервной системе, так и в нервной системе плода за счёт интерференции (https://en.wikipedia.org/wiki/Wave_interference ) низкочастотных колебаний осциллятора (сердцебиения матери) и уже существующей гамма-активности в этих нейронных сетях (интерференция в физике - это комбинация двух или более электромагнитных волн для формирования результирующей волны). Таким образом, подсознательное восприятие у плода формируется благодаря общей намеренности с матерью, что стимулирует познание даже до рождения.
+
+        [en] Ещё одним важным аспектом понимания начала познания является хранение памяти о релевантной экологической динамике наивной нервной системой (т. е. запоминание экологических условий релевантного сенсорного стимула) на молекулярном уровне — энграмма. Доказательства, полученные с использованием оптической визуализации (https://en.wikipedia.org/wiki/Medical_optical_imaging ), молекулярно-генетических (https://en.wikipedia.org/wiki/Molecular_genetics ) и оптогенетических (https://en.wikipedia.org/wiki/Optogenetics ) технологий в сочетании с поведенческими анализами, подтверждают идею о том, что изменение силы связей между нейронами является одним из основных механизмов хранения энграмм в мозге.
+
+        [en] Два (или более) возможных механизма познания могут включать как квантовые эффекты , так и синхронизацию структур мозга благодаря электромагнитной интерференции.
+
+      [en] Распространенные типы тестов на познавательные способности человека
+        [en] Эффект серийной позиции
+          [en] Эффект серийной позиции (Эффект края) (https://en.wikipedia.org/wiki/Serial-position_effect ) предназначен для проверки теории памяти, которая утверждает, что информация, представленная в последовательном порядке, лучше запоминается в начале последовательности (эффект первичности) и в конце (эффект новизны). Информация из середины обычно забывается или вспоминается сложнее. Исследование предполагает, что эффект новизны сильнее, чем эффект первичности, так как информация, полученная последней, всё ещё находится в рабочей памяти в момент её воспроизведения. Напротив, информация из начала последовательности требует процесса извлечения из памяти. Этот эксперимент направлен на изучение процессов человеческой памяти.
+
+        [en] Эффект превосходства слова
+          [en] Эксперимент на эффект превосходства слова (https://en.wikipedia.org/wiki/Word_superiority_effect ) представляет испытуемому слово или одну букву в течение короткого времени (например, 40 миллисекунд), после чего его просят вспомнить букву, находившуюся на определённой позиции в слове. Теоретически испытуемый лучше вспомнит букву, если она была представлена в составе слова, а не изолированно. Эксперимент изучает речь и язык человека.
+
+        [en] Эксперимент Брауна–Петерсона
+          [en] В эксперименте по когомологии Брауна–Петерсона (https://en.wikipedia.org/wiki/Brown–Peterson_cohomology ) участникам кратковременно показывают триграмму (набор из трёх букв), а затем дают отвлекающее задание, например, определить, является ли последовательность слов корректными словами или бессмысленными сочетаниями (с ошибками). После выполнения задания участника просят вспомнить изначальную триграмму. Предполагается, что чем дольше длится отвлекающее задание, тем сложнее испытуемым вспомнить триграмму. Эксперимент направлен на изучение кратковременной памяти (https://en.wikipedia.org/wiki/Short-term_memory ) человека.
+
+        [en] Объём памяти
+          [en] Во время эксперимента по объему памяти (https://en.wikipedia.org/wiki/Memory_span ) каждому испытуемому последовательно показывают стимулы (https://en.wikipedia.org/wiki/Stimulus_(physiology) ) одного типа: слова, цифры, буквы, которые звучат похоже, и буквы, которые звучат по-разному. После предъявления стимулов испытуемому предлагается вспомнить последовательность стимулов, которые ему были даны, в том же порядке, в котором они были даны. В одной из версий эксперимента, если последовательность была воспроизведена верно, её длина увеличивается на один, а при ошибке – уменьшается. Теория предполагает, что объём памяти для цифр составляет около семи элементов, то же самое касается букв, не схожих по звучанию, и коротких слов. Однако для букв, звучащих похоже, и длинных слов объём памяти оказывается меньше. (это не ошибка перевода? почеиу похожие буквы оказываются меньше?)
+
+        [en] Визуальный поиск
+          [en] В одной из версий эксперимента по визуальному поиску (https://en.wikipedia.org/wiki/Visual_search ) участнику показывают окно с разбросанными по нему кругами и квадратами. Участник должен определить, есть ли среди объектов зелёный круг. В простом поиске по признакам предъявляются окна, содержащие синие фигуры и, возможно, один зелёный круг. В усложнённом конъюнктивном (https://en.wikipedia.org/wiki/Conjunctive_tasks ) поиске предъявляются окна с синими кругами, зелёными квадратами и, возможно, одним зелёным кругом. Ожидается, что в простом поиске по признакам время реакции (время, за которое участник определяет наличие зелёного круга) не изменится с увеличением числа отвлекающих объектов (из-за различия цвета фигур, только треугольник зелёный). В усложнённом конъюнктивном поиске время реакции должно увеличиваться, если зелёный круг отсутствует, так как требуется проверить каждую фигуру (из-за зелёных квадратов). Теория заключается в том, что в простом поиске признаков легко обнаружить наличие цель или, из-за разницы в цвете между целью и отвлекающими факторами. В усложнённом поиске, если цель присутствует поиск прекращается, как только цель найдена.
+
+        [en] Представление знаний
+          [en] Семантические сети (https://en.wikipedia.org/wiki/Semantic_network ), описывающие представление знаний (https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning ), изучались в разных парадигмах. Одной из первых стал эксперимент по искажению и структурированию (https://en.wikipedia.org/wiki/Leveling_and_sharpening ) рассказов при их повторении по памяти, проведённый Бартлеттом (https://en.wikipedia.org/wiki/Frederic_Bartlett ). Семантический дифференциал (https://en.wikipedia.org/wiki/Semantic_differential ) с использованием факторного анализа (https://en.wikipedia.org/wiki/Factor_analysis ) выявил, что этическая ценность (https://en.wikipedia.org/wiki/Value_(ethics) ) слов — это главный фактор. Более контролируемые эксперименты изучают категориальные отношения слов при свободном припоминании (https://en.wikipedia.org/wiki/Free_recall ). Иерархическая структура слов была явно описана в WordNet (https://en.wikipedia.org/wiki/WordNet ) Джорджа Миллера (https://en.wikipedia.org/wiki/George_Armitage_Miller ). Более динамичные модели семантических сетей были созданы и протестированы с использованием вычислительных систем, таких как нейронные сети (https://en.wikipedia.org/wiki/Neural_network_(machine_learning) ), латентный семантический анализ (LSA) (https://en.wikipedia.org/wiki/Latent_semantic_analysis ), байесовский анализ (https://en.wikipedia.org/wiki/Bayesian_inference ) и многомерный факторный анализ. Значения слов изучаются всеми дисциплинами когнитивных наук (https://en.wikipedia.org/wiki/Cognitive_science ).
+
+      [en] Метапознание
+        [en] https://en.wikipedia.org/wiki/Metacognition
+
+        [en] Метакогниция — это осознание собственных мыслительных процессов и понимание закономерностей, лежащих в их основе. Метакогниция может проявляться в различных формах, например, в размышлениях о способах собственного мышления или в осознании того, когда и как человек сам или другие используют определённые стратегии для решения задач.
+        [en] В метакогниции обычно выделяют два основных компонента:
+        * Когнитивные представления.
+        * Система когнитивной регуляции.
+        [en] Исследования показывают, что оба компонента играют ключевую роль в метаконцептуальных знаниях и обучении.[59][60][58] Важным аспектом метакогниции является метапамять, которая определяется как знание о памяти и мнемонических стратегиях.
+
+
+      [en] Улучшение познавательных способностей
+        [en] Физическая активность / Физические упражнения
+          [en] Аэробные и анаэробные упражнения (https://en.wikipedia.org/wiki/Anaerobic_exercise ) изучались в контексте улучшения когнитивных способностей. Некоторые исследования показывают кратковременное увеличение концентрации внимания, а также улучшение вербальной и визуальной памяти. Однако эти эффекты носят временный характер и исчезают после прекращения физической активности. У людей с болезнью Паркинсона наблюдалось улучшение когнитивных функций при занятиях велоспортом, особенно при сочетании с другими когнитивными задачами.
+          
+
+        [en] Диетические добавки
+          [en] Исследования, оценивающие влияние фитоэстрогенов (https://en.wikipedia.org/wiki/Phytoestrogen ), добавок черники и антиоксидантов, показали незначительное улучшение когнитивных функций после их применения, однако эффект не был значительным по сравнению с плацебо (https://en.wikipedia.org/wiki/Placebo ). Другое исследование влияния травяных и диетических добавок на когнитивные способности у женщин в период менопаузы показало, что добавки из сои и гинкго билоба могут улучшать когнитивные функции у женщин.
+          
+        [en] Приятная социальная стимуляция
+          [en] Ежедневное вовлечение людей с когнитивными нарушениями (например, деменцией (https://en.wikipedia.org/wiki/Dementia )) в активные занятия, направленные на стимуляцию мышления и памяти в социальной обстановке, может улучшить когнитивные способности. Хотя размеры выборок в исследованиях небольшие и необходимы более масштабные исследования для подтверждения результатов, эффект от социальной когнитивной стимуляции кажется более значительным, чем эффект некоторых лекарственных препаратов.
+
+        [en] Другие методы
+          [en] Транскраниальная магнитная стимуляция (TMS) (https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation ) показала улучшение когнитивных способностей у людей без деменции через месяц после сеанса лечения по сравнению с показателями до лечения. Однако эффект не был существенно больше, чем у плацебо. Компьютерная когнитивная тренировка, предполагающая использование компьютерных программ для тренировки различных когнитивных функций, также была изучена в клинических условиях, но устойчивого эффекта не выявлено.
+
+
+    see also
+
+https://en.wikipedia.org/wiki/Sentience
+https://en.wikipedia.org/wiki/Wisdom
+https://en.wikipedia.org/wiki/Perception
+https://en.wikipedia.org/wiki/Memory
+https://en.wikipedia.org/wiki/Understanding
+https://en.wikipedia.org/wiki/Learning
+https://en.wikipedia.org/wiki/Cognitive_science
+https://en.wikipedia.org/wiki/Just-noticeable_difference
+https://en.wikipedia.org/wiki/Aesthetics
+
+
+  #endregion
+
+  https://en.wikipedia.org/wiki/Outline_of_human_intelligence
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Outline_of_thought
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
+  https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes => https://en.wikipedia.org/wiki/Cognition
     английская статья перенаправляет на познание, но здесь есть статьи на других языках
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://cs.wikipedia.org/wiki/Psychický_proces
@@ -3060,7 +3693,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
   https://en.wikipedia.org/wiki/Long-term_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   [pt] (https://pt.wikipedia.org/wiki/Memória_de_longo_prazo )
-  https://(en.wikipedia.org/wiki/Short-term_memory
+  https://en.wikipedia.org/wiki/Short-term_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://fr.wikipedia.org/wiki/M%C3%A9moire_(sciences_humaines)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3394,7 +4027,7 @@ https://en.wikipedia.org/wiki/Multistable_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pragmatics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://(en.wikipedia.org/wiki/Source-monitoring_error
+  https://en.wikipedia.org/wiki/Source-monitoring_error
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Spaced_repetition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3598,8 +4231,6 @@ https://en.wikipedia.org/wiki/Multistable_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_bias_mitigation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Evolutionary_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Political_psychology
@@ -3665,6 +4296,20 @@ https://en.wikipedia.org/wiki/Multistable_perception
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Water-level_task
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_computing
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Cognitive_liberty
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Cognitive_musicology
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Comparative_cognition
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Cognitive_shuffle
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Information_technology_and_aging
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Shared_intentionality
+    <= https://en.wikipedia.org/wiki/Cognition
 
   #region https://en.wikipedia.org/wiki/Neuropsychoanalysis
   https://en.wikipedia.org/wiki/Sigmund_Freud
@@ -5371,6 +6016,13 @@ https://en.wikipedia.org/wiki/List_of_philosophies
 https://en.wikipedia.org/wiki/Anti-psychologism
   <= ?? (полный список чего?)
 https://ru.wikipedia.org/wiki/Категория:Философия
+
+https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Epistemology
+https://en.wikipedia.org/wiki/Idealism
+https://en.wikipedia.org/wiki/Philosophical_realism
+https://en.wikipedia.org/wiki/Subjectivity + https://ja.wikipedia.org/wiki/主観  субъективность
+https://en.wikipedia.org/wiki/Objectivity_(philosophy) + https://ja.wikipedia.org/wiki/客観   объективность
 
 
 https://ru.wikipedia.org/wiki/Науковедение
