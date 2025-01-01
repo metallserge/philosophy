@@ -917,7 +917,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   1. Базовые термины (основы работы мозга и психики):
 
-  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг)
+  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
 
 
   Информация – нематериальная сущность, при помощи которой с любой точностью можно описывать реальные материальные), виртуальные возможные) и понятийные сущности. Иначе, информация - сведения об объектах и явлениях окружающей среды, их параметрах, свойствах и состоянии, которые уменьшают имеющуюся о них степень неопределенности, неполноты знаний.
@@ -977,7 +977,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     Возможно ты уже успел подумать про восприятие речи, текстов, символов и отнести его к первичному восприятию, но это не так. Такое Семантическое восприятие базируется на Сенсорном восприятии (слух, зрение), и в распознавании слов участвует уже Когнитивное восприятие.
 
     #region Сенсорное восприятие (чувствительное восприятие, восприятие ощущений)
-      https://en.wikipedia.org/wiki/Sense (https://ru.wikipedia.org/wiki/Ощущение)
+      https://en.wikipedia.org/wiki/Sense (https://ru.wikipedia.org/wiki/Ощущение )
 
       Сенсорное восприятие (чувствительное восприятие, восприятие ощущений) — первичный этап получения информации об окружающей среде посредством обнаружения стимулов (через рецепторы и сенсорные нейроны).
 
@@ -997,11 +997,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
       Шеррингтон разделил экстероцептивные ощущения на контактные и дистантные. Первые вызываются приложением воздействия непосредственно к поверхности тела, а вторые возникают, когда раздражитель действует с некоторой дистанции (обоняние, слух, зрение).
 
-      Сенсорные рецепторы — это клетки или структуры, которые обнаруживают ощущения. (https://en.wikipedia.org/wiki/Sensory_receptor)
+      Сенсорные рецепторы — это клетки или структуры, которые обнаруживают ощущения. (https://en.wikipedia.org/wiki/Sensory_receptor )
 
 
       #region Экстероцепция (Экстероцептивные ощущения) / Органы чувств (человека)
-        https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств)
+        https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств )
 
         * Глаза / Зрение (форма, цвет, движение объектов). Глаз человека чувствителен к электромагнитному излучению в диапазоне длин волн 400—750 нм (видимое излучение). То есть человек не видит многих других излучений (рентггеновское, ултрафиолетовое, и так далее).
           * Пчёлы используют ультрафиолетовое зрение для обнаружения узоров на цветах, которые помогают им находить нектар. 
@@ -1020,7 +1020,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
         * Кожные рецепторы и Проприоцепторы / Соматосенсорная система (осязание) (тактильные ощущения, текстура, температура).
         https://en.wikipedia.org/wiki/Cutaneous_receptor
-        https://en.wikipedia.org/wiki/Somatosensory_system (https://ru.wikipedia.org/wiki/Соматосенсорная_система)
+        https://en.wikipedia.org/wiki/Somatosensory_system (https://ru.wikipedia.org/wiki/Соматосенсорная_система )
           * Модальности соматосенсорики включают механическое давление, вибрацию, растяжение кожи, изменение текстуры, легкое прикосновение, глубокое давление, щекотку, зуд, температуру, длительное прикосновение и давление, боль, кинестезию, 
           * Усы животных чрезвычайно чувствительны к прикосновению и могут улавливать малейшие изменения в окружающей среде, такие как движение воздуха или вибрации.
           * Хобот слона является одним из самых чувствительных органов осязания среди животных. Он содержит около 40 000 мышц и огромное количество нервных окончаний.
@@ -1063,14 +1063,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
       #region Отдельно об осязании (тактильные ощущения, текстура, ...)
-        https://en.wikipedia.org/wiki/Haptic_perception (https://ru.wikipedia.org/wiki/Осязание)
+        https://en.wikipedia.org/wiki/Haptic_perception (https://ru.wikipedia.org/wiki/Осязание )
 
         Тактильное восприятие включает в себя кожные рецепторы прикосновения и проприоцепторы (Проприоцепция), которые позволяют ощущать текстуру объекта.
       #endregion
 
 
       #region Интероцепция (Интероцептивные ощущения)
-        https://en.wikipedia.org/wiki/Interoception (https://ru.wikipedia.org/wiki/Интероцепция)
+        https://en.wikipedia.org/wiki/Interoception (https://ru.wikipedia.org/wiki/Интероцепция )
         https://en.wikipedia.org/wiki/Sense#Internal
 
         Интероцепция (Интероцептивные ощущения) — это процесс, с помощью которого организм получает и обрабатывает информацию о своём внутреннем состоянии через специальные рецепторы (интероцепторы), расположенные во внутренних органах, тканях и кровеносных сосудах, передавая эти сигналы в центральную нервную систему.
@@ -1095,7 +1095,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
       #region Проприоцепция (Проприоцептивные ощущения)
-        https://en.wikipedia.org/wiki/Proprioception (https://ru.wikipedia.org/wiki/Проприоцепция)
+        https://en.wikipedia.org/wiki/Proprioception (https://ru.wikipedia.org/wiki/Проприоцепция )
         Проприоцепция (Проприоцептивные ощущения) — это ощущение, возникающее в результате обработки информации от специализированного вида рецепторов — проприоцепторов.
 
         Проприоцепция — это то, что позволяет человеку научиться ходить в полной темноте, не теряя равновесия. Во время обучения любому новому навыку, виду спорта или искусству обычно необходимо ознакомиться с некоторыми проприоцептивными задачами, характерными для этой деятельности. Без соответствующей интеграции проприоцептивного ввода было бы невозможно водить автомобиль, потому что водитель не смог бы управлять автомобилем или использовать педали, глядя на дорогу впереди; человек не мог бы печатать на машинке или компьютере; и люди даже не смогли бы ходить, не следя за тем, куда они ставят ноги.
@@ -1122,11 +1122,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
         Это аналог чувствительности прибора, разрешающей способности в физическом и психическом смыслах (минимальное количество света, наиболее тихий звук, и так далее). Может также называться Сенсорной чувствительностью.
 
         https://en.wikipedia.org/wiki/Sense > Thresholds
-        https://en.wikipedia.org/wiki/Sensory_threshold (https://ru.wikipedia.org/wiki/Сенсорный_порог)
+        https://en.wikipedia.org/wiki/Sensory_threshold (https://ru.wikipedia.org/wiki/Сенсорный_порог )
         * Absolute threshold: https://en.wikipedia.org/wiki/Absolute_threshold
-        * Differential threshold: https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference (https://ru.wikipedia.org/wiki/Порог_различения)
-          * https://en.wikipedia.org/wiki/Weber–Fechner_law (https://ru.wikipedia.org/wiki/Закон_Вебера_—_Фехнера)
-          * https://en.wikipedia.org/wiki/Stevens%27s_power_law (https://ru.wikipedia.org/wiki/Закон_Стивенса)
+        * Differential threshold: https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference (https://ru.wikipedia.org/wiki/Порог_различения )
+          * https://en.wikipedia.org/wiki/Weber–Fechner_law (https://ru.wikipedia.org/wiki/Закон_Вебера_—_Фехнера )
+          * https://en.wikipedia.org/wiki/Stevens%27s_power_law (https://ru.wikipedia.org/wiki/Закон_Стивенса )
         * Terminal threshold
         https://en.wikipedia.org/wiki/Sense > Sensory adaptation
         https://en.wikipedia.org/wiki/Sensory_adaptation = https://en.wikipedia.org/wiki/Neural_adaptation
@@ -1210,7 +1210,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
         * Парестезия — это расстройство, при котором появляются ощущения в виде онемений, ползания мурашек, покалываний при отсутствии реальных раздражителей.
 
         https://en.wikipedia.org/wiki/Somatosensory_system > Clinical significance => https://en.wikipedia.org/wiki/Somatosensory_disorder
-        Соматосенсорная недостаточность может быть вызвана периферической невропатией (https://en.wikipedia.org/wiki/Peripheral_neuropathy), затрагивающей периферические нервы соматосенсорной системы. Это может проявляться как онемение (https://en.wikipedia.org/wiki/Numbness) или парестезия (https://en.wikipedia.org/wiki/Paresthesia).
+        Соматосенсорная недостаточность может быть вызвана периферической невропатией (https://en.wikipedia.org/wiki/Peripheral_neuropathy ), затрагивающей периферические нервы соматосенсорной системы. Это может проявляться как онемение (https://en.wikipedia.org/wiki/Numbness ) или парестезия (https://en.wikipedia.org/wiki/Paresthesia ).
 
         Частным примером контроллированного нарушения сенсорного восприятия является анестезия (операции).
       #endregion
@@ -1264,7 +1264,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       #region Философия
         https://en.wikipedia.org/wiki/Sense > Philosophy => https://en.wikipedia.org/wiki/Philosophy_of_perception
 
-        Философия восприятия занимается природой перцептивного опыта и статусом перцептивных данных (https://en.wikipedia.org/wiki/Sense_data), в частности, тем, как они соотносятся с убеждениями о мире или знанием о нем. Исторические исследования базовых механизмов ощущения и восприятия привели ранних исследователей к принятию различных философских интерпретаций восприятия и разума, включая панпсихизм (https://en.wikipedia.org/wiki/Panpsychism), дуализм (https://en.wikipedia.org/wiki/Mind–body_dualism) и материализм (https://en.wikipedia.org/wiki/Materialism). Большинство современных ученых, изучающих ощущения и восприятие, придерживаются материалистического взгляда на разум.
+        Философия восприятия занимается природой перцептивного опыта и статусом перцептивных данных (https://en.wikipedia.org/wiki/Sense_data), в частности, тем, как они соотносятся с убеждениями о мире или знанием о нем. Исторические исследования базовых механизмов ощущения и восприятия привели ранних исследователей к принятию различных философских интерпретаций восприятия и разума, включая панпсихизм (https://en.wikipedia.org/wiki/Panpsychism), дуализм (https://en.wikipedia.org/wiki/Mind–body_dualism ) и материализм (https://en.wikipedia.org/wiki/Materialism ). Большинство современных ученых, изучающих ощущения и восприятие, придерживаются материалистического взгляда на разум.
       #endregion
 
 
@@ -1303,32 +1303,32 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       #region See Also
         https://en.wikipedia.org/wiki/Aesthesis = https://en.wikipedia.org/wiki/Sensation_(fiction) 
           <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция)
+        https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция )
           <= https://en.wikipedia.org/wiki/Sense
-          <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие)
-        https://en.wikipedia.org/wiki/Attention (https://ru.wikipedia.org/wiki/Внимание)
+          <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие )
+        https://en.wikipedia.org/wiki/Attention (https://ru.wikipedia.org/wiki/Внимание )
           <= https://en.wikipedia.org/wiki/Sense
         https://en.wikipedia.org/wiki/Chemesthesis
           <= https://en.wikipedia.org/wiki/Sense
         Повышенная чувствительность:
           <= https://en.wikipedia.org/wiki/Sense
-          https://en.wikipedia.org/wiki/Hyperacusis (https://ru.wikipedia.org/wiki/Гиперакузия)
+          https://en.wikipedia.org/wiki/Hyperacusis (https://ru.wikipedia.org/wiki/Гиперакузия )
           https://en.wikipedia.org/wiki/Hyperesthesia
           https://en.wikipedia.org/wiki/Supertaster
-        https://en.wikipedia.org/wiki/Illusion (https://ru.wikipedia.org/wiki/Иллюзия)
+        https://en.wikipedia.org/wiki/Illusion (https://ru.wikipedia.org/wiki/Иллюзия )
           <= https://en.wikipedia.org/wiki/Sense
         https://en.wikipedia.org/wiki/Sensation_and_perception_psychology = https://en.wikipedia.org/wiki/Sense ???
           <= https://en.wikipedia.org/wiki/Sense
         https://en.wikipedia.org/wiki/Sensory_processing
           <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Synesthesia (https://ru.wikipedia.org/wiki/Синестезия)
+        https://en.wikipedia.org/wiki/Synesthesia (https://ru.wikipedia.org/wiki/Синестезия )
           <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Ideasthesia (https://ru.wikipedia.org/wiki/Идеастезия)
+        https://en.wikipedia.org/wiki/Ideasthesia (https://ru.wikipedia.org/wiki/Идеастезия )
           <= https://en.wikipedia.org/wiki/Sense
 
 
         (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
-        https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
+        https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
           <= https://ru.wikipedia.org/wiki/Ощущение
       #endregion
     #endregion
@@ -1376,9 +1376,9 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
     https://en.wikipedia.org/wiki/Perception > Три компонента восприятия по Саксу и Джону
-    1 мотивационное состояние (https://en.wikipedia.org/wiki/Motivation)
-    2 эмоциональное состояние (https://en.wikipedia.org/wiki/Emotion)
-    3 опыт (https://en.wikipedia.org/wiki/Experience)
+    1 мотивационное состояние (https://en.wikipedia.org/wiki/Motivation )
+    2 эмоциональное состояние (https://en.wikipedia.org/wiki/Emotion )
+    3 опыт (https://en.wikipedia.org/wiki/Experience )
     Часто воспринимающий может использовать то, что называется «перцептивной защитой», когда человек будет видеть только то, что он хочет видеть. = Confirmation Bias.
 
 
@@ -1450,8 +1450,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     * Целостность — мы воспринимаем объект как связную систему, а не отдельные элементы (например, лицо как лицо, а не совокупность глаз, носа и рта).
     * Апперцептивность — на восприятие оказывает влияние общее содержание психики человека.
       СКОРЕЕ ВСЕГО НЕПРАВИЛЬНОЕ СЛОВО
-      https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция)
-        <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие)
+      https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция )
+        <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие )
       https://ru.wikipedia.org/wiki/Апперцепция => https://ru.wikipedia.org/wiki/Интроспекция_(психология)
 
     * Константность — постоянство восприятия одного и того же дистального объекта при изменении проксимального стимула.
@@ -1483,7 +1483,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
     Вернуться (англ и русск)
     #region Когнитивный диссонанс
-      https://en.wikipedia.org/wiki/Cognitive_dissonance (https://ru.wikipedia.org/wiki/Когнитивный_диссонанс)
+      https://en.wikipedia.org/wiki/Cognitive_dissonance (https://ru.wikipedia.org/wiki/Когнитивный_диссонанс )
 
       Когнитивный диссонанс — состояние психического дискомфорта человека, когда он сталкивается с противоречиями между своими убеждениями, ценностями, знаниями, идеями, действиями и внешней или новой информацией, которая им противоречит. Это может происходить в научных, социальных или личных контекстах.
 
@@ -1539,11 +1539,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     #endregion
 
 
-    https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие) =>
+    https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие ) =>
     #region Социальное восприятие — восприятие, направленное на создание представления о себе, других людях, социальных группах и социальных явлениях.
-      https://en.wikipedia.org/wiki/Social_perception (https://ru.wikipedia.org/wiki/Социальное_восприятие)
-      https://en.wikipedia.org/wiki/Interpersonal_perception (https://ru.wikipedia.org/wiki/Межличностная_перцепция)
-      https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология)
+      https://en.wikipedia.org/wiki/Social_perception (https://ru.wikipedia.org/wiki/Социальное_восприятие )
+      https://en.wikipedia.org/wiki/Interpersonal_perception (https://ru.wikipedia.org/wiki/Межличностная_перцепция )
+      https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология )
 
       Социальное восприятие — восприятие, направленное на создание представления о себе, других людях, социальных группах и социальных явлениях.
 
@@ -1554,7 +1554,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
     #region Воплощённое познание
-      https://en.wikipedia.org/wiki/Embodied_cognition (https://ru.wikipedia.org/wiki/Воплощённое_познание)
+      https://en.wikipedia.org/wiki/Embodied_cognition (https://ru.wikipedia.org/wiki/Воплощённое_познание )
       Воплощённое познание - теория, подразумевающая, что разум нужно рассматривать в его взаимосвязях с физическим телом, которое в свою очередь взаимодействует с окружающей средой
 
       Так, для слепоглухонемых детей ....
@@ -2451,7 +2451,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/James_J._Gibson
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Jean_Piage
+  https://en.wikipedia.org/wiki/Jean_Piaget
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Jean_Piaget
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2930,7 +2930,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
     Эрнст Генрих Вебер (Ernst Heinrich Weber)
-    * https://en.wikipedia.org/wiki/Ernst_Heinrich_Weber (https://ru.wikipedia.org/wiki/Вебер,_Эрнст_Генрих)
+    * https://en.wikipedia.org/wiki/Ernst_Heinrich_Weber (https://ru.wikipedia.org/wiki/Вебер,_Эрнст_Генрих )
       <= https://en.wikipedia.org/wiki/Experimental_psychology > Ernst Heinrich Weber
     * «циркуль Вебера» для определения порога кожной чувствительности. Увеличивая расстояние между двумя точками соприкосновения прибора с кожей, учёный определял при каком расстоянии стимуляция будет определяться как две отдельные точки. Вебер определил, что разные участки кожи имеют разную чувствительность. Так кончики пальцев разделяют точки соприкосновения при минимальном расстоянии, тогда как гораздо меньшей чувствительностью обладает поясничный отдел спины, где даже расстояние между точками соприкосновения равном 1,5 см часто не ощущается как разные точки.
     * Вебер описал "порог различения" — это то количество стимула, которое необходимо добавить к данному стимулу для возникновения чувства различия. (например, расстояние между точками на коже, чтобы они ощущались как отдельные).
@@ -2946,7 +2946,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     * ...
 
     Герман фон Гельмгольц (Hermann von Helmholtz)
-    * https://en.wikipedia.org/wiki/Hermann_von_Helmholtz (https://ru.wikipedia.org/wiki/Гельмгольц,_Герман_Людвиг_Фердинанд)
+    * https://en.wikipedia.org/wiki/Hermann_von_Helmholtz (https://ru.wikipedia.org/wiki/Гельмгольц,_Герман_Людвиг_Фердинанд )
     * В своих первых научных работах при изучении процессов брожения и теплообразования в живых организмах Гельмгольц приходит к формулировке закона сохранения энергии.
     * Гельмгольц был пионером в научном изучении человеческого зрения и слуха. Вдохновленный психофизикой, он интересовался отношениями между измеримыми физическими стимулами и соответствующими им человеческими восприятиями. Например, амплитуда звуковой волны может изменяться, заставляя звук казаться громче или тише, но линейный шаг амплитуды звукового давления не приводит к линейному шагу воспринимаемой громкости. Физический звук должен увеличиваться экспоненциально, чтобы равные шаги казались линейными, факт, который используется в современных электронных устройствах для управления громкостью.
     * Гельмгольц проложил путь в экспериментальных исследованиях взаимосвязи между физической энергией (физикой) и ее оценкой (психологией), имея в виду разработку «психофизических законов».
@@ -2954,7 +2954,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     * Сенсорная физиология Гельмгольца легла в основу работы Вильгельма Вундта, ученика Гельмгольца, считающегося одним из основателей экспериментальной психологии.
 
     Вильгельм Вундт
-    * https://en.wikipedia.org/wiki/Wilhelm_Wundt (https://ru.wikipedia.org/wiki/Вундт,_Вильгельм)
+    * https://en.wikipedia.org/wiki/Wilhelm_Wundt (https://ru.wikipedia.org/wiki/Вундт,_Вильгельм )
     * работа «Принципы физиологической психологии » в 1874 году. Это был первый учебник, написанный в области экспериментальной психологии.
     * «Я бы скорее назвал Вебера отцом экспериментальной психологии… Великим вкладом Вебера было то, что он задумался об измерении психических величин и показал точные соотношения между ними, был первым, кто понял это и осуществил это». 
     * В 1879 году в Лейпцигском университете Вильгельм Вундт основал первую официальную лабораторию для психологических исследований.
@@ -3224,7 +3224,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Experimental_psychology
   https://en.wikipedia.org/wiki/Naturalistic_observation
     <= https://en.wikipedia.org/wiki/Experimental_psychology
-  https://de.wikipedia.org/wiki/Reaktivit%C3%A4t_(Sozialwissenschaften)  Реактивность
+  https://de.wikipedia.org/wiki/Reaktivität_(Sozialwissenschaften)  Реактивность
     <= https://en.wikipedia.org/wiki/Experimental_psychology
 
   https://en.wikipedia.org/wiki/Stimulus_(physiology)
@@ -3273,7 +3273,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   Обработать ВСЕ языки!?!? ЭТО ПОЛНЕЙШИЙ ПИЗДЕЦ, ТАМ СОТНИ СТАТЕЙ
   https://en.wikipedia.org/wiki/Category:Cognitive_psychology
-  https://en.wikipedia.org/wiki/Category:Psychology (https://ru.wikipedia.org/wiki/Категория:Психология)
+  https://en.wikipedia.org/wiki/Category:Psychology (https://ru.wikipedia.org/wiki/Категория:Психология )
   https://en.wikipedia.org/wiki/Category:Cognitive_science
 
   https://en.wikipedia.org/wiki/Information (https://ru.wikipedia.org/wiki/Информация )
