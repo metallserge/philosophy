@@ -1179,37 +1179,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       #endregion
 
 
-      #region See Also
-        https://en.wikipedia.org/wiki/Aesthesis = https://en.wikipedia.org/wiki/Sensation_(fiction) 
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция )
-          <= https://en.wikipedia.org/wiki/Sense
-          <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие )
-        https://en.wikipedia.org/wiki/Attention (https://ru.wikipedia.org/wiki/Внимание )
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Chemesthesis
-          <= https://en.wikipedia.org/wiki/Sense
-        Повышенная чувствительность:
-          <= https://en.wikipedia.org/wiki/Sense
-          https://en.wikipedia.org/wiki/Hyperacusis (https://ru.wikipedia.org/wiki/Гиперакузия )
-          https://en.wikipedia.org/wiki/Hyperesthesia
-          https://en.wikipedia.org/wiki/Supertaster
-        https://en.wikipedia.org/wiki/Illusion (https://ru.wikipedia.org/wiki/Иллюзия )
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Sensation_and_perception_psychology = https://en.wikipedia.org/wiki/Sense ???
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Sensory_processing
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Synesthesia (https://ru.wikipedia.org/wiki/Синестезия )
-          <= https://en.wikipedia.org/wiki/Sense
-        https://en.wikipedia.org/wiki/Ideasthesia (https://ru.wikipedia.org/wiki/Идеастезия )
-          <= https://en.wikipedia.org/wiki/Sense
+      See Also
 
-
-        (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
-        https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
-          <= https://ru.wikipedia.org/wiki/Ощущение
-      #endregion
     #endregion
 
     Возвращаемся к Восприятию.
@@ -1444,18 +1415,43 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     #endregion
 
   #endregion
-
-  /Sense
   https://en.wikipedia.org/wiki/Apperception
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Sense
-    <= https://en.wikipedia.org/wiki/Perception
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Sensation_and_perception_psychology = https://en.wikipedia.org/wiki/Sense ???
     <= https://en.wikipedia.org/wiki/Sense
+    <= https://en.wikipedia.org/wiki/Perception
+    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
   https://en.wikipedia.org/wiki/Philosophy_of_perception
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognition
+
+  https://en.wikipedia.org/wiki/Illusion
+    <= https://en.wikipedia.org/wiki/Sense
+
+
+  /Sense
+  https://en.wikipedia.org/wiki/Sense
+    <= https://en.wikipedia.org/wiki/Perception
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Sensation_and_perception_psychology
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Aesthesis = https://en.wikipedia.org/wiki/Sensation_(fiction)
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Chemesthesis
+    <= https://en.wikipedia.org/wiki/Sense
+  Повышенная чувствительность:
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Hyperacusis
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Hyperesthesia
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Supertaster
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Sensory_processing
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Synesthesia
+    <= https://en.wikipedia.org/wiki/Sense
+  https://en.wikipedia.org/wiki/Ideasthesia (https://ru.wikipedia.org/wiki/Идеастезия )
+    <= https://en.wikipedia.org/wiki/Sense
   https://en.wikipedia.org/wiki/Sense_of_time
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Time_perception
@@ -1471,6 +1467,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Sound
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
+  https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
+    <= https://ru.wikipedia.org/wiki/Ощущение
+
 
 
   #region Почему не назвать всё это "Научной Психологией"?
@@ -1492,19 +1493,19 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   #endregion
 
 
-  https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
-
   https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
 
-  /
+
+  /Cognitive_psychology
   [Done] https://en.wikipedia.org/wiki/Cognitive_psychology
       <= https://en.wikipedia.org/wiki/Perception
       <= https://en.wikipedia.org/wiki/History_of_psychology
       <= https://en.wikipedia.org/wiki/Cognition
 
+
   /Cognition
   [Done] https://en.wikipedia.org/wiki/Cognition
-    + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
+    [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   Вероятно философия: https://pl.wikipedia.org/wiki/Poznanie (7 языков)  (польская страница познания называется Процессы познания)
   https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes => https://en.wikipedia.org/wiki/Cognition
@@ -1515,8 +1516,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_process  (редирект на Cognition)
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://de.wikipedia.org/wiki/Erkenntnis (текст ссылки был Познание, но по факту тут "знание", причём есть другая страница со знанием)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Executive_functions + https://ru.wikipedia.org/wiki/Когнитивный_контроль
@@ -1532,14 +1531,17 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     = https://en.wikipedia.org/wiki/Cognitive_ability
     = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Cognitive_functions
-    = https://en.wikipedia.org/wiki/Cognitive_function
+  https://en.wikipedia.org/wiki/Cognitive_function
+    = https://en.wikipedia.org/wiki/Cognitive_functions
     = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Social
-  https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология ) + https://no.wikipedia.org/wiki/Sosialpsykologi_(psykologi)
+  https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология )
+    + https://no.wikipedia.org/wiki/Sosialpsykologi_(psykologi)
     + https://en.wikipedia.org/wiki/Societal_psychology
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
@@ -1548,6 +1550,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Social_cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
+  https://en.wikipedia.org/wiki/Social_cognitive_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Attitude_(psychology)
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Attribution_(psychology)
@@ -1556,8 +1560,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Group_dynamics
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Social_cognitive_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Group_cognition
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Social_science
@@ -1626,6 +1628,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     )
     <= https://en.wikipedia.org/wiki/Sense
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
     Распределенное внимание
     Сфокусированное внимание
   https://en.wikipedia.org/wiki/Attentional_control  концентрация внимания
@@ -1635,6 +1638,9 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Cognitive_bias
     + https://en.wikipedia.org/wiki/Cognitive_distortion ?
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Memory
   https://en.wikipedia.org/wiki/Memory (https://ru.wikipedia.org/wiki/Память ) + https://pl.wikipedia.org/wiki/Pamięć
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/List_of_memory_biases
@@ -1643,6 +1649,48 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Short-term_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Working_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Sensory_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Intermediate-term_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/False_memory + https://en.wikipedia.org/wiki/False_memories
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Explicit_memory
+    + https://en.wikipedia.org/wiki/Declarative_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Implicit_memory + https://pl.wikipedia.org/wiki/Pamięć_niedeklaratywna
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Aging_and_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Procedural_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Long-term_memory
+  https://en.wikipedia.org/wiki/Semantic_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Semantic_network + https://en.wikipedia.org/wiki/Semantic_Web
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Episodic_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Autobiographical_memory
+    + https://en.wikipedia.org/wiki/Hyperthymesia
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Childhood_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Constructive_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Emotion_and_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Eyewitness_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Flashbulb_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+
   https://fr.wikipedia.org/wiki/M%C3%A9moire_(sciences_humaines)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Creativity
@@ -1730,47 +1778,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://sv.wikipedia.org/wiki/Verklighetsuppfattning   восприятие реальности
     <= https://en.wikipedia.org/wiki/Cognition
 
-  https://en.wikipedia.org/wiki/Working_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Sensory_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Intermediate-term_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/False_memory + https://en.wikipedia.org/wiki/False_memories
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Short-term_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Explicit_memory
-    + https://en.wikipedia.org/wiki/Declarative_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Implicit_memory + https://pl.wikipedia.org/wiki/Pamięć_niedeklaratywna
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Aging_and_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Procedural_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Long-term_memory
-  https://en.wikipedia.org/wiki/Semantic_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Semantic_network + https://en.wikipedia.org/wiki/Semantic_Web
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Episodic_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Autobiographical_memory
-    + https://en.wikipedia.org/wiki/Hyperthymesia
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Childhood_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Constructive_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Emotion_and_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Eyewitness_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Flashbulb_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   https://en.wikipedia.org/wiki/Emotion (https://ru.wikipedia.org/wiki/Эмоция )
     мешанина ссылок между чувствами и эмоциями
@@ -1791,6 +1798,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Mental_representation
     + https://ru.wikipedia.org/wiki/Репрезентация
+    + https://uk.wikipedia.org/wiki/Уявлення
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Mental_model
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -1831,9 +1839,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Mental_state
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Belief
+  https://en.wikipedia.org/wiki/Belief  убежденность
     + https://ru.wikipedia.org/wiki/Убеждение
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Persuasion  искусство убеждения
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Desire
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2018,7 +2028,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Philosophy_of_language
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Semiotics
+  https://en.wikipedia.org/wiki/Semiotics  изучение знаков (язык)
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Grammar
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2818,7 +2828,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     * Работы учёного положили начало психофизике и экспериментальной психологии.
 
     Густав Фехнер (Gustav Fechner)
-    * https://en.wikipedia.org/wiki/Gustav_Fechner (https://ru.wikipedia.org/wiki/Фехнер,_Густав_Теодор)
+    * https://en.wikipedia.org/wiki/Gustav_Fechner (https://ru.wikipedia.org/wiki/Фехнер,_Густав_Теодор )
     * Фехнер опубликовал в 1860 году то, что считается первой работой по экспериментальной психологии, «Elemente der Psychophysik» (Элементы психофизики)
       * Публикация включает в себя усовершенствованный Закон Вебера—Фехнера
     * В 1871 году Фехнер сообщил о первом эмпирическом исследовании цветных букв - одним из проявлений синестезии.
@@ -3162,10 +3172,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Perception
   https://en.wikipedia.org/wiki/Experience (https://ru.wikipedia.org/wiki/Опыт = https://ru.wikipedia.org/wiki/Опытное_знание )
     <= https://en.wikipedia.org/wiki/Perception
-  https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция )
-    <= https://en.wikipedia.org/wiki/Sense
-    <= https://en.wikipedia.org/wiki/Perception
-    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
   https://en.wikipedia.org/wiki/Cultural_psychology
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
@@ -3192,18 +3198,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Machine_perception <= https://en.wikipedia.org/wiki/Sense#Artificial_sensation_and_perception
   https://en.wikipedia.org/wiki/Leon_Festinger#Proximity_effect
     <= https://en.wikipedia.org/wiki/Cognitive_dissonance
-  https://en.wikipedia.org/wiki/Aesthesis = https://en.wikipedia.org/wiki/Sensation_(fiction) 
-    <= https://en.wikipedia.org/wiki/Sense
-  https://en.wikipedia.org/wiki/Chemesthesis
-    <= https://en.wikipedia.org/wiki/Sense
-  https://en.wikipedia.org/wiki/Illusion (https://ru.wikipedia.org/wiki/Иллюзия )
-    <= https://en.wikipedia.org/wiki/Sense
-  https://en.wikipedia.org/wiki/Sensory_processing
-    <= https://en.wikipedia.org/wiki/Sense
-  https://en.wikipedia.org/wiki/Synesthesia (https://ru.wikipedia.org/wiki/Синестезия )
-    <= https://en.wikipedia.org/wiki/Sense
-  https://en.wikipedia.org/wiki/Ideasthesia (https://ru.wikipedia.org/wiki/Идеастезия )
-    <= https://en.wikipedia.org/wiki/Sense
 
 
   https://uk.wikipedia.org/wiki/Явище + https://ru.wikipedia.org/wiki/Явление_(философия)
@@ -4067,10 +4061,6 @@ the tendency of people to see their projects and themselves as more singular tha
 
 - определить объективность и истинность очень сложно и я пожалуй пока отложу этот вопрос в сторону, и вот почему
 
-- 
-
-
-- 
 
 
 
@@ -4272,6 +4262,12 @@ https://en.wikipedia.org/wiki/Philosophical_realism
 https://en.wikipedia.org/wiki/Subjectivity + https://ja.wikipedia.org/wiki/主観  субъективность
 https://en.wikipedia.org/wiki/Objectivity_(philosophy) + https://ja.wikipedia.org/wiki/客観   объективность
 https://en.wikipedia.org/wiki/Sophist + https://sk.wikipedia.org/wiki/Sofista
+https://pl.wikipedia.org/wiki/Poznanie  познание / знание, относительно разные статьи
+  https://nl.wikipedia.org/wiki/Kennisverwerving  меня заинтересовал этот вариант статьи, это "приобретение знаний" (через логику, дедукцию, индукцию)
+    Есть https://en.wikipedia.org/wiki/Acquiring_knowledge => https://en.wikipedia.org/wiki/Epistemology#Acquiring_knowledge но такой секции больше нет
+      вот здесь её убрали: https://en.wikipedia.org/w/index.php?title=Epistemology&diff=next&oldid=1240598387#Types
+    Возможно подошла бы https://en.wikipedia.org/wiki/Knowledge#Sources
+    Есть https://en.wikipedia.org/wiki/Knowledge_acquisition но оно тоже отличается от nl статьи
 
 https://ru.wikipedia.org/wiki/Науковедение
 <= https://ru.wikipedia.org/wiki/Наукометрия

@@ -1,32 +1,5 @@
 Почти всё это взято из ChatGPT: ChatGPT_Иерархия_когнитивных_процессов.txt
 
-    ===============================================
-    Психические процессы (https://ru.wikipedia.org/wiki/Психические_процессы )
-    * Познавательные
-      * Ощущение
-      * Восприятие
-      * Представление
-      * Воображение
-      * Память
-      * Мышление
-      * Внимание
-      * Речь
-      * Рефлексия
-    * Эмоциональные
-      * Эмоции
-      * Чувства
-      * Аффекты
-      * Настроения
-    * Волевые
-      * Борьба мотивов
-      * Принятие решения
-      * Постановка цели
-
-
-    ===============================================
-    Когнитивные навыки https://en.wikipedia.org/wiki/Cognitive_skill
-
-
   #region ChatGPT. Базовые термины 2:
     ===============================================
     Базовые термины:
@@ -47,9 +20,9 @@
         * Осознание пространства, времени
         * Осознание причинности
         * Создание целостной картины мира
+    * психика это все психические процессы и функции
     * Разум
       * душа
-      * психика
       * внутренний мир ?
       * Картина мира / виртуальный мир
     * Сознание
@@ -189,3 +162,191 @@
     * Успехи и неудачи
     * Конфликты
   #endregion
+
+
+    ===============================================
+    Психические процессы (https://ru.wikipedia.org/wiki/Психические_процессы )
+      Познавательные / Когнитивные
+      * [ru][uk] Ощущение  https://en.wikipedia.org/wiki/Sense
+      * [ru][uk][et][ar] Восприятие  https://en.wikipedia.org/wiki/Perception
+      * [et][ar] познание  https://en.wikipedia.org/wiki/Cognition
+      * [ru][uk] Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
+      * [ru][uk] Воображение  https://en.wikipedia.org/wiki/Imagination
+      * [ru][uk] Память  https://en.wikipedia.org/wiki/Memory
+      * [ru][uk] Мышление  https://en.wikipedia.org/wiki/Thought
+      * [ru][et][at] Внимание  https://en.wikipedia.org/wiki/Attention
+      * [uk] Язык  https://en.wikipedia.org/wiki/Language
+      * [ru] Речь  https://en.wikipedia.org/wiki/Speech
+      * [ru] Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
+      * [uk] Сознание  https://en.wikipedia.org/wiki/Consciousness
+      * [et] убеждения / вера  https://en.wikipedia.org/wiki/Belief
+      * [et] обучение  https://en.wikipedia.org/wiki/Learning
+
+      Эмоциональные / аффективные
+      [ru] https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+      * [ru][uk][et] Эмоции  https://en.wikipedia.org/wiki/Emotion
+      * [ru][uk] Чувства  https://en.wikipedia.org/wiki/Feeling
+      * [ru] Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
+      * [ru] Настроения  https://en.wikipedia.org/wiki/Mood_(psychology)
+      * [uk] Психическое состояние  https://en.wikipedia.org/wiki/Mental_state
+
+      Мотивационные / волевые
+      * [ru] Борьба мотивов
+      * [ru] Принятие решения  https://en.wikipedia.org/wiki/Decision_theory
+      * [ru] Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
+      * [uk][et] Мотивация   https://en.wikipedia.org/wiki/Motivation
+      * [uk] Воля  https://en.wikipedia.org/wiki/Volition_(psychology) + https://en.wikipedia.org/wiki/Will_(philosophy)
+      * [uk] Проактивность  https://en.wikipedia.org/wiki/Proactivity
+
+      ???
+      * [et] отношения  https://et.wikipedia.org/wiki/Hoiak
+
+
+    ===============================================
+    Когнитивные навыки https://en.wikipedia.org/wiki/Cognitive_skill
+
+
+    https://en.wikipedia.org/wiki/Cognitive_psychology
+    [en][zh][simple] Основные направления исследований
+      [en] Категоризация
+        https://en.wikipedia.org/wiki/Categorization
+        * [en] Формирование понятий (https://en.wikipedia.org/wiki/Concept_learning )
+        * [en] Суждение и классификация
+        * [en] Представление и структура
+        * [en] Сходство (https://en.wikipedia.org/wiki/Similarity_(psychology) )
+
+      [zh] Классификация / Таксономия
+        https://en.wikipedia.org/wiki/Taxonomy
+
+      [en][zh] Представление знаний
+        https://en.wikipedia.org/wiki/Knowledge_representation
+        https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+        * [en][zh] Теории двойного кодирования (https://en.wikipedia.org/wiki/Dual-coding_theories ) (https://en.wikipedia.org/wiki/Dual-coding_theory )
+        * [en] Медиапсихология (https://en.wikipedia.org/wiki/Media_psychology )
+        * [en][zh][pt] Ментальные образы (https://en.wikipedia.org/wiki/Mental_image )
+        * [en] Числовое познание (https://en.wikipedia.org/wiki/Numerical_cognition )
+        * [en] Пропозициональное кодирование (https://en.wikipedia.org/wiki/Propositional_encoding )
+        * [zh] Когнитивная карта (https://en.wikipedia.org/wiki/Cognitive_map )
+        * [pt] Ментальные модели (https://en.wikipedia.org/wiki/Mental_model )
+
+
+      [en][zh][simple] Язык / Психолингвистика
+        https://en.wikipedia.org/wiki/Language
+        [simple] https://en.wikipedia.org/wiki/Psycholinguistics
+        * [en][zh][pt] Освоение языка (https://en.wikipedia.org/wiki/Language_acquisition )
+        * [en] Обработка языка (https://en.wikipedia.org/wiki/Language_processing )
+        * [en][zh][pt][simple] Лингвистика (https://en.wikipedia.org/wiki/Linguistics )
+        * [en][zh][pt[simple] Грамматика (https://en.wikipedia.org/wiki/Grammar )
+        * [en][zh][pt][simple] Фонетика (https://en.wikipedia.org/wiki/Phonetics )
+        * [en][zh][pt][simple] Фонология (https://en.wikipedia.org/wiki/Phonology )
+        * [zh] Трансформационно-генеративная грамматика (https://en.wikipedia.org/wiki/Transformational_grammar )
+        * [zh] Иерархия/Генеалогия Хомского (https://en.wikipedia.org/wiki/Chomsky_hierarchy )
+        * [zh] универсальная грамматика (https://en.wikipedia.org/wiki/Universal_grammar )
+        * [zh] лингвистическая относительность (https://en.wikipedia.org/wiki/Linguistic_relativity )
+        * [zh] гипотеза шепота разума (https://en.wikipedia.org/wiki/Language_of_thought_hypothesis )
+        * Обработка речи в мозгу (https://en.wikipedia.org/wiki/Language_processing_in_the_brain )
+        * [simple] Акустика (https://en.wikipedia.org/wiki/Acoustics )
+        * [simple] Прагматика (https://en.wikipedia.org/wiki/Pragmatics )
+
+      [en][zh][simple] Память
+        zh][simple] https://en.wikipedia.org/wiki/Memory
+        * [en] Старение и память  (https://en.wikipedia.org/wiki/Aging_and_memory )
+        * [en] Автобиографическая память  (https://en.wikipedia.org/wiki/Autobiographical_memory )
+        * [en] Воспоминания детства  (https://en.wikipedia.org/wiki/Childhood_memory )
+        * [en] Конструктивная память  (https://en.wikipedia.org/wiki/Constructive_memory )
+        * [en] Эмоции и память  (https://en.wikipedia.org/wiki/Emotion_and_memory )
+        * [en][zh] Эпизодическая память  (https://en.wikipedia.org/wiki/Episodic_memory )
+        * [en] Воспоминания очевидца  (https://en.wikipedia.org/wiki/Eyewitness_memory )
+        * [en] Ложные воспоминания  (https://en.wikipedia.org/wiki/False_memories )
+        * [en][zh] Воспоминания-вспышки  (https://en.wikipedia.org/wiki/Flashbulb_memory )
+        * [en] Список искажений памяти  (https://en.wikipedia.org/wiki/List_of_memory_biases )
+        * [en][zh]  Долговременная память  (https://en.wikipedia.org/wiki/Long-term_memory )
+        * [pt] Долговременная память  (https://pt.wikipedia.org/wiki/Memória_de_longo_prazo )
+        * [en][zh] Семантическая память  (https://en.wikipedia.org/wiki/Semantic_memory )
+        * [en][zh] Кратковременная память  (https://en.wikipedia.org/wiki/Short-term_memory )
+        * [en] Ошибка контроля источника  (https://en.wikipedia.org/wiki/Source-monitoring_error )
+        * [en][zh] Интервальное повторение  (https://en.wikipedia.org/wiki/Spaced_repetition )
+        * [en][zh] Оперативная память  (https://en.wikipedia.org/wiki/Working_memory )
+        * [zh] Теория обработки информации (https://en.wikipedia.org/wiki/Information_processing_theory )  (это точно в память?? китайская вики)
+        * [zh] Сенсорная память (https://en.wikipedia.org/wiki/Sensory_memory )
+        * [zh] Промежуточная память (https://en.wikipedia.org/wiki/Intermediate-term_memory )
+        * [zh] ложная память / Парамнезия (https://en.wikipedia.org/wiki/False_memory )
+
+      [en][zh][simple] Восприятие
+        [en][zh][simple] https://en.wikipedia.org/wiki/Perception
+        * [en][zh] Внимание  (https://en.wikipedia.org/wiki/Attention )
+        * [en] Распознавание объектов  (https://en.wikipedia.org/wiki/Visual_object_recognition_(animal_test) )
+        * [en][zh] Распознавание образов  (https://en.wikipedia.org/wiki/Pattern_recognition ) (https://en.wikipedia.org/wiki/Pattern_recognition_(psychology) )
+        * [en] Восприятие формы  (https://en.wikipedia.org/wiki/Form_perception )
+        * [en][zh] Психофизика  (https://en.wikipedia.org/wiki/Psychophysics )
+        * [en] Ощущение времени  (https://en.wikipedia.org/wiki/Sense_of_time )
+        * [zh] восприятие времени (https://en.wikipedia.org/wiki/Time_perception )
+        * [zh] Моторная теория восприятия речи (https://en.wikipedia.org/wiki/Motor_theory_of_speech_perception )
+        * [zh] Парейдолия (https://en.wikipedia.org/wiki/Pareidolia )
+        * [zh] Оптическая иллюзия (https://en.wikipedia.org/wiki/Optical_illusion ) (и другие иллюзии)
+        * [zh] Апофения (https://en.wikipedia.org/wiki/Apophenia )
+        * [zh] Мультистабильное восприятие (https://en.wikipedia.org/wiki/Multistable_perception )
+
+      [simple] Обучение
+        [simple] https://en.wikipedia.org/wiki/Learning
+
+      [en][zh][simple] Мышление
+        [en] https://en.wikipedia.org/wiki/Thinking
+        [simple] https://en.wikipedia.org/wiki/Thought
+        * [en][zh] Выбор  (https://en.wikipedia.org/wiki/Choice )
+        * [en] Теория Глассера (https://en.wikipedia.org/wiki/Glasser%27s_choice_theory )
+        * [en] Формирование концепции  (https://en.wikipedia.org/wiki/Concept_formation )
+        * [en][zh] Принятие решений  (https://en.wikipedia.org/wiki/Decision-making )
+        * [en][zh] Логика  (https://en.wikipedia.org/wiki/Logic )
+        * Логическое рассуждение  (https://en.wikipedia.org/wiki/Logical_reasoning )
+        * [en] Психология рассуждения  (https://en.wikipedia.org/wiki/Psychology_of_reasoning )
+        * [en][zh] Решение проблем  (https://en.wikipedia.org/wiki/Problem_solving )
+
+
+    https://en.wikipedia.org/wiki/Cognitive_psychology
+    [fi] Концепции когнитивной психологии
+      [fi] Схемы  https://en.wikipedia.org/wiki/Schema_(psychology)
+
+      [fi] Восприятие  https://en.wikipedia.org/wiki/Perception
+        [fi] Внимание и связанные с ним теории  https://en.wikipedia.org/wiki/Attention
+        [fi] Восприятие
+          [fi] Перцептивная психология  https://en.wikipedia.org/wiki/Perceptual_psychology
+
+      [fi] Обучение  https://en.wikipedia.org/wiki/Learning
+        [fi] Теории обучения (взгляды школ на обучение)  https://en.wikipedia.org/wiki/Learning_theory_(education)
+        [fi] Умелое обучение
+          [fi] Учимся учиться
+          [fi] Стратегии и стили обучения
+          [fi] Карта разума  https://en.wikipedia.org/wiki/Mind_map
+          [fi] Целевые ориентации  https://en.wikipedia.org/wiki/Goal_orientation
+          [fi] Ориентации обучения  https://fi.wikipedia.org/wiki/Oppimisorientaatio
+          [fi] Мотивация обучения
+          [fi] Метакогнитивные навыки
+        [fi] Обучение на протяжении всей жизни  https://en.wikipedia.org/wiki/Lifelong_learning
+
+      [fi] Память  https://en.wikipedia.org/wiki/Memory
+        [fi] Исследование памяти
+        [fi] Система памяти (Аткинсон и Шиффрин)
+          [fi] Сенсорная память  https://en.wikipedia.org/wiki/Sensory_memory
+          [fi] Рабочая память  https://en.wikipedia.org/wiki/Working_memory
+          [fi] Долговременная память для хранения  https://en.wikipedia.org/wiki/Long-term_memory
+            [fi] Декларативная память  https://en.wikipedia.org/wiki/Declarative_memory
+            [fi] Процедурная память  https://en.wikipedia.org/wiki/Procedural_memory
+        [fi] Запись
+        [fi] Забывание , теории забывания  https://en.wikipedia.org/wiki/Forgetting
+
+      [fi] Язык  https://en.wikipedia.org/wiki/Language
+        [fi] Концепции и их формирование  https://en.wikipedia.org/wiki/Concept
+        [fi] Базовые уровни языка
+        [fi] Связь между языком и структурированием среды (/мышлением).
+
+      [fi] мышление  https://en.wikipedia.org/wiki/Thought
+        [fi] Образы  https://en.wikipedia.org/wiki/Mental_image
+        [fi] Различия между мышлением человека и животного
+        [fi] Решение проблем  https://en.wikipedia.org/wiki/Problem_solving
+          [fi] Принятие решений https://en.wikipedia.org/wiki/Decision-making
+          [fi] эвристика  https://en.wikipedia.org/wiki/Heuristic
+        [fi] Умное мышление
+          [fi] Экспертиза  https://en.wikipedia.org/wiki/Expert
+          [fi] Креативность  https://en.wikipedia.org/wiki/Creativity
+          [fi] Интеллект  https://en.wikipedia.org/wiki/Intelligence
