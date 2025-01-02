@@ -1,12 +1,10 @@
 Все языки, с регионами
 
   #region Познание
-    https://en.wikipedia.org/wiki/Cognition
-      + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
+    [Done] https://en.wikipedia.org/wiki/Cognition
+      [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
     Языки:
-    Текущий 4 Asia
       en    ja1     ja2     ru      az      no      pl      sq      sk      fi          tr      hy      zh      es      eo      fr      io
       pt    simple  nl      yi      be      bg      mk      rue     sr      tt          uk      cv      kk      el      ast     bs      ca
       cy    da      de      et      eml     eu      ga      gl      hr      it          la      lv      lt      nn      sl      sh      sv
@@ -14,6 +12,7 @@
       war   ro      cs      ka      hi      bn      pa      ta      kn      th          mnw     my
     [ro] это redirect
     [kn] - неформатированный текст (статья вроде интересная, но без форматирования тяжело, пропускаю) (вероятно, взятый отсюда: https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಅರಿವು_1 ; https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಅರಿವು2 )
+
 
     #region Определение
       простое человеческое познание это просто "получение и обработка информации", всё
