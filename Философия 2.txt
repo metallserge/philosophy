@@ -1413,7 +1413,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Communication_sciences
     + https://en.wikipedia.org/wiki/Communication_studies
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Communication
+  https://en.wikipedia.org/wiki/Communication       /Understanding
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Community_Psychology
@@ -1546,6 +1546,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Sociology_of_knowledge
     <= https://en.wikipedia.org/wiki/Cognition
+  https://de.wikipedia.org/wiki/Erkenntnis (текст ссылки был Познание, но тут "знание" и nl:Приобретение знанийЮ некоторая мешанина)
+    = https://nl.wikipedia.org/wiki/Kennisverwerving  меня заинтересовал этот вариант статьи, это "приобретение знаний" (через логику, дедукцию, индукцию)
+      Есть https://en.wikipedia.org/wiki/Acquiring_knowledge => https://en.wikipedia.org/wiki/Epistemology#Acquiring_knowledge но такой секции больше нет
+        вот здесь её убрали: https://en.wikipedia.org/w/index.php?title=Epistemology&diff=next&oldid=1240598387#Types
+      Возможно подошла бы https://en.wikipedia.org/wiki/Knowledge#Sources
+      Есть https://en.wikipedia.org/wiki/Knowledge_acquisition но оно тоже отличается от nl статьи
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Schema /Categorization /Concept
@@ -1769,7 +1776,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   /Understanding
-  https://en.wikipedia.org/wiki/Understanding
+  https://en.wikipedia.org/wiki/Understanding   /Communication
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -4185,12 +4192,6 @@ https://en.wikipedia.org/wiki/Philosophical_realism
 https://en.wikipedia.org/wiki/Subjectivity + https://ja.wikipedia.org/wiki/主観  субъективность
 https://en.wikipedia.org/wiki/Objectivity_(philosophy) + https://ja.wikipedia.org/wiki/客観   объективность
 https://en.wikipedia.org/wiki/Sophist + https://sk.wikipedia.org/wiki/Sofista
-https://pl.wikipedia.org/wiki/Poznanie  познание / знание, относительно разные статьи
-  https://nl.wikipedia.org/wiki/Kennisverwerving  меня заинтересовал этот вариант статьи, это "приобретение знаний" (через логику, дедукцию, индукцию)
-    Есть https://en.wikipedia.org/wiki/Acquiring_knowledge => https://en.wikipedia.org/wiki/Epistemology#Acquiring_knowledge но такой секции больше нет
-      вот здесь её убрали: https://en.wikipedia.org/w/index.php?title=Epistemology&diff=next&oldid=1240598387#Types
-    Возможно подошла бы https://en.wikipedia.org/wiki/Knowledge#Sources
-    Есть https://en.wikipedia.org/wiki/Knowledge_acquisition но оно тоже отличается от nl статьи
 
 https://ru.wikipedia.org/wiki/Науковедение
 <= https://ru.wikipedia.org/wiki/Наукометрия
