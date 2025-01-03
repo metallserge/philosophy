@@ -1306,6 +1306,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Template:Mental_processes
     <= https://en.wikipedia.org/wiki/Mental_process
 
+
+  https://en.wikipedia.org/wiki/Dual-coding_theories + https://en.wikipedia.org/wiki/Dual-coding_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
   /Social
   https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология )
     + https://no.wikipedia.org/wiki/Sosialpsykologi_(psykologi)
@@ -1394,18 +1398,83 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   /Knowledge
+  https://en.wikipedia.org/wiki/Knowledge
+    (ro уже типа было обработано, Knowledge.txt)
+    + https://he.wikipedia.org/wiki/ידיעה
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Gnosis
+    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Knowledge_acquisition
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Knowledge_organization
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Educational_psychology
+  https://en.wikipedia.org/wiki/Knowledge_representation = https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Knowledge_engineering + https://ru.wikipedia.org/wiki/Когнитология
+    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Declarative_knowledge
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Procedural_knowledge
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Sociology_of_knowledge
     <= https://en.wikipedia.org/wiki/Cognition
+
+
+  /Schema /Categorization /Concept
+  https://en.wikipedia.org/wiki/Schema_(psychology)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Categorization
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Concept (https://ru.wikipedia.org/wiki/Понятие )
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Concept_learning
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Concept_formation
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  /Information
+  https://en.wikipedia.org/wiki/Information_science
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Information_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Information_processing_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Information_processing_(psychology)
+    + https://it.wikipedia.org/wiki/Elaborazione_umana_dell%27informazione  Обработка информации человеком
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Information_system
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Mental image
+  https://en.wikipedia.org/wiki/Mental_image (https://ru.wikipedia.org/wiki/Образ_(психология) )
+    немецкая статья указывает на визуальный образ
+    + https://de.wikipedia.org/wiki/Vorstellung
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://ru.wikipedia.org/wiki/Образ_(информация)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Mental_representation
+    + https://ru.wikipedia.org/wiki/Репрезентация
+    + https://uk.wikipedia.org/wiki/Уявлення  предстваление?
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Mental_model
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Worldview /Система взглядов /Картина мира /Виртуальный мир
+  https://en.wikipedia.org/wiki/Worldview
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://sv.wikipedia.org/wiki/Verklighetsuppfattning   восприятие реальности
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Opinion   я думаю мнение подходит к знанию
+    + https://sh.wikipedia.org/wiki/Sud_(logika)
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Belief  убежденность
+    + https://ru.wikipedia.org/wiki/Убеждение
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
+
 
   /Learning
   https://en.wikipedia.org/wiki/Learning
@@ -1417,6 +1486,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
+
   /Education
   https://en.wikipedia.org/wiki/Education
     <= https://en.wikipedia.org/wiki/Cognition
@@ -1425,6 +1495,9 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Didactic_method
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Educational_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
   /Pedagogy
   https://en.wikipedia.org/wiki/Pedagogy
@@ -1442,6 +1515,16 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   /Cognitive functions
+
+  /Biases and distorions
+  https://en.wikipedia.org/wiki/List_of_cognitive_biases
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_bias
+    + https://en.wikipedia.org/wiki/Cognitive_distortion ?
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Attention
   https://en.wikipedia.org/wiki/Attention
     + https://no.wikipedia.org/wiki/Oppmerksomhet
     (там полный пиздец творится в названиях статей:
@@ -1456,14 +1539,17 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     Сфокусированное внимание
   https://en.wikipedia.org/wiki/Attentional_control  концентрация внимания
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/List_of_cognitive_biases
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_bias
-    + https://en.wikipedia.org/wiki/Cognitive_distortion ?
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Evaluation
   https://en.wikipedia.org/wiki/Evaluation
     + https://it.wikipedia.org/wiki/Valutazione_dei_sistemi_formativi  возможно
     <= https://en.wikipedia.org/wiki/Cognition
+
+
+  /Creativity
+  https://en.wikipedia.org/wiki/Creativity
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Memory
@@ -1513,85 +1599,57 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Flashbulb_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-
-  https://fr.wikipedia.org/wiki/M%C3%A9moire_(sciences_humaines)
+  https://fr.wikipedia.org/wiki/Mémoire_(sciences_humaines)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Creativity
+  https://en.wikipedia.org/wiki/Serial-position_effect
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
-
-  https://en.wikipedia.org/wiki/Outline_of_human_intelligence
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Outline_of_thought
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
-    <= https://en.wikipedia.org/wiki/Cognition
-
-
+  /Reason /Разум?
   #region Разум
     https://en.wikipedia.org/wiki/Reason (https://ru.wikipedia.org/wiki/Разум )
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
     Разум -  высший тип мыслительной деятельности, способность мыслить всеобще, способность анализа, абстрагирования и обобщения, способность прогнозирования и предсказания, сознательного применения логики, делая обоснованные выводы из новой или существующей информации. Разум связан с такими типично человеческими видами деятельности, как философия, религия, наука, язык, математика и искусство, и обычно считается отличительной способностью, присущей людям. Разум иногда называют рациональностью.
   #endregion
+
+
+  /Mind /Ум /Разум
   https://en.wikipedia.org/wiki/Mind (https://ru.wikipedia.org/wiki/Ум )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Consciousness  /Сознание
+  https://en.wikipedia.org/wiki/Consciousness (https://ru.wikipedia.org/wiki/Сознание ) + https://pl.wikipedia.org/wiki/Przytomność
+    + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /ConsciousnessЮ но не является тем же Wikidata
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Understanding
+  https://en.wikipedia.org/wiki/Understanding
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Thought /Thinking
   https://en.wikipedia.org/wiki/Thought (https://ru.wikipedia.org/wiki/Мышление_(психология) ) + https://ru.wikipedia.org/wiki/Мышление + https://tr.wikipedia.org/wiki/Düşünme
     каша в википедии, статьи на разных языках либо мысль, либо мышление
-  https://uk.wikipedia.org/wiki/Міркування Рассуждения, почему-то нет на англ
+  https://en.wikipedia.org/wiki/Outline_of_thought
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Abstract_thinking
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Abstraction
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  концептуальное мышление
+  https://en.wikipedia.org/wiki/Thinking
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Visual_thinking
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Thought_disorder
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Rationality
-    = https://en.wikipedia.org/wiki/Rational_thought
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Wisdom
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Opinion
-    + https://sh.wikipedia.org/wiki/Sud_(logika)
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Knowledge
-    (ro уже типа было обработано, Knowledge.txt)
-    + https://he.wikipedia.org/wiki/ידיעה
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Gnosis
-    <= https://en.wikipedia.org/wiki/Cognition
 
 
-  https://en.wikipedia.org/wiki/Imagination
-    + https://et.wikipedia.org/wiki/Kujutlus  возможно имелась в виду Imagination, но эта статья короткая и содержит на неё ссылку
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Intelligence
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Problem_solving
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Inference  Вывод / Умозаключение
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Reason_(argument)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Consciousness (https://ru.wikipedia.org/wiki/Сознание ) + https://pl.wikipedia.org/wiki/Przytomność
-    + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /ConsciousnessЮ но не является тем же Wikidata
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  Abstract thinking (https://ru.wikipedia.org/wiki/Абстрактное_мышление )
-    <= 
-  https://en.wikipedia.org/wiki/Unconscious_cognition
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Unconscious_mind
-    + https://zh-yue.wikipedia.org/wiki/無意識   эта ссылка - редирект на сознвние. Она должна быть частью Unconscious_mind, но вместо этого там используется статья на "подсознание" (Subconscious) (в китайском и русском - тоже)
-    <= https://en.wikipedia.org/wiki/Cognition
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Subconscious
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Conscience  Совесть
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Unconscious
-    <= https://en.wikipedia.org/wiki/Cognition
+  /Metacognition /Метапознание
   https://en.wikipedia.org/wiki/Metacognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Cognition
@@ -1599,6 +1657,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Dual_process_theory
+    (сюда или в интуицию?)
+    не только канеман этим занимались (Thinking fast and slow)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Awareness
     <= https://en.wikipedia.org/wiki/Cognition
@@ -1606,12 +1666,114 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
-  https://en.wikipedia.org/wiki/Worldview
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://sv.wikipedia.org/wiki/Verklighetsuppfattning   восприятие реальности
+  /Intuition
+  https://en.wikipedia.org/wiki/Dual_process_theory
+    (сюда или в метапознание?)
+    не только канеман этим занимались (Thinking fast and slow)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Intuition (https://ru.wikipedia.org/wiki/Интуиция )
+  https://en.wikipedia.org/wiki/Logical_intuition
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  /Рассуждения
+  https://uk.wikipedia.org/wiki/Міркування Рассуждения, почему-то нет на англ
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Rationality
+    = https://en.wikipedia.org/wiki/Rational_thought
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Wisdom
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Judgement
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://de.wikipedia.org/wiki/Urteil_(Logik) (Суждение (логика))
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Choice
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Glasser%27s_choice_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Logic
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Psychology_of_reasoning
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Inference  Вывод / Умозаключение
+    <= https://en.wikipedia.org/wiki/Experimental_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Reason_(argument)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Reasoning
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Logical_reasoning
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Verbal_reasoning
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Imagination
+  https://en.wikipedia.org/wiki/Imagination
+    + https://et.wikipedia.org/wiki/Kujutlus  возможно имелась в виду Imagination, но эта статья короткая и содержит на неё ссылку
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Intelligence
+  https://en.wikipedia.org/wiki/Intelligence
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Outline_of_human_intelligence
+    <= https://en.wikipedia.org/wiki/Cognition
+
+
+  /Unconscious  /Бессознательное
+  https://en.wikipedia.org/wiki/Unconscious
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Unconscious_cognition
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Unconscious_mind
+    + https://zh-yue.wikipedia.org/wiki/無意識   эта ссылка - редирект на сознвние. Она должна быть частью Unconscious_mind, но вместо этого там используется статья на "подсознание" (Subconscious) (в китайском и русском - тоже)
+    <= https://en.wikipedia.org/wiki/Cognition
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Conscience  /Совесть
+  https://en.wikipedia.org/wiki/Conscience  Совесть
+    <= https://en.wikipedia.org/wiki/Cognition
+
+
+  /Problem_solving
+  https://en.wikipedia.org/wiki/Problem_solving
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Decision-making
+  https://en.wikipedia.org/wiki/Decision-making
+    + https://de.wikipedia.org/wiki/Entscheidung
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Decision_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Motivation /Will /Volition
+  https://en.wikipedia.org/wiki/Motivation
+    <= https://en.wikipedia.org/wiki/Perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Desire
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Volition_(psychology)
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Will_(philosophy)
+    <= https://en.wikipedia.org/wiki/Cognition
+
+
+  https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
+    <= https://en.wikipedia.org/wiki/Cognition
+
+
+  /Подсознание /Подсознательное
+  https://en.wikipedia.org/wiki/Subconscious
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Emotion /Affect
   https://en.wikipedia.org/wiki/Emotion (https://ru.wikipedia.org/wiki/Эмоция )
     мешанина ссылок между чувствами и эмоциями
     <= https://en.wikipedia.org/wiki/Perception
@@ -1622,30 +1784,36 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://ru.wikipedia.org/wiki/Психологические_теории_эмоций
   https://en.wikipedia.org/wiki/Mood_(psychology)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Affective_science
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Emotional_intelligence (https://ru.wikipedia.org/wiki/Эмоциональный_интеллект )
 
-  https://en.wikipedia.org/wiki/Mental_image (https://ru.wikipedia.org/wiki/Образ_(психология) )
-    немецкая статья указывает на визуальный образ
-    + https://de.wikipedia.org/wiki/Vorstellung
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://ru.wikipedia.org/wiki/Образ_(информация)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_representation
-    + https://ru.wikipedia.org/wiki/Репрезентация
-    + https://uk.wikipedia.org/wiki/Уявлення
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_model
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://uk.wikipedia.org/wiki/Уявлення  предстваление?
 
+  /Behavior 
   https://en.wikipedia.org/wiki/Behavior
     <= https://en.wikipedia.org/wiki/Experimental_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Behaviorism
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
+    <= https://en.wikipedia.org/wiki/Empirical_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://ru.wikipedia.org/wiki/Необихевиоризм + https://ja.wikipedia.org/wiki/新行動主義心理学  необихевиористской психологии
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Operant_Conditioning
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Classical_Conditioning  (условный рефлекс)  + https://ru.wikipedia.org/wiki/Классическое_обусловливание  (почему-то отдельная статья)
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://pl.wikipedia.org/wiki/Odruch_warunkowy Условный рефлекс  (не ведёт напрямую в https://en.wikipedia.org/wiki/Classical_conditioning )
+    <= https://en.wikipedia.org/wiki/Experimental_psychology
+  https://pl.wikipedia.org/wiki/Warunkowanie  обусловливание
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+
   https://en.wikipedia.org/wiki/Associationism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Logical_reasoning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Logical_intuition
-    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Psyche_(psychology) (https://ru.wikipedia.org/wiki/Психика )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Expressive_aphasia
@@ -1670,63 +1838,24 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Mental_state
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Belief  убежденность
-    + https://ru.wikipedia.org/wiki/Убеждение
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Persuasion  искусство убеждения
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Desire
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Motivation
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Behaviorism
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
-    <= https://en.wikipedia.org/wiki/Empirical_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://ru.wikipedia.org/wiki/Необихевиоризм + https://ja.wikipedia.org/wiki/新行動主義心理学  необихевиористской психологии
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Operant_Conditioning
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Classical_Conditioning  (условный рефлекс)  + https://ru.wikipedia.org/wiki/Классическое_обусловливание  (почему-то отдельная статья)
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://pl.wikipedia.org/wiki/Odruch_warunkowy Условный рефлекс  (не ведёт напрямую в https://en.wikipedia.org/wiki/Classical_conditioning )
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
-  https://pl.wikipedia.org/wiki/Warunkowanie  обусловливание
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Noam_Chomsky
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Donald_Broadbent
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Syntactic_Structures
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Abstraction ??
-  концептуальное мышление
   https://en.wikipedia.org/wiki/Praxis_(process) + https://pl.wikipedia.org/wiki/Praksja
   https://en.wikipedia.org/wiki/Set_(psychology)
     + https://en.wikipedia.org/wiki/Perceptual_set + https://pl.wikipedia.org/wiki/Nastawienie_percepcyjne
 
-  https://en.wikipedia.org/wiki/Information_science
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Information_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Information_processing_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Information_processing_(psychology)
-    + https://it.wikipedia.org/wiki/Elaborazione_umana_dell%27informazione  Обработка информации человеком
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Information_system
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   https://en.wikipedia.org/wiki/Orienting_reflex
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cocktail_party_effect
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Subliminal_advertising
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Serial-position_effect
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Von_Restorff_effect
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -1807,19 +1936,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://ja.wikipedia.org/wiki/脳科学  наука о мозге
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Visual_thinking
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Verbal_reasoning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Categorization
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Concept_learning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Similarity_(psychology)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Knowledge_representation = https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Dual-coding_theories + https://en.wikipedia.org/wiki/Dual-coding_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Media_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -1880,6 +1997,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Computational_linguistics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
+
   https://en.wikipedia.org/wiki/Acoustics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pragmatics
@@ -1888,13 +2006,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Spaced_repetition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Perception
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Visual_object_recognition_(animal_test)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pattern_recognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Visual_object_recognition_(animal_test)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Form_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -1913,29 +2029,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Multistable_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  https://en.wikipedia.org/wiki/Understanding
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Judgement
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://de.wikipedia.org/wiki/Urteil_(Logik) (Суждение (логика))
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Thinking
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Choice
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Glasser%27s_choice_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Concept_formation
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Decision-making
-    + https://de.wikipedia.org/wiki/Entscheidung
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Decision_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Logic
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Psychology_of_reasoning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Embodied_cognitive_science
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://es.wikipedia.org/wiki/Psicoterapia_cognitiva_constructivista  (Конструктивистская когнитивная терапия)
@@ -1960,16 +2053,9 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Preference   Вкусы и предпочтения
 
 
-  https://en.wikipedia.org/wiki/Concept (https://ru.wikipedia.org/wiki/Понятие )
+  https://en.wikipedia.org/wiki/History_of_cognitive_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Schema_(psychology)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://fr.wikipedia.org/wiki/Histoire_de_la_psychologie_cognitive
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://fr.wikipedia.org/wiki/Mémoire_(sciences_humaines)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Affective_science
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
 
   https://en.wikipedia.org/wiki/Prototype_theory
@@ -2412,8 +2498,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Aesthetics
     <= https://en.wikipedia.org/wiki/Cognition
   https://ja.wikipedia.org/wiki/認知閾  когнитивный порог
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Knowledge_engineering + https://ru.wikipedia.org/wiki/Когнитология
     <= https://en.wikipedia.org/wiki/Cognition
 
 
@@ -2976,8 +3060,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Information (https://ru.wikipedia.org/wiki/Информация )
 
 
-  https://en.wikipedia.org/wiki/Motivation
-    <= https://en.wikipedia.org/wiki/Perception
   https://en.wikipedia.org/wiki/Experience (https://ru.wikipedia.org/wiki/Опыт = https://ru.wikipedia.org/wiki/Опытное_знание )
     <= https://en.wikipedia.org/wiki/Perception
 
@@ -2996,8 +3078,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://dzen.ru/a/ZvGowOS_8i8h7tIh (Философия разума: что это?)
   https://en.wikipedia.org/wiki/Category:Philosophy_of_mind
 
-  https://en.wikipedia.org/wiki/Intuition (https://ru.wikipedia.org/wiki/Интуиция )
-  https://en.wikipedia.org/wiki/Emotional_intelligence (https://ru.wikipedia.org/wiki/Эмоциональный_интеллект )
   https://en.wikipedia.org/wiki/Animal_cognition (https://ru.wikipedia.org/wiki/Интеллект_животных )
 
   https://en.wikipedia.org/wiki/Instinct (https://ru.wikipedia.org/wiki/Инстинкт )
