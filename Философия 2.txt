@@ -1333,16 +1333,162 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   [Done] https://en.wikipedia.org/wiki/Cognition
     [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes => https://en.wikipedia.org/wiki/Cognition
-    английская статья перенаправляет на познание, но здесь есть статьи на других языках
-    + https://cs.wikipedia.org/wiki/Psychický_proces
-    + https://hy.wikipedia.org/wiki/Իմացական_գործընթացներ  когнитивный процесс
-    + https://ru.wikipedia.org/wiki/Процесс_познания => Познание (я думал оно должно быть связано с Mental process, но у последнего уже есть русская страница)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_process  (редирект на Cognition)
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://de.wikipedia.org/wiki/Erkenntnis (текст ссылки был Познание, но по факту тут "знание", причём есть другая страница со знанием)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  #region Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
+    https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes => https://en.wikipedia.org/wiki/Cognition
+      = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
+      = https://en.wikipedia.org/wiki/Cognitive_process = https://en.wikipedia.org/wiki/Cognitive_processes
+
+      + https://cs.wikipedia.org/wiki/Psychický_proces
+      + https://hy.wikipedia.org/wiki/Իմացական_գործընթացներ  когнитивный процесс
+      + https://ru.wikipedia.org/wiki/Процесс_познания => Познание (я думал оно должно быть связано с Mental process, но у последнего уже есть русская страница)
+      <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    Языки:
+      ar        zh-yue      ko      bg      ru      uk      id      et      pt
+bn	মানসিক প্রক্রিয়া
+cs	Kognitivní proces
+en	Mental process
+hi	मानसिक प्रक्रिया
+hy	Իմացական գործընթացներ
+sl	Duševni procesi
+    [zh-yue] Когнитивный процесс => https://en.wikipedia.org/wiki/Cognition
+    [it][nl] Когнитивный процесс (не психический процесс)
+    [pt] Психические функции
+
+    Пока что очень непонятно, Психические процессы это Когнитивные (познавательные) процессы + Аффективные процессы + Мотивационные. Или же Когнитивные процессы = психические процессы? (но тогда "познавательные процессы" непонятно как называть). В познании и когнитивной психологии упоминается, что "рассматривают также и эмоции).
+
+    Также непонятно, отличается ли Когнитивная функция
+
+    #region Определение
+      [ar] Психические процессы или функции (иногда называемые ментальными или когнитивными процессами) включают восприятие (https://en.wikipedia.org/wiki/Perception ), чтение (https://en.wikipedia.org/wiki/Reading ), память (https://en.wikipedia.org/wiki/Memory ), творчество (https://en.wikipedia.org/wiki/Creativity ), воображение (https://en.wikipedia.org/wiki/Imagination ), идеи (https://en.wikipedia.org/wiki/Idea ), убеждения (https://en.wikipedia.org/wiki/Belief ), волю и чувства (https://en.wikipedia.org/wiki/Emotion ) — все, что выполняет разум (https://en.wikipedia.org/wiki/Mind ).
+      [ar] Например, процесс восприятия отличается от способности воспринимать. Это различие между конкретным событием (восприятием объекта) и самой способностью, которая делает такое событие возможным.
+      [ko] Ментальные процессы — это процессы обработки информации человеком. Они включают в себя такие аспекты, как восприятие (https://en.wikipedia.org/wiki/Perception ), познание (https://en.wikipedia.org/wiki/Cognition ) и эмоции (https://en.wikipedia.org/wiki/Feeling ).
+      [bg] Психические процессы, психические функции и когнитивные процессы — это термины, часто используемые взаимозаменяемо (хотя не всегда корректно), для обозначения таких функций или процессов, как восприятие (https://en.wikipedia.org/wiki/Perception ), интроспекция (https://en.wikipedia.org/wiki/Introspection ), память (https://en.wikipedia.org/wiki/Memory ), творчество (https://en.wikipedia.org/wiki/Creativity ), воображение (https://en.wikipedia.org/wiki/Imagination ), концепции (https://en.wikipedia.org/wiki/Concept ), убеждения (https://en.wikipedia.org/wiki/Persuasion искусство убеждения, должно быть https://en.wikipedia.org/wiki/Belief ), суждения (https://en.wikipedia.org/wiki/Proposition должно быть https://en.wikipedia.org/wiki/Judgement или https://en.wikipedia.org/wiki/Reason ), воля (https://en.wikipedia.org/wiki/Will_(philosophy) ) и эмоции (https://en.wikipedia.org/wiki/Emotion ). Это, другими словами, всё, что может делать разум.
+      [ru] Психические процессы — одна из групп психических явлений (https://ru.wikipedia.org/wiki/Психическое_явление ведёт на психологию), объединяемых по функциональному назначению в целостной структуре психики (https://en.wikipedia.org/wiki/Psyche_(psychology) ).
+      [uk] Психические процессы — это сложные явления, объединяющие различные психофизиологические функции и аспекты сознания. Они имеют специфическое содержание (познавательное, эмоциональное, волевое) и развиваются через это содержание.
+      [id] Психические процессы или функции ума — это термины, описывающие то, что человек может делать с помощью ума (https://en.wikipedia.org/wiki/Mind ), такие как восприятие (https://en.wikipedia.org/wiki/Perception ), интроспекция (https://en.wikipedia.org/wiki/Introspection ), память (https://en.wikipedia.org/wiki/Memory ), творчество (https://en.wikipedia.org/wiki/Creativity ), воображение (https://en.wikipedia.org/wiki/Imagination ), идеи (https://en.wikipedia.org/wiki/Idea ), убеждения (https://en.wikipedia.org/wiki/Belief ), рассуждения (https://uk.wikipedia.org/wiki/Міркування ), воля (https://en.wikipedia.org/wiki/Volition_(psychology) ) и эмоции (https://en.wikipedia.org/wiki/Emotion ). Иногда используется термин «когнитивные процессы».
+      [et] Психические процессы, также называемые ментальными процессами, включают когнитивные, аффективные (эмоциональные) и мотивационные (волевые) процессы.
+      [pt] Психические функции, психические процессы, часто называемые когнитивными процессами (хотя это не всегда корректно), означают функции или процессы, такие как восприятие (https://en.wikipedia.org/wiki/Perception ), интроспекция (https://en.wikipedia.org/wiki/Introspection ), память (https://en.wikipedia.org/wiki/Memory ), творчество (https://en.wikipedia.org/wiki/Creativity ), убеждения (https://en.wikipedia.org/wiki/Belief ), рассуждение (https://en.wikipedia.org/wiki/Logical_reasoning ), воля (https://en.wikipedia.org/wiki/Volition_(psychology) ) и эмоции (https://en.wikipedia.org/wiki/Emotion ) — то есть все действия, которые мы можем совершать с помощью нашего разума (https://en.wikipedia.org/wiki/Mind ).
+      [pt][id] Конкретное использование когнитивного процесса является ментальным (психическим) событием (https://en.wikipedia.org/wiki/Mental_event ). Например, событие восприятия чего-либо на самом деле отличается от полного процесса или способности восприятия (то есть способности человека воспринимать). Таким образом, конкретное восприятие отличается от общей возможности, позволяющей это сделать.
+
+    #endregion
+
+    #region Общая информация
+      [bg] Часть этих процессов, познание, представляет собой способность обучающегося понимать и находить смысл в выполнении различных действий, таких как чтение, наблюдение (https://en.wikipedia.org/wiki/Observation ) и прочее.
+      [bg] Психические явления — это внешние проявления внутренних психических процессов, которые можно наблюдать объективно и исследовать научно. Для этих исследований используются внешнее и внутреннее самосознание (https://en.wikipedia.org/wiki/Self-awareness ). Внутреннее самосознание связано с чувствами (https://en.wikipedia.org/wiki/Feeling ) и эмоциями (https://en.wikipedia.org/wiki/Emotion ) личности, а внешнее — с поведением, которые могут наблюдать и оценивать другие.
+      [bg] Самосознание (https://en.wikipedia.org/wiki/Self-awareness ) и самопознание (https://en.wikipedia.org/wiki/Self-knowledge_(psychology) ) являются психическими явления, свойственными человеческому разуму (https://en.wikipedia.org/wiki/Mind ). Самосознание как человеческое качество присуще развитому разуму.
+
+      [ru] Выделение психических процессов — сугубо условное разделение психики на составные элементы, появившееся ввиду существенного влияния механистических представлений (https://en.wikipedia.org/wiki/Mechanical_philosophy ) на учёных-психологов в период становления научной психологии (https://en.wikipedia.org/wiki/Psychology ); также данное выделение можно связать c аналитическими (https://en.wikipedia.org/wiki/Philosophical_analysis ) тенденциями в науке XIX — начала XX века.
+
+      [ru] Все психические явления по их длительности можно разделить на три группы:
+      1. [ru] психические процессы;
+      2. [ru] психические состояния (https://en.wikipedia.org/wiki/Mental_state );
+      3. [ru] психические свойства.
+      [ru] Особенность психических процессов в том, что они наиболее кратковременные, быстропротекающие. Они являются актуальным откликом на происходящее.
+      
+      [ru][uk] Современная психология считает, что психические процессы тесно взаимосвязаны и составляют целостную систему, называемую «психикой» (https://en.wikipedia.org/wiki/Psyche_(psychology) ). Деление сознания (https://en.wikipedia.org/wiki/Consciousness ) на психические процессы условно и не имеет теоретического обоснования.
+      [ru] В настоящее время в науке разрабатываются интегративные подходы к психике, и классификация (https://en.wikipedia.org/wiki/Classification_scheme_(information_science) ) психических явлений имеет скорее педагогическую (https://en.wikipedia.org/wiki/Pedagogy ) и пропедевтическую (https://en.wikipedia.org/wiki/Propaedeutics ) ценность, нисходящую по мере развития науки.
+      
+      [ru] В психических процессах, по Веккеру (https://en.wikipedia.org/wiki/Lev_Vekker ), можно выделить два уровня организации: первый связан с нервными процессами, организуемыми на уровне нейронных (https://en.wikipedia.org/wiki/Neuron ) связей, данные процессы необязательно выделяются и определяются в сознании личности. Второй уровень связан с сознанием и включает в себя познавательные процессы.
+
+      !!!
+      [ru][uk] Взаимосвязь психических процессов выражается, например, в том, что восприятие (https://en.wikipedia.org/wiki/Perception ) невозможно без памяти (https://en.wikipedia.org/wiki/Memory ), запоминание невозможно без восприятия (https://en.wikipedia.org/wiki/Attention ), а внимание (https://en.wikipedia.org/wiki/Attention ) невозможно без мышления (https://en.wikipedia.org/wiki/Thought ).
+    #endregion
+
+
+    !!!
+    #region Виды психических процессов
+      Познавательные / Когнитивные
+      * [ru][uk] Ощущение  https://en.wikipedia.org/wiki/Sense
+      * [ru][uk][et][ar] Восприятие  https://en.wikipedia.org/wiki/Perception
+      * [et][ar][et] познание  https://en.wikipedia.org/wiki/Cognition
+      * [ru][uk] Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
+      * [ru][uk] Воображение  https://en.wikipedia.org/wiki/Imagination
+      * [ru][uk] Память  https://en.wikipedia.org/wiki/Memory
+      * [ru][uk] Мышление  https://en.wikipedia.org/wiki/Thought
+      * [ru][et][at][et] Внимание  https://en.wikipedia.org/wiki/Attention
+      * [uk] Язык  https://en.wikipedia.org/wiki/Language
+      * [ru] Речь  https://en.wikipedia.org/wiki/Speech
+      * [ru] Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
+      * [uk] Сознание  https://en.wikipedia.org/wiki/Consciousness
+      * [et] убеждения / вера  https://en.wikipedia.org/wiki/Belief
+      * [et] обучение  https://en.wikipedia.org/wiki/Learning
+
+      Эмоциональные / аффективные
+      [ru] https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+      * [ru][uk][et] Эмоции  https://en.wikipedia.org/wiki/Emotion
+      * [ru][uk] Чувства  https://en.wikipedia.org/wiki/Feeling
+      * [ru] Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
+      * [ru] Настроения  https://en.wikipedia.org/wiki/Mood_(psychology)
+      * [uk] Психическое состояние  https://en.wikipedia.org/wiki/Mental_state
+
+      Мотивационные / волевые
+      * [ru] Борьба мотивов
+      * [ru] Принятие решения  https://en.wikipedia.org/wiki/Decision_theory
+      * [ru] Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
+      * [uk][et] Мотивация   https://en.wikipedia.org/wiki/Motivation
+      * [uk] Воля  https://en.wikipedia.org/wiki/Volition_(psychology) + https://en.wikipedia.org/wiki/Will_(philosophy)
+      * [uk] Проактивность  https://en.wikipedia.org/wiki/Proactivity
+
+      Социальные
+      * [et] Отношение  https://et.wikipedia.org/wiki/Hoiak
+    #endregion
+
+    #region Психическая функция / Психические функции / Умственная функция
+      [et] https://et.wikipedia.org/wiki/Psüühiline_funktsioon
+        <= [et] https://en.wikipedia.org/wiki/Mental_process
+      [it] https://it.wikipedia.org/wiki/Funzioni_psichiche
+        <= [it] https://en.wikipedia.org/wiki/Mental_process
+    #endregion
+
+  #endregion
+
+  #region Когнитивный процесс / Когнитивные процессы
+    Пока что создал отдельно, потому, что похоже, что Когнитивные процессы не включают Эмоциональные/Аффективные процессы
+    https://it.wikipedia.org/wiki/Processo_cognitivo (https://en.wikipedia.org/wiki/Mental_process)
+      + https://ru.wikipedia.org/wiki/Когнитивный_процесс  удалена
+      <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    https://blog.cognifit.com/ru/когнитивные-процессы/
+    Языки:
+      zh-yue    it      nl
+bn	মানসিক প্রক্রিয়া
+cs	Kognitivní proces
+en	Mental process
+hi	मानसिक प्रक्रिया
+hy	Իմացական գործընթացներ
+sl	Duševni procesi
+    [zh-yue] Когнитивный процесс => https://en.wikipedia.org/wiki/Cognition
+
+    #region Определение
+      [it] Когнитивный процесс — это подход к анализу познания (https://en.wikipedia.org/wiki/Cognition ), который использует уже существующие знания и создает новые. Он представляет собой функцию интеллекта (https://en.wikipedia.org/wiki/Intellect ), необходимую для формирования любого содержания знаний (https://en.wikipedia.org/wiki/Knowledge ) и включает размышления о возможностях. Примеры когнитивных процессов: восприятие (https://en.wikipedia.org/wiki/Perception ), внимание (https://en.wikipedia.org/wiki/Attention ), мышление (https://en.wikipedia.org/wiki/Thought ), интеллект (https://en.wikipedia.org/wiki/Intelligence ), формирование знаний (https://en.wikipedia.org/wiki/Knowledge ), память (https://en.wikipedia.org/wiki/Memory ), рабочая память (https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory ), суждение (https://en.wikipedia.org/wiki/Judgement ), оценка (https://it.wikipedia.org/wiki/Valutazione_dei_sistemi_formativi ), рассуждение (https://uk.wikipedia.org/wiki/Міркування ), вычисления (https://en.wikipedia.org/wiki/Calculation ), принятие решений (https://de.wikipedia.org/wiki/Entscheidung ), решение проблем (https://en.wikipedia.org/wiki/Problem_solving ), понимание (https://en.wikipedia.org/wiki/Understanding ), создание языка (https://en.wikipedia.org/wiki/Language ) и воображение (https://en.wikipedia.org/wiki/Imagination ).
+      [nl] Когнитивный процесс — это процесс, связанный с внутренними, особенно ментальными представлениями (https://en.wikipedia.org/wiki/Mental_representation ) и обработкой информации в мозге. Он является предметом когнитивной психологии (https://en.wikipedia.org/wiki/Cognitive_psychology ).
+    #endregion
+
+    #region Общая информация
+      [it] Приобретение знаний происходит через различные культурные и интеллектуальные пути, которые зависят от конкретных социальных сообществ, к которым человек принадлежит, и личного опыта.
+      (здесь имеется в виду не просто "вырос в россии", "вырос в москве", а буквально - все те конкретные люди (не группы, а конкретные люди), с которыми человек имел дело в своей жизни, и конкретные источники информации. Поэтому опыт человека индивидуален)
+      
+      [it] Ограниченные знания о реальности, например у молодого человека, могут основываться на микро-теориях, которые служат интерпретационной основой, или на парадигмах — наблюдениях и гипотезах, считающихся действительными до их опровержения. (не понял)
+      
+      [it] Базовая когнитивная структура склонна закреплять убеждения и идеи, сформированные в прошлом и подтвержденные повседневным опытом. Постоянное пребывание в одном и том же социальном контексте облегчает взаимное укрепление общих мнений внутри этого окружения.
+      
+      [it] Эти ментальные модели глубоко структурированы и укоренены в психике человека. В результате этого повторяющегося процесса такие модели имеют выраженную склонность не изменяться или изменяться медленно и частично.
+      
+      [it] В процессе познания "опыт" заключается в открытом подходе к новым отношениям, отличным от уже устоявшихся в окружающей среде. Это позволяет создать дистанцию для пересмотра когнитивных основ и их обновления через тщательную проверку.
+      
+      [it] Обучение можно рассматривать как процесс изменения и реструктуризации данных, представленных в форме репрезентативной схемы. Когда существующие ментальные структуры становятся явно неподходящими для возникающих новых ситуаций, включается процесс адаптации, позволяющий сознанию и знаниям изменяться для соответствия новой модели внешней реальности.
+      
+      [it] В стабильной среде нет достаточных стимулов и мотиваций для изменения образа мышления, так как всё кажется уже понятным и не требует пересмотра.
+
+      [nl] Познание (https://en.wikipedia.org/wiki/Cognition ) означает способность учиться (https://en.wikipedia.org/wiki/Learning ) или понимать (https://en.wikipedia.org/wiki/Understanding ) (когнитивный: умственный). Этот термин происходит от латинского слова cognoscere, что означает "познавать" или "узнавать". Для этого используются представления (https://en.wikipedia.org/wiki/Mental_representation ) (символы или понятия), такие как "мяч" или "катание", или мысленные образы (https://en.wikipedia.org/wiki/Mental_image ), например, пейзаж. Эти представления хранятся в памяти и могут подвергаться преобразованиям, например, при извлечении информации или выполнении действия. Помимо процессов памяти (https://en.wikipedia.org/wiki/Memory ), когнитивные процессы включают язык (https://en.wikipedia.org/wiki/Language ) и мышление (https://en.wikipedia.org/wiki/Thought ), которые также используют ментальные представления.
+
+      [nl] Когнитивные процессы, такие как воспоминания, размышления, распознавание объектов или подготовка действий, можно описать как последовательность ментальных операций, следующих друг за другом с течением времени. Изучение этих операций или их подпроцессов называется ментальной хронометрией (https://en.wikipedia.org/wiki/Mental_chronometry ). Такие процессы могут быть последовательными (серийными), когда операции выполняются одна за другой, или параллельными, когда операции происходят одновременно.
+    #endregion
+
+    #region Эксперименты
+      [nl] С помощью экспериментов исследователи когнитивных процессов могут получить представление о структуре, течении и эффективности этих процессов. Такие эксперименты часто включают использование определённых переменных задач (когнитивных заданий) и измерение времени реакции. Также можно моделировать когнитивные процессы с помощью компьютеров, например, в исследованиях искусственного интеллекта (https://en.wikipedia.org/wiki/Artificial_intelligence ) или функционирования памяти (https://en.wikipedia.org/wiki/Memory ). Наконец, когнитивные процессы могут изучаться через измерение активности мозга, как это делается в когнитивной нейробиологии (https://en.wikipedia.org/wiki/Cognitive_neuroscience ).
+    #endregion
+
+  #endregion
   https://en.wikipedia.org/wiki/Executive_functions
     + https://en.wikipedia.org/wiki/Cognitive_control
     + https://ru.wikipedia.org/wiki/Когнитивный_контроль
@@ -1812,8 +1958,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Awareness
     <= https://en.wikipedia.org/wiki/Cognition
+  /Self-awareness
   https://en.wikipedia.org/wiki/Self-awareness
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Introspection (https://ru.wikipedia.org/wiki/Интроспекция_(психология) )
+    <= https://ru.wikipedia.org/wiki/Апперцепция
+    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
+  https://en.wikipedia.org/wiki/Self-observation
+    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
   /Intuition
@@ -3089,11 +3241,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Introspection
   Учение о познании (Гносеология) https://studfile.net/preview/7577498/page:9/   (там вообще миллиарды лекций)
     например, ещё о гносеологии: https://studfile.net/preview/7685378/page:30/
-  https://en.wikipedia.org/wiki/Introspection (https://ru.wikipedia.org/wiki/Интроспекция_(психология) )
-    <= https://ru.wikipedia.org/wiki/Апперцепция
-    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
-  https://en.wikipedia.org/wiki/Self-observation
-    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
 
