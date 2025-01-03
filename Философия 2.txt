@@ -710,7 +710,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
       #region Отдельно об осязании (тактильные ощущения, текстура, ...)
-        https://en.wikipedia.org/wiki/Haptic_perception (https://ru.wikipedia.org/wiki/Осязание )
+        https://en.wikipedia.org/wiki/Haptic_perception
 
         Тактильное восприятие включает в себя кожные рецепторы прикосновения и проприоцепторы (Проприоцепция), которые позволяют ощущать текстуру объекта.
       #endregion
@@ -1183,6 +1183,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     #endregion
 
   #endregion
+  https://en.wikipedia.org/wiki/Haptic_perception
+    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Apperception
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Sense
@@ -1334,7 +1336,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   #region Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
-    https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes => https://en.wikipedia.org/wiki/Cognition
+    https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
       = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
       = https://en.wikipedia.org/wiki/Cognitive_process = https://en.wikipedia.org/wiki/Cognitive_processes
 
@@ -1343,15 +1345,12 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       + https://ru.wikipedia.org/wiki/Процесс_познания => Познание (я думал оно должно быть связано с Mental process, но у последнего уже есть русская страница)
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
     Языки:
-      ar        zh-yue      ko      bg      ru      uk      id      et      pt
+      ar        ko      bg      ru      uk      id      et      pt      sl
 bn	মানসিক প্রক্রিয়া
-cs	Kognitivní proces
 en	Mental process
 hi	मानसिक प्रक्रिया
 hy	Իմացական գործընթացներ
-sl	Duševni procesi
-    [zh-yue] Когнитивный процесс => https://en.wikipedia.org/wiki/Cognition
-    [it][nl] Когнитивный процесс (не психический процесс)
+    [it][nl][cs] Когнитивный процесс (не психический процесс)
     [pt] Психические функции
 
     Пока что очень непонятно, Психические процессы это Когнитивные (познавательные) процессы + Аффективные процессы + Мотивационные. Или же Когнитивные процессы = психические процессы? (но тогда "познавательные процессы" непонятно как называть). В познании и когнитивной психологии упоминается, что "рассматривают также и эмоции).
@@ -1369,8 +1368,9 @@ sl	Duševni procesi
       [et] Психические процессы, также называемые ментальными процессами, включают когнитивные, аффективные (эмоциональные) и мотивационные (волевые) процессы.
       [pt] Психические функции, психические процессы, часто называемые когнитивными процессами (хотя это не всегда корректно), означают функции или процессы, такие как восприятие (https://en.wikipedia.org/wiki/Perception ), интроспекция (https://en.wikipedia.org/wiki/Introspection ), память (https://en.wikipedia.org/wiki/Memory ), творчество (https://en.wikipedia.org/wiki/Creativity ), убеждения (https://en.wikipedia.org/wiki/Belief ), рассуждение (https://en.wikipedia.org/wiki/Logical_reasoning ), воля (https://en.wikipedia.org/wiki/Volition_(psychology) ) и эмоции (https://en.wikipedia.org/wiki/Emotion ) — то есть все действия, которые мы можем совершать с помощью нашего разума (https://en.wikipedia.org/wiki/Mind ).
       [pt][id] Конкретное использование когнитивного процесса является ментальным (психическим) событием (https://en.wikipedia.org/wiki/Mental_event ). Например, событие восприятия чего-либо на самом деле отличается от полного процесса или способности восприятия (то есть способности человека воспринимать). Таким образом, конкретное восприятие отличается от общей возможности, позволяющей это сделать.
-
+      [sl] Психические процессы — это все внутренние явления, которые, хотя и не поддаются прямому наблюдению, проявляются через поведение человека. Они происходят в определённой временной последовательности и обычно приводят к конкретному результату. В психологии их делят на эмоциональные, мотивационные и познавательные (когнитивные) процессы. Когнитивные процессы, в свою очередь, включают ощущения и восприятие, обучение и мышление. Несмотря на внутренний характер, психические процессы находят внешнее выражение в поведении (https://en.wikipedia.org/wiki/Behavior ) или манере действий.
     #endregion
+
 
     #region Общая информация
       [bg] Часть этих процессов, познание, представляет собой способность обучающегося понимать и находить смысл в выполнении различных действий, таких как чтение, наблюдение (https://en.wikipedia.org/wiki/Observation ) и прочее.
@@ -1447,15 +1447,14 @@ sl	Duševni procesi
     https://it.wikipedia.org/wiki/Processo_cognitivo (https://en.wikipedia.org/wiki/Mental_process)
       + https://ru.wikipedia.org/wiki/Когнитивный_процесс  удалена
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
     https://blog.cognifit.com/ru/когнитивные-процессы/
     Языки:
       zh-yue    it      nl
 bn	মানসিক প্রক্রিয়া
-cs	Kognitivní proces
 en	Mental process
 hi	मानसिक प्रक्रिया
 hy	Իմացական գործընթացներ
-sl	Duševni procesi
     [zh-yue] Когнитивный процесс => https://en.wikipedia.org/wiki/Cognition
 
     #region Определение
@@ -1714,6 +1713,7 @@ sl	Duševni procesi
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   /Information
+  https://en.wikipedia.org/wiki/Information
   https://en.wikipedia.org/wiki/Information_science
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Information_theory
@@ -1767,6 +1767,7 @@ sl	Duševni procesi
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://de.wikipedia.org/wiki/Erleben (тоже опыт)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
   /Learning
   https://en.wikipedia.org/wiki/Learning
@@ -1898,6 +1899,11 @@ sl	Duševni procesi
   https://fr.wikipedia.org/wiki/Mémoire_(sciences_humaines)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Serial-position_effect
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Recall_(memory)
+    + https://zh-yue.wikipedia.org/wiki/記憶提取  извлечение памяти
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Recognition_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -2580,11 +2586,6 @@ sl	Duševni procesi
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Reading
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Recall_(memory)
-    + https://zh-yue.wikipedia.org/wiki/記憶提取  извлечение памяти
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Recognition_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Research
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Richard_C._Atkinson
@@ -3246,10 +3247,17 @@ sl	Duševni procesi
 
   Обработать ВСЕ языки!?!? ЭТО ПОЛНЕЙШИЙ ПИЗДЕЦ, ТАМ СОТНИ СТАТЕЙ
   https://en.wikipedia.org/wiki/Category:Cognitive_psychology
-  https://en.wikipedia.org/wiki/Category:Psychology (https://ru.wikipedia.org/wiki/Категория:Психология )
+  https://en.wikipedia.org/wiki/Category:Psychology
   https://en.wikipedia.org/wiki/Category:Cognitive_science
+  https://en.wikipedia.org/wiki/Category:Cognition
+  https://en.wikipedia.org/wiki/Category:Mental_processes
+  https://en.wikipedia.org/wiki/Category:Mind
+  https://en.wikipedia.org/wiki/Category:Thought
+  https://en.wikipedia.org/wiki/Category:Psychological_concepts
+  https://en.wikipedia.org/wiki/Category:Mental_processes
+  https://en.wikipedia.org/wiki/Category:Knowledge
+  https://en.wikipedia.org/wiki/Category:Neuroscience
 
-  https://en.wikipedia.org/wiki/Information (https://ru.wikipedia.org/wiki/Информация )
 
 
 
