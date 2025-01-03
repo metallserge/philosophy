@@ -579,6 +579,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 #region Когнитивное Восприятие и Психология
 
+
   #region Восприятие
     ToDo: все языки
     https://en.wikipedia.org/wiki/Perception
@@ -1199,6 +1200,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Sense
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Sensation_(psychology)
+   <= https://en.wikipedia.org/wiki/Experimental_psychology > Sensation and perception
   https://en.wikipedia.org/wiki/Sensation_and_perception_psychology
     <= https://en.wikipedia.org/wiki/Sense
   https://en.wikipedia.org/wiki/Aesthesis = https://en.wikipedia.org/wiki/Sensation_(fiction)
@@ -1259,8 +1262,51 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     - но оказалось, что "вообщем всеми аспектами работы мозга с научным подходом" занимается не одна, а несколько веток психологии (Когнитивная психология, Нейропсихология, Социальная психология, Экологическая психология, ... какие ещё?)
   #endregion
 
-
+  
   https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
+
+
+  /History_of_psychology
+  https://en.wikipedia.org/wiki/History_of_psychology
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Würzburg School
+  https://en.wikipedia.org/wiki/History_of_cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_revolution
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Cognitive_neuroscience
+  https://en.wikipedia.org/wiki/Cognitive_neuroscience
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Cognitive_science
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Brain_science = https://en.wikipedia.org/wiki/Neuroscience + https://ru.wikipedia.org/wiki/Нейробиология
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://ja.wikipedia.org/wiki/脳科学  наука о мозге
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Cognitive_ethology  когнитивная психология животных
+
+  https://en.wikipedia.org/wiki/Neuropsychology
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+
+  https://en.wikipedia.org/wiki/Cognitive_neuropsychology
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Cognitive psychology
+
+  https://en.wikipedia.org/wiki/Cognitive_biology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Evolutionary_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Political_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Cognitive_psychology
@@ -1268,6 +1314,19 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       <= https://en.wikipedia.org/wiki/Perception
       <= https://en.wikipedia.org/wiki/History_of_psychology
       <= https://en.wikipedia.org/wiki/Cognition
+
+
+  https://en.wikipedia.org/wiki/Ecological_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Media_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Behavioral_economics
+    + https://ru.wikipedia.org/wiki/Экономическая_психология
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Cognition
@@ -1309,6 +1368,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   https://en.wikipedia.org/wiki/Dual-coding_theories + https://en.wikipedia.org/wiki/Dual-coding_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
   /Social
   https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология )
@@ -1397,6 +1457,73 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  /Developmental_psychology
+  https://en.wikipedia.org/wiki/Developmental_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
+  https://ru.wikipedia.org/wiki/Психология_развития
+    <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
+  https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_development
+    + https://en.wikipedia.org/wiki/Child_development
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Ontogeny  развитие человеческого организма с нуля
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://de.wikipedia.org/wiki/Psychogenese  (психогенез)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Language
+  https://en.wikipedia.org/wiki/Psycholinguistics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Linguistics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language
+    + https://fr.wikipedia.org/wiki/Langage_humain
+    + https://eu.wikipedia.org/wiki/Hizkuntza  какой-то другой язык
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language_development
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language_acquisition
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language_processing
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Philosophy_of_language
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Semiotics  изучение знаков (язык)
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Grammar
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Phonetics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Phonology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Transformational_grammar
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Chomsky_hierarchy
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Universal_grammar
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Linguistic_relativity
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language_of_thought_hypothesis
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Language_processing_in_the_brain
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_linguistics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_grammar
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Neurolinguistics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Generative_grammar
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Computational_linguistics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
   /Knowledge
   https://en.wikipedia.org/wiki/Knowledge
     (ro уже типа было обработано, Knowledge.txt)
@@ -1465,6 +1592,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   /Worldview /Система взглядов /Картина мира /Виртуальный мир
   https://en.wikipedia.org/wiki/Worldview
     <= https://en.wikipedia.org/wiki/Cognition
+  https://ru.wikipedia.org/wiki/Внутренний_мир
   https://sv.wikipedia.org/wiki/Verklighetsuppfattning   восприятие реальности
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Opinion   я думаю мнение подходит к знанию
@@ -1474,7 +1602,18 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     + https://ru.wikipedia.org/wiki/Убеждение
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Faith
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
+  https://en.wikipedia.org/wiki/Preference   Вкусы и предпочтения
+
+
+  /Experience
+  https://en.wikipedia.org/wiki/Experience (https://ru.wikipedia.org/wiki/Опыт = https://ru.wikipedia.org/wiki/Опытное_знание )
+    <= https://en.wikipedia.org/wiki/Perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://de.wikipedia.org/wiki/Erleben (тоже опыт)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   /Learning
   https://en.wikipedia.org/wiki/Learning
@@ -1485,6 +1624,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Learning_disability
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Psychology_of_learning
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Experiential_learning
+    <= https://en.wikipedia.org/wiki/Cognition
 
 
   /Education
@@ -1737,6 +1880,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   /Conscience  /Совесть
   https://en.wikipedia.org/wiki/Conscience  Совесть
     <= https://en.wikipedia.org/wiki/Cognition
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Problem_solving
@@ -1749,6 +1893,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     + https://de.wikipedia.org/wiki/Entscheidung
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Decision_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Naturalistic_decision-making
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -1789,15 +1935,23 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Emotional_intelligence (https://ru.wikipedia.org/wiki/Эмоциональный_интеллект )
 
 
-  /Behavior 
+  /Behavior
+  https://en.wikipedia.org/wiki/Behavioral_Sciences
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Behavior
     <= https://en.wikipedia.org/wiki/Experimental_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Stimulus_(physiology)
+    <= https://en.wikipedia.org/wiki/Experimental_psychology
+  https://en.wikipedia.org/wiki/Subliminal_stimuli
+    <= https://en.wikipedia.org/wiki/Experimental_psychology
   https://en.wikipedia.org/wiki/Behaviorism
     <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
     <= https://en.wikipedia.org/wiki/Empirical_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://ru.wikipedia.org/wiki/Необихевиоризм + https://ja.wikipedia.org/wiki/新行動主義心理学  необихевиористской психологии
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Behavioral_script
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Operant_Conditioning
     <= https://en.wikipedia.org/wiki/Experimental_psychology > Behavioral psychology
@@ -1898,104 +2052,25 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Comparative_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Developmental_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
-  https://en.wikipedia.org/wiki/Behavioral_economics + https://ru.wikipedia.org/wiki/Экономическая_психология
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
   https://es.wikipedia.org/wiki/Psicología_Cognitiva_Posracionalista  (пострационалистические когнитивные терапевты)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Ontogeny
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Experience
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Experiential_learning
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://de.wikipedia.org/wiki/Erleben (тоже опыт)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://de.wikipedia.org/wiki/Psychogenese  (психогенез)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Genetic_epistemology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_revolution
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_Science
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Naturalistic_decision-making
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Behavioral_Sciences
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_neuroscience
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Brain_science = https://en.wikipedia.org/wiki/Neuroscience + https://ru.wikipedia.org/wiki/Нейробиология
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://ja.wikipedia.org/wiki/脳科学  наука о мозге
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Similarity_(psychology)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Media_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Numerical_cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Propositional_encoding
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  /Worldview ?
   https://en.wikipedia.org/wiki/Cognitive_map (https://ru.wikipedia.org/wiki/Когнитивная_карта )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Mind_map
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  /Language
-  https://en.wikipedia.org/wiki/Psycholinguistics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Linguistics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language
-    + https://fr.wikipedia.org/wiki/Langage_humain
-    + https://eu.wikipedia.org/wiki/Hizkuntza  какой-то другой язык
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language_development
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language_acquisition
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language_processing
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Philosophy_of_language
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Semiotics  изучение знаков (язык)
-    <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Grammar
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Phonetics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Phonology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Transformational_grammar
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Chomsky_hierarchy
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Universal_grammar
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Linguistic_relativity
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language_of_thought_hypothesis
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Language_processing_in_the_brain
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_linguistics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_grammar
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Neurolinguistics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Generative_grammar
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Computational_linguistics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   https://en.wikipedia.org/wiki/Acoustics
@@ -2043,19 +2118,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_chronometry
+
+
+  https://en.wikipedia.org/wiki/Mental_chronometry    изучение последовательности психических процессов
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
   https://en.wikipedia.org/wiki/Perceptual_control_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Conscience
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-  https://en.wikipedia.org/wiki/Preference   Вкусы и предпочтения
-
-
-  https://en.wikipedia.org/wiki/History_of_cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
 
 
   https://en.wikipedia.org/wiki/Prototype_theory
@@ -2064,17 +2133,11 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Self-determination_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Psychology_of_learning
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Behavioral_script
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://fr.wikipedia.org/wiki/Représentation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://ru.wikipedia.org/wiki/Время_реакции
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_chronometry
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  ... (https://ru.wikipedia.org/wiki/Когнитивная_система ; когнитивная структура)
+  https://ru.wikipedia.org/wiki/Когнитивная_система  когнитивная структура
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_miser
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2197,8 +2260,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Expert
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Eye_tracking
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Faith
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Fixation_(visual)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2509,28 +2570,16 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   https://en.wikipedia.org/wiki/Cognitive_architecture
     <= ??
-  https://en.wikipedia.org/wiki/Cognitive_ethology (https://ru.wikipedia.org/wiki/Когнитивная_этология )
-  https://en.wikipedia.org/wiki/Cognitive_revolution
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-  https://en.wikipedia.org/wiki/Cognitive_neuropsychology
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Cognitive psychology
-  https://en.wikipedia.org/wiki/Neuropsychology
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+
+
   https://ru.wikipedia.org/wiki/Модель_психического_состояния_человека
-    <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
-  https://ru.wikipedia.org/wiki/Психология_развития
     <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
   https://en.wikipedia.org/wiki/Psychological_testing
     <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
+
   https://en.wikipedia.org/wiki/Cognitive_module
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_biology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_description
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_development
-    + https://en.wikipedia.org/wiki/Child_development
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Howard_Gardner
     <= https://en.wikipedia.org/wiki/Cognition
@@ -2543,8 +2592,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Cognitive_robotics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Discursive_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Ecological_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Fuzzy-trace_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2574,10 +2621,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_bias_mitigation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Evolutionary_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Political_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_dissonance
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Leon_Festinger
@@ -2585,16 +2628,18 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Model_of_hierarchical_complexity
   https://en.wikipedia.org/wiki/Folk_Psychology
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
-  https://en.wikipedia.org/wiki/Sensation_(psychology)
-   <= https://en.wikipedia.org/wiki/Experimental_psychology > Sensation and perception
+
   https://en.wikipedia.org/wiki/Autodidacticism  (Самообучение)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Fixed_action_pattern
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  /Judgement
   https://en.wikipedia.org/wiki/Value_judgment
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Rational_choice_model
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
   https://en.wikipedia.org/wiki/Heuristic_(computer_science)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Receptive_field
@@ -2682,6 +2727,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   #endregion
 
 
+  /Experiment
   #region Экспериментальная_психология
     https://en.wikipedia.org/wiki/Experimental_psychology (https://ru.wikipedia.org/wiki/Экспериментальная_психология )
     <= ???
@@ -3008,12 +3054,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://de.wikipedia.org/wiki/Reaktivität_(Sozialwissenschaften)  Реактивность
     <= https://en.wikipedia.org/wiki/Experimental_psychology
 
-  https://en.wikipedia.org/wiki/Stimulus_(physiology)
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
-  https://en.wikipedia.org/wiki/Subliminal_stimuli
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
-  https://en.wikipedia.org/wiki/Behavior
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
   https://en.wikipedia.org/wiki/Reaction_formation
     <= https://en.wikipedia.org/wiki/Experimental_psychology
   https://pl.wikipedia.org/wiki/Odruch_warunkowy Условный рефлекс  (не ведёт напрямую в https://en.wikipedia.org/wiki/Classical_conditioning )
@@ -3032,8 +3072,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Design_of_experiments
     <= https://en.wikipedia.org/wiki/Experimental_psychology
 
-  https://en.wikipedia.org/wiki/History_of_psychology (https://ru.wikipedia.org/wiki/История_психологии )
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Würzburg School
 
   Когнитивная гибкость
   когнитивная регидность
@@ -3060,13 +3098,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Information (https://ru.wikipedia.org/wiki/Информация )
 
 
-  https://en.wikipedia.org/wiki/Experience (https://ru.wikipedia.org/wiki/Опыт = https://ru.wikipedia.org/wiki/Опытное_знание )
-    <= https://en.wikipedia.org/wiki/Perception
 
   https://en.wikipedia.org/wiki/Cultural_psychology
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
-  https://ru.wikipedia.org/wiki/Внутренний_мир
 
   https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
   https://en.wikipedia.org/wiki/Qualia (https://ru.wikipedia.org/wiki/Квалиа )
