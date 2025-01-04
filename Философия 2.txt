@@ -579,6 +579,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 #region Когнитивное Восприятие и Психология
 
+  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
+
 
   #region Восприятие
     ToDo: все языки
@@ -1070,7 +1072,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       СКОРЕЕ ВСЕГО НЕПРАВИЛЬНОЕ СЛОВО
       https://en.wikipedia.org/wiki/Apperception (https://ru.wikipedia.org/wiki/Апперцепция )
         <= https://en.wikipedia.org/wiki/Perception (https://ru.wikipedia.org/wiki/Восприятие )
-      https://ru.wikipedia.org/wiki/Апперцепция => https://ru.wikipedia.org/wiki/Интроспекция_(психология)
+      https://ru.wikipedia.org/wiki/Апперцепция => https://en.wikipedia.org/wiki/Introspection
 
     * Константность — постоянство восприятия одного и того же дистального объекта при изменении проксимального стимула.
       * Например, когда человек наблюдает собаку, сама собака является дистальным объектом. Свет исходящий от собаки и проецирующийся на рецепторы сетчатки глаза, другие сигналы исходящие от объекта (звук, запах и т. п.) — проксимальным стимулом. Образ собаки воссоздающийся в мозге — восприятие (перцепция).
@@ -1194,6 +1196,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognition
 
+
   https://en.wikipedia.org/wiki/Illusion
     <= https://en.wikipedia.org/wiki/Sense
 
@@ -1239,6 +1242,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Sound
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Visual_cortex
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Visual_perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
   https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
@@ -1276,6 +1283,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Cognitive_revolution
     <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/History_of_neurology_and_neurosurgery
+    <= https://en.wikipedia.org/wiki/Mental_process
 
 
   /Cognitive_neuroscience
@@ -1332,17 +1341,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   /Cognition
-  [Done] https://en.wikipedia.org/wiki/Cognition
+  [Done] https://en.wikipedia.org/wiki/Cognition  =>  Cognition.txt
     [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   #region Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
     https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
       = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
-      = https://en.wikipedia.org/wiki/Cognitive_process = https://en.wikipedia.org/wiki/Cognitive_processes
 
-      + https://cs.wikipedia.org/wiki/Psychický_proces
-      + https://hy.wikipedia.org/wiki/Իմացական_գործընթացներ  когнитивный процесс
-      + https://ru.wikipedia.org/wiki/Процесс_познания => Познание (я думал оно должно быть связано с Mental process, но у последнего уже есть русская страница)
+      + https://en.wikipedia.org/wiki/Template:Mental_processes
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
     Языки:
       ar        ko      bg      ru      uk      id      et      pt      sl
@@ -1494,7 +1500,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_skill
-    = https://en.wikipedia.org/wiki/Cognitive_function
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_abilities
@@ -1505,10 +1510,16 @@ hy	Իմացական գործընթացներ
     = https://en.wikipedia.org/wiki/Cognitive_functions
     = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Template:Mental_processes
     <= https://en.wikipedia.org/wiki/Mental_process
+
+
+  /Subjective, Conscious Experience 
+  https://en.wikipedia.org/wiki/Qualia
+    <= https://en.wikipedia.org/wiki/Sense > Private perceptive experience
 
 
   https://en.wikipedia.org/wiki/Dual-coding_theories + https://en.wikipedia.org/wiki/Dual-coding_theory
@@ -1600,6 +1611,8 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Society
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Structuralism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Developmental_psychology
@@ -1629,6 +1642,8 @@ hy	Իմացական գործընթացներ
     + https://fr.wikipedia.org/wiki/Langage_humain
     + https://eu.wikipedia.org/wiki/Hizkuntza  какой-то другой язык
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Symbol
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Language_development
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Language_acquisition
@@ -1639,6 +1654,8 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Semiotics  изучение знаков (язык)
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Syntax
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Grammar
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Phonetics
@@ -1667,6 +1684,20 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Computational_linguistics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Reading
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  /Speech
+  https://en.wikipedia.org/wiki/Speech
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Speech_perception
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Word_recognition
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Motor_theory_of_speech_perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
 
   /Knowledge
@@ -1711,6 +1742,9 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Concept_formation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Taxonomy
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  (https://en.wikipedia.org/wiki/Terminology)
 
   /Information
   https://en.wikipedia.org/wiki/Information
@@ -1725,6 +1759,8 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Information_system
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Reasoning_system
+    <= https://en.wikipedia.org/wiki/Mental_process
 
 
   /Mental image
@@ -1852,7 +1888,7 @@ hy	Իմացական գործընթացներ
   /Memory
   https://en.wikipedia.org/wiki/Memory (https://ru.wikipedia.org/wiki/Память ) + https://pl.wikipedia.org/wiki/Pamięć
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/List_of_memory_biases
+  https://en.wikipedia.org/wiki/Storage_(memory)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Long-term_memory + https://pt.wikipedia.org/wiki/Memória_de_longo_prazo
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -1904,6 +1940,8 @@ hy	Իմացական գործընթացներ
     + https://zh-yue.wikipedia.org/wiki/記憶提取  извлечение памяти
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Recognition_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/List_of_memory_biases
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -1967,10 +2005,14 @@ hy	Իմացական գործընթացներ
   /Self-awareness
   https://en.wikipedia.org/wiki/Self-awareness
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Introspection (https://ru.wikipedia.org/wiki/Интроспекция_(психология) )
+  https://en.wikipedia.org/wiki/Introspection
     <= https://ru.wikipedia.org/wiki/Апперцепция
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
   https://en.wikipedia.org/wiki/Self-observation
+    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
+  https://en.wikipedia.org/wiki/Self-reflection
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Self-consciousness
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
@@ -1985,8 +2027,10 @@ hy	Իմացական գործընթացներ
 
 
   /Рассуждения
-  https://uk.wikipedia.org/wiki/Міркування Рассуждения, почему-то нет на англ
+  https://en.wikipedia.org/wiki/Reasoning
+    = https://uk.wikipedia.org/wiki/Міркування
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
 
   https://en.wikipedia.org/wiki/Rationality
     = https://en.wikipedia.org/wiki/Rational_thought
@@ -2010,8 +2054,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Reason_(argument)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Reasoning
-    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Logical_reasoning
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Verbal_reasoning
@@ -2067,12 +2109,19 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Motivation
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Desire
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Intention
+    <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Volition_(psychology)
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Will_(philosophy)
     <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Determination  решимость
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Self-determination_theory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
@@ -2130,10 +2179,15 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  /Psychodynamics
+  https://en.wikipedia.org/wiki/Psychodynamics
+
+
 
   https://en.wikipedia.org/wiki/Associationism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Psyche_(psychology) (https://ru.wikipedia.org/wiki/Психика )
+  https://en.wikipedia.org/wiki/Psyche_(psychology)
+    + https://fr.wikipedia.org/wiki/Psychisme = https://it.wikipedia.org/wiki/Funzioni_psichiche  опять мешанина понятий
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Expressive_aphasia
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2258,8 +2312,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Experimental_psychology
     <= https://ru.wikipedia.org/wiki/Вебер,_Эрнст_Генрих
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Motor_theory_of_speech_perception
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pareidolia
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Optical_illusion
@@ -2295,8 +2347,6 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Prototype_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Fan_effect
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Self-determination_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://fr.wikipedia.org/wiki/Représentation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2584,8 +2634,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Rationalism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Reading
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Research
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Richard_C._Atkinson
@@ -2612,8 +2660,6 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Fringe_science
     + https://uk.wikipedia.org/wiki/Девіантна_наука
     <= https://en.wikipedia.org/wiki/Cognition
-  https://en.wikipedia.org/wiki/Self-reflection
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Semantics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
@@ -2625,21 +2671,10 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Statistics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  /Memory
-  https://en.wikipedia.org/wiki/Storage_(memory)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Structuralism
+
+  https://en.wikipedia.org/wiki/Trait_theory  черты характера
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  /Language
-  https://en.wikipedia.org/wiki/Symbol
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Syntax
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Taxonomy
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Trait_theory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Transpersonal_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Turing_test
@@ -2652,10 +2687,8 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Unicellular_organism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Visual_cortex
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Visual_perception
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
   https://en.wikipedia.org/wiki/Vittorio_Guidano
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Walter_Kintsch
@@ -2811,8 +2844,6 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Cognitive_imitation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Johari_window
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://cs.wikipedia.org/wiki/Kognitivní_funkce
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Temperament
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2986,7 +3017,7 @@ hy	Իմացական գործընթացներ
 
 
     #region Самоанализ / Интроспекция — это исследование собственных сознательных мыслей и чувств. В психологии процесс интроспекции основан на наблюдении за своим психическим состоянием, тогда как в духовном контексте он может относиться к исследованию своей души. 
-    https://en.wikipedia.org/wiki/Introspection (https://ru.wikipedia.org/wiki/Интроспекция_(психология) )
+    https://en.wikipedia.org/wiki/Introspection
       <= https://ru.wikipedia.org/wiki/Апперцепция
 
     Философ Платон спрашивал: «…почему бы нам не спокойно и терпеливо пересмотреть наши собственные мысли, тщательно изучить и увидеть, что эти явления в нас на самом деле представляют собой?».
@@ -3254,7 +3285,6 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Category:Mind
   https://en.wikipedia.org/wiki/Category:Thought
   https://en.wikipedia.org/wiki/Category:Psychological_concepts
-  https://en.wikipedia.org/wiki/Category:Mental_processes
   https://en.wikipedia.org/wiki/Category:Knowledge
   https://en.wikipedia.org/wiki/Category:Neuroscience
 
@@ -3265,11 +3295,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
-  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
-  https://en.wikipedia.org/wiki/Qualia (https://ru.wikipedia.org/wiki/Квалиа )
-    <= https://en.wikipedia.org/wiki/Sense > Private perceptive experience
-  https://en.wikipedia.org/wiki/Self-consciousness
-    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
   https://en.wikipedia.org/wiki/Philosophy_of_mind (https://ru.wikipedia.org/wiki/Философия_сознания )
   https://dzen.ru/a/ZvGowOS_8i8h7tIh (Философия разума: что это?)
@@ -4279,7 +4304,6 @@ the tendency of people to see their projects and themselves as more singular tha
 https://en.wikipedia.org/wiki/Information (https://ru.wikipedia.org/wiki/Информация )
 https://ru.wikipedia.org/wiki/Объективность
 https://ru.wikipedia.org/wiki/Субъективность
-https://ru.wikipedia.org/wiki/Квалиа
 https://ru.wikipedia.org/wiki/Истина
 https://ru.wikipedia.org/wiki/Знание
 
