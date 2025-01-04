@@ -1271,7 +1271,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     - но оказалось, что "вообщем всеми аспектами работы мозга с научным подходом" занимается не одна, а несколько веток психологии (Когнитивная психология, Нейропсихология, Социальная психология, Экологическая психология, ... какие ещё?)
   #endregion
 
-  
+
   https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
 
 
@@ -1344,7 +1344,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   [Done] https://en.wikipedia.org/wiki/Cognition  =>  Cognition.txt
     [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  #region Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
+
+  https://cs.wikipedia.org/wiki/Psychický_jev  Психические явления
+    <= https://en.wikipedia.org/wiki/Mental_process
+  #region Психические явления > Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
     https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
       = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
 
@@ -1390,10 +1393,10 @@ hy	Իմացական գործընթացներ
       2. [ru] психические состояния (https://en.wikipedia.org/wiki/Mental_state );
       3. [ru] психические свойства.
       [ru] Особенность психических процессов в том, что они наиболее кратковременные, быстропротекающие. Они являются актуальным откликом на происходящее.
-      
+
       [ru][uk] Современная психология считает, что психические процессы тесно взаимосвязаны и составляют целостную систему, называемую «психикой» (https://en.wikipedia.org/wiki/Psyche_(psychology) ). Деление сознания (https://en.wikipedia.org/wiki/Consciousness ) на психические процессы условно и не имеет теоретического обоснования.
       [ru] В настоящее время в науке разрабатываются интегративные подходы к психике, и классификация (https://en.wikipedia.org/wiki/Classification_scheme_(information_science) ) психических явлений имеет скорее педагогическую (https://en.wikipedia.org/wiki/Pedagogy ) и пропедевтическую (https://en.wikipedia.org/wiki/Propaedeutics ) ценность, нисходящую по мере развития науки.
-      
+
       [ru] В психических процессах, по Веккеру (https://en.wikipedia.org/wiki/Lev_Vekker ), можно выделить два уровня организации: первый связан с нервными процессами, организуемыми на уровне нейронных (https://en.wikipedia.org/wiki/Neuron ) связей, данные процессы необязательно выделяются и определяются в сознании личности. Второй уровень связан с сознанием и включает в себя познавательные процессы.
 
       !!!
@@ -1746,6 +1749,7 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   (https://en.wikipedia.org/wiki/Terminology)
 
+
   /Information
   https://en.wikipedia.org/wiki/Information
   https://en.wikipedia.org/wiki/Information_science
@@ -1926,8 +1930,6 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Constructive_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Emotion_and_memory
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Eyewitness_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Flashbulb_memory
@@ -2063,6 +2065,7 @@ hy	Իմացական գործընթացներ
   /Imagination
   https://en.wikipedia.org/wiki/Imagination
     + https://et.wikipedia.org/wiki/Kujutlus  возможно имелась в виду Imagination, но эта статья короткая и содержит на неё ссылку
+    + https://cs.wikipedia.org/wiki/Představivost
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -2071,6 +2074,30 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Outline_of_human_intelligence
     <= https://en.wikipedia.org/wiki/Cognition
+
+
+  Психические явления > Психический процесс > /Эмоциональные процессы /Аффективные процессы /Emotion /Affect
+  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+    <= https://en.wikipedia.org/wiki/Mental_process
+  https://en.wikipedia.org/wiki/Emotion (https://ru.wikipedia.org/wiki/Эмоция )
+    мешанина ссылок между чувствами и эмоциями
+    <= https://en.wikipedia.org/wiki/Perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Affect_(psychology)
+    <= https://en.wikipedia.org/wiki/Mental_process
+  https://en.wikipedia.org/wiki/Feeling (https://ru.wikipedia.org/wiki/Чувство_(психология) )
+    мешанина ссылок между чувствами и эмоциями, например https://sh.wikipedia.org/wiki/Emocija
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://ru.wikipedia.org/wiki/Психологические_теории_эмоций
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Mood_(psychology)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Affective_science
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Emotional_intelligence (https://ru.wikipedia.org/wiki/Эмоциональный_интеллект )
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Emotion_and_memory
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   /Unconscious  /Бессознательное
@@ -2105,7 +2132,9 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
-  /Motivation /Will /Volition
+  Психические явления > Психический процесс > /Motivation /Will /Volition / Мотивационные процессы / Волевые процессы
+  https://cs.wikipedia.org/wiki/Volní_procesy
+    <= https://en.wikipedia.org/wiki/Mental_process
   https://en.wikipedia.org/wiki/Motivation
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2133,20 +2162,16 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
-  /Emotion /Affect
-  https://en.wikipedia.org/wiki/Emotion (https://ru.wikipedia.org/wiki/Эмоция )
-    мешанина ссылок между чувствами и эмоциями
-    <= https://en.wikipedia.org/wiki/Perception
+  Психические явления > Психический процесс > Эмоциональные процессы > /Mental state  /Психические состояния
+  Психические явления > /Mental state  /Психические состояния
+  https://en.wikipedia.org/wiki/Mental_state
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Feeling (https://ru.wikipedia.org/wiki/Чувство_(психология) )
-    мешанина ссылок между чувствами и эмоциями, например https://sh.wikipedia.org/wiki/Emocija
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://ru.wikipedia.org/wiki/Психологические_теории_эмоций
-  https://en.wikipedia.org/wiki/Mood_(psychology)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Affective_science
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Emotional_intelligence (https://ru.wikipedia.org/wiki/Эмоциональный_интеллект )
+    <= https://en.wikipedia.org/wiki/Mental_process
+
+
+  Психические явления > /психические свойства
+  https://cs.wikipedia.org/wiki/Psychická_vlastnost  психические свойства  (Психические явления)
+    <= https://en.wikipedia.org/wiki/Mental_process
 
 
   /Behavior
@@ -2181,7 +2206,11 @@ hy	Իմացական գործընթացներ
 
   /Psychodynamics
   https://en.wikipedia.org/wiki/Psychodynamics
+    <= https://en.wikipedia.org/wiki/Mental_process
 
+
+  /Modularity_of_mind
+  https://en.wikipedia.org/wiki/Modularity_of_mind
 
 
   https://en.wikipedia.org/wiki/Associationism
@@ -2209,8 +2238,8 @@ hy	Իմացական գործընթացներ
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Depth_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_state
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
   https://en.wikipedia.org/wiki/Persuasion  искусство убеждения
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Noam_Chomsky
@@ -3287,6 +3316,8 @@ hy	Իմացական գործընթացներ
   https://en.wikipedia.org/wiki/Category:Psychological_concepts
   https://en.wikipedia.org/wiki/Category:Knowledge
   https://en.wikipedia.org/wiki/Category:Neuroscience
+  https://en.wikipedia.org/wiki/Category:Psychiatry
+  https://ru.wikipedia.org/wiki/Категория:Психологические_явления
 
 
 
