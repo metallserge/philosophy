@@ -194,19 +194,25 @@
       Познавательные / Когнитивные
       https://en.wikipedia.org/wiki/Cognitive_process
       * [ru][uk] Ощущение  https://en.wikipedia.org/wiki/Sense
+        [hi] Ощущение относится к нашему осознанию различных стимулов, которые мы получаем через различные сенсорные системы, такие как зрение, слух, осязание, обоняние и вкус.
       * [ru][uk][et][ar] Восприятие  https://en.wikipedia.org/wiki/Perception
-      * [et][ar][et] познание  https://en.wikipedia.org/wiki/Cognition
+        [hi] Обработка и интерпретация информации, позволяющая распознавать объекты и их назначение.
+      * [et][ar][et] Познание  https://en.wikipedia.org/wiki/Cognition
       * [ru][uk] Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
       * [ru][uk] Воображение  https://en.wikipedia.org/wiki/Imagination
       * [ru][uk] Память  https://en.wikipedia.org/wiki/Memory
+        [hi] Хранение обработанной информации и её воспроизведение.
       * [ru][uk] Мышление  https://en.wikipedia.org/wiki/Thought
+        [hi] Использование знаний для решения проблем, оценки ситуаций и формирования (логических) связей между различными фактами и выводов.
       * [ru][et][at][et] Внимание  https://en.wikipedia.org/wiki/Attention
+        [hi] Сосредоточение на определённом стимуле, игнорируя множество других (например, слушание лекции, несмотря на шум).
       * [uk] Язык  https://en.wikipedia.org/wiki/Language
       * [ru] Речь  https://en.wikipedia.org/wiki/Speech
       * [ru] Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
       * [uk] Сознание  https://en.wikipedia.org/wiki/Consciousness
-      * [et] убеждения / вера  https://en.wikipedia.org/wiki/Belief
-      * [et] обучение  https://en.wikipedia.org/wiki/Learning
+      * [et] Убеждения / вера  https://en.wikipedia.org/wiki/Belief
+      * [et] Обучение  https://en.wikipedia.org/wiki/Learning
+        [hi] Приобретение знаний и навыков через опыт и практику, что приводит к изменениям в поведении и помогают нам адаптироваться к различным ситуациям.
 
       Эмоциональные процессы / Аффективные процессы
       [ru] https://ru.wikipedia.org/wiki/Эмоциональный_процесс
