@@ -1,0 +1,87 @@
+
+    Познание  https://en.wikipedia.org/wiki/Cognition
+    Основные понятия	
+    * Информация  https://en.wikipedia.org/wiki/Information
+    * Ментальное представление  https://en.wikipedia.org/wiki/Mental_representation
+      * когнитивная карта  https://en.wikipedia.org/wiki/Cognitive_map
+    * Когнитивная сложность  https://en.wikipedia.org/wiki/Cognitive_complexity
+    * Мозг  https://en.wikipedia.org/wiki/Brain
+      * нейронный субстрат  https://en.wikipedia.org/wiki/Neural_substrate
+    * Когнитивные искажения  https://en.wikipedia.org/wiki/Cognitive_bias
+      * Список  https://en.wikipedia.org/wiki/List_of_cognitive_biases
+    * Когнитивная революция  https://en.wikipedia.org/wiki/Cognitive_revolution
+    * Сознание  https://en.wikipedia.org/wiki/Consciousness
+
+    методы исследования
+    * Психологические эксперименты  https://en.wikipedia.org/wiki/Experimental_psychology
+      * время реакции  https://en.wikipedia.org/wiki/Mental_chronometry
+      * отслеживание глаз  https://en.wikipedia.org/wiki/Eye_tracking
+      * игра-головоломка  https://en.wikipedia.org/wiki/Puzzle
+    * Когнитивная модель  https://en.wikipedia.org/wiki/Cognitive_model
+      * коннекционизм  https://en.wikipedia.org/wiki/Connectionism
+    * Когнитивная архитектура  https://en.wikipedia.org/wiki/Cognitive_architecture
+    * Нейровизуализация  https://en.wikipedia.org/wiki/Neuroimaging
+
+
+    Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    (психические функции?)
+    * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+      (когнитивные функции?)
+      * Восприятие  https://en.wikipedia.org/wiki/Perception
+        Иерархия восприятия:
+        * Сенсорное восприятие / Ощущение  https://en.wikipedia.org/wiki/Sense
+          * Дистальный стимул  https://en.wikipedia.org/wiki/Distal
+          * Проксимальный стимул  https://en.wikipedia.org/wiki/Proximal
+          * Трансдукция  https://en.wikipedia.org/wiki/Transduction_(physiology)
+        
+          Классификация ощущений Шеррингтона
+          * Экстероцепция / Экстероцептивные ощущения / Органы чувств (человека)  https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств )
+            * Зрение  https://en.wikipedia.org/wiki/Visual_perception
+              * Визуальное  https://kk.wikipedia.org/wiki/Көру_түйсігі
+              * Цветное зрение  https://en.wikipedia.org/wiki/Color_vision
+                * RGB-модель  https://en.wikipedia.org/wiki/RGB_color_model
+              * Восприятие глубины  https://en.wikipedia.org/wiki/Depth_perception
+              * Восприятие формы  https://en.wikipedia.org/wiki/Form_perception
+              * Периферическое зрение  https://en.wikipedia.org/wiki/Peripheral_vision
+            * Слух  https://en.wikipedia.org/wiki/Hearing
+              * Восприятие высоты звука  https://en.wikipedia.org/wiki/Pitch_(music)
+              * Восприятие речи  https://en.wikipedia.org/wiki/Speech_perception
+            * Обоняние  https://en.wikipedia.org/wiki/Sense_of_smell
+            * Вкус  https://en.wikipedia.org/wiki/Taste
+            * Кожные рецепторы и Проприоцепторы
+              * Кожные рецепторы  https://en.wikipedia.org/wiki/Cutaneous_receptor
+              * Соматосенсорная система  https://en.wikipedia.org/wiki/Somatosensory_system
+            * Вестибулярный аппарат
+          (затрудняюсь, в Экстероцепция или Проприоцепция)
+          * Тактильное / чувство осязания  https://en.wikipedia.org/wiki/Haptic_perception
+            * Касания  https://en.wikipedia.org/wiki/Touch
+          * Интероцепция / Интероцептивные ощущения  https://en.wikipedia.org/wiki/Interoception + https://en.wikipedia.org/wiki/Sense#Internal
+          * Проприоцепция / Проприоцептивные ощущения  https://en.wikipedia.org/wiki/Proprioception
+          (пока хз куда)
+          * Восприятие времени  https://en.wikipedia.org/wiki/Time_perception
+          * Сенсорные сигналы  https://en.wikipedia.org/wiki/Sensory_cue
+
+          Свойства ощущений
+          * Модальность
+          * Интенсивность
+          * Локализация
+          * Длительность
+
+          * Сенсорный порог  https://en.wikipedia.org/wiki/Sense > Thresholds  + https://en.wikipedia.org/wiki/Sensory_threshold
+            * Абсолютный порог / Absolute threshold  https://en.wikipedia.org/wiki/Absolute_threshold
+            * Differential threshold  https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference
+              * Закон_Вебера_—_Фехнера  https://en.wikipedia.org/wiki/Weber–Fechner_law
+              * Закон_Стивенса  https://en.wikipedia.org/wiki/Stevens%27s_power_law
+            * Terminal threshold
+            * Sensory adaptation  https://en.wikipedia.org/wiki/Sense > Sensory adaptation
+            * Neural adaptation  https://en.wikipedia.org/wiki/Sensory_adaptation = https://en.wikipedia.org/wiki/Neural_adaptation
+
+          * Мультимодальное восприятие  https://en.wikipedia.org/wiki/Sense > Multimodal perception => https://en.wikipedia.org/wiki/Multimodal_integration = https://en.wikipedia.org/wiki/Multisensory_integration
+        
+          * Теория обнаружения сигнала  https://en.wikipedia.org/wiki/Detection_theory = https://en.wikipedia.org/wiki/Signal_detection_theory
+          * Частный перцептивный опыт  https://en.wikipedia.org/wiki/Sense > Private perceptive experience
+            * Квалия  https://en.wikipedia.org/wiki/Qualia
+          * Сенсорная нейробиология и биология восприятия  https://en.wikipedia.org/wiki/Sense > Sensory neuroscience and the biology of perception => https://en.wikipedia.org/wiki/Sensory_neuroscience
+            * Sensory nervous system  https://en.wikipedia.org/wiki/Sensory_nervous_system
+            * Sensory neuron  https://en.wikipedia.org/wiki/Sensory_neuron
+        * Когнитивное восприятие — интерпретация и осмысление полученной сенсорной информации
