@@ -191,39 +191,34 @@
 
     ===============================================
     Психические процессы (https://en.wikipedia.org/wiki/Mental_process )
-      Познавательные / Когнитивные
-      https://en.wikipedia.org/wiki/Cognitive_process
-      * [ru][uk] Ощущение  https://en.wikipedia.org/wiki/Sense
-        [hi] Ощущение относится к нашему осознанию различных стимулов, которые мы получаем через различные сенсорные системы, такие как зрение, слух, осязание, обоняние и вкус.
-      * [ru][uk][et][ar] Восприятие  https://en.wikipedia.org/wiki/Perception
-        [hi] Обработка и интерпретация информации, позволяющая распознавать объекты и их назначение.
+      [ru][uk][cs][hi][sl] Познавательные / Когнитивные
+      [cs] https://en.wikipedia.org/wiki/Cognitive_process
+      * [ru][uk][hi] Ощущение  https://en.wikipedia.org/wiki/Sense
+      * [ru][uk][et][ar][cs][hi][ko][bg] Восприятие  https://en.wikipedia.org/wiki/Perception
       * [et][ar][et] Познание  https://en.wikipedia.org/wiki/Cognition
       * [ru][uk] Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
-      * [ru][uk] Воображение  https://en.wikipedia.org/wiki/Imagination
-      * [ru][uk] Память  https://en.wikipedia.org/wiki/Memory
-        [hi] Хранение обработанной информации и её воспроизведение.
-      * [ru][uk] Мышление  https://en.wikipedia.org/wiki/Thought
-        [hi] Использование знаний для решения проблем, оценки ситуаций и формирования (логических) связей между различными фактами и выводов.
-      * [ru][et][at][et] Внимание  https://en.wikipedia.org/wiki/Attention
-        [hi] Сосредоточение на определённом стимуле, игнорируя множество других (например, слушание лекции, несмотря на шум).
+      * [ru][uk][cs] Воображение  https://en.wikipedia.org/wiki/Imagination
+      * [ru][uk][cs][hi] Память  https://en.wikipedia.org/wiki/Memory
+      * [ru][uk][cs][hi] Мышление  https://en.wikipedia.org/wiki/Thought
+      * [ru][et][at][et][hi] Внимание  https://en.wikipedia.org/wiki/Attention
       * [uk] Язык  https://en.wikipedia.org/wiki/Language
       * [ru] Речь  https://en.wikipedia.org/wiki/Speech
       * [ru] Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
       * [uk] Сознание  https://en.wikipedia.org/wiki/Consciousness
       * [et] Убеждения / вера  https://en.wikipedia.org/wiki/Belief
-      * [et] Обучение  https://en.wikipedia.org/wiki/Learning
-        [hi] Приобретение знаний и навыков через опыт и практику, что приводит к изменениям в поведении и помогают нам адаптироваться к различным ситуациям.
+      * [et][cs] Обучение  https://en.wikipedia.org/wiki/Learning
+      * [cs] Интеллект  https://en.wikipedia.org/wiki/Intelligence
 
-      Эмоциональные процессы / Аффективные процессы
+      [ru][uk][cs][sl] Эмоциональные процессы / Аффективные процессы
       [ru] https://ru.wikipedia.org/wiki/Эмоциональный_процесс
-      * [ru][uk][et] Эмоции  https://en.wikipedia.org/wiki/Emotion
+      * [ru][uk][et][cs] Эмоции  https://en.wikipedia.org/wiki/Emotion
       * [ru][uk] Чувства  https://en.wikipedia.org/wiki/Feeling
       * [ru] Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
       * [ru] Настроения  https://en.wikipedia.org/wiki/Mood_(psychology)
       * [uk] Психическое состояние  https://en.wikipedia.org/wiki/Mental_state
 
-      Мотивационные процессы / Волевые процессы
-      https://cs.wikipedia.org/wiki/Volní_procesy
+      [ru][uk][sl] Мотивационные процессы / Волевые процессы
+      [cs] https://cs.wikipedia.org/wiki/Volní_procesy
       * [ru] Борьба мотивов
       * [ru] Принятие решения  https://en.wikipedia.org/wiki/Decision_theory
       * [ru] Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
@@ -236,10 +231,12 @@
       * [et] Отношение  https://et.wikipedia.org/wiki/Hoiak
 
       Психодинамические
+      https://en.wikipedia.org/wiki/Psychodynamics
 
 
     ===============================================
     Психическая функция / Умственная функция
+
 
     ===============================================
     Когнитивные навыки https://en.wikipedia.org/wiki/Cognitive_skill
