@@ -563,8 +563,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   1. Базовые термины (основы работы мозга и психики):
 
-  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
-
 
   Информация – нематериальная сущность, при помощи которой с любой точностью можно описывать реальные материальные), виртуальные возможные) и понятийные сущности. Иначе, информация - сведения об объектах и явлениях окружающей среды, их параметрах, свойствах и состоянии, которые уменьшают имеющуюся о них степень неопределенности, неполноты знаний.
 
@@ -577,9 +575,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   К философии я перейду позже, но сейчас я эти две позиции просто объединю в один вопрос: "Является ли мозг посредником между "миром души" и реальным миром? Что именно делает мозг?"
 
 
-#region Когнитивное Восприятие и Психология
+#region Психология
 
-  https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
+  https://en.wikipedia.org/wiki/Brain
+    + https://en.wikipedia.org/wiki/Encephalon
 
 
   #region Почему не назвать всё это "Научной Психологией"?
@@ -601,6 +600,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   #endregion
 
 
+  =================================================================
+  /Psychology  /Психология
   https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
 
 
@@ -625,13 +626,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
-  /Cognitive_neuroscience
-  https://en.wikipedia.org/wiki/Cognitive_neuroscience
+  https://en.wikipedia.org/wiki/Cognitive_science
     <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
-  https://en.wikipedia.org/wiki/Cognitive_science
+  /Cognitive_neuroscience
+  https://en.wikipedia.org/wiki/Cognitive_neuroscience
     <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
@@ -740,6 +741,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://hy.wikipedia.org/wiki/Տիեզերական_հոգեբանություն
 
 
+  /Cultural_psychology
+  https://en.wikipedia.org/wiki/Cultural_psychology
+    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
+
+
+  =================================================================
+  /Perception  /Восприятие
   #region Восприятие
     ToDo: все языки
     https://en.wikipedia.org/wiki/Perception
@@ -784,7 +792,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     Возможно ты уже успел подумать про восприятие речи, текстов, символов и отнести его к первичному восприятию, но это не так. Такое Семантическое восприятие базируется на Сенсорном восприятии (слух, зрение), и в распознавании слов участвует уже Когнитивное восприятие.
 
     #region Сенсорное восприятие (чувствительное восприятие, восприятие ощущений)
-      https://en.wikipedia.org/wiki/Sense (https://ru.wikipedia.org/wiki/Ощущение )
+      https://en.wikipedia.org/wiki/Sense
 
       Сенсорное восприятие (чувствительное восприятие, восприятие ощущений) — первичный этап получения информации об окружающей среде посредством обнаружения стимулов (через рецепторы и сенсорные нейроны).
 
@@ -1010,7 +1018,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
         сенсорная гиперчувствительность или гиперестезия
         https://en.wikipedia.org/wiki/Sensory_processing_disorder ??
           <= https://en.wikipedia.org/wiki/Absolute_threshold
-        https://ru.wikipedia.org/wiki/Ощущение >
+        https://en.wikipedia.org/wiki/Sense >
         Нарушение ощущений
         * Сенсорная гипопатия — это нарушение чувствительности, которое выражается в резком изменении порогов ощущений, при этом как сильные, так и слабые раздражители вызывают одинаково слабые ощущения.
         * Сенсорная гиперпатия — это резкое усиление интенсивности ощущений при воздействии слабых раздражителей.
@@ -1343,8 +1351,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     #endregion
 
   #endregion
-  https://en.wikipedia.org/wiki/Haptic_perception
-    <= https://en.wikipedia.org/wiki/Cognition
+
   https://en.wikipedia.org/wiki/Apperception
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Sense
@@ -1355,10 +1362,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
-  https://en.wikipedia.org/wiki/Illusion
-    <= https://en.wikipedia.org/wiki/Sense
-
-
+  =================================================================
   /Sense
   https://en.wikipedia.org/wiki/Sense
     + https://hy.wikipedia.org/wiki/Զգայություն
@@ -1403,27 +1407,34 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Sound
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Acoustics
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Visual_cortex
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Visual_perception
     + https://kk.wikipedia.org/wiki/Көру_түйсігі
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Haptic_perception
+    <= https://en.wikipedia.org/wiki/Cognition
+  https://en.wikipedia.org/wiki/Touch
+    <= https://en.wikipedia.org/wiki/Template:Mental_processes
+
+  https://en.wikipedia.org/wiki/Illusion
+    <= https://en.wikipedia.org/wiki/Sense
 
 
   (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
   https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
-    <= https://ru.wikipedia.org/wiki/Ощущение
+    <= https://en.wikipedia.org/wiki/Sense
 
 
-
-
-  /Cognition
-  [Done] https://en.wikipedia.org/wiki/Cognition  =>  Cognition.txt
-    [Done] + [ja2] https://ja.wikipedia.org/wiki/認知 (это "познание", 1 язык; в en => ja1 "признание")
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
+  =================================================================
+  /Психические явления
   https://cs.wikipedia.org/wiki/Psychický_jev  Психические явления
     <= https://en.wikipedia.org/wiki/Mental_process
+
+
+  =================================================================
   #region Психические явления > Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
     https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
       = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
@@ -1508,6 +1519,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
     #endregion
 
+
     #region Психический процесс по М. Юрчу
       [sk] Психический процесс — это текущая психическая деятельность, которая протекает с участием сознания или без него. Это уникальная связь индивида с окружающим миром. Процесс представляет собой последовательное, динамическое явление, которое постоянно изменяется, включая новые элементы и исключая старые.
 
@@ -1563,6 +1575,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       Социальные
       * [et] Отношение  https://et.wikipedia.org/wiki/Hoiak
     #endregion
+
 
     #region Психическая функция / Психические функции / Умственная функция
       [et] https://et.wikipedia.org/wiki/Psüühiline_funktsioon
@@ -1777,6 +1790,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   #endregion
 
 
+  =================================================================
+  /Психическая функция /Психические функции /Умственная функция /Cognitive functions
+  https://et.wikipedia.org/wiki/Psüühiline_funktsioon
+    + https://it.wikipedia.org/wiki/Funzioni_psichiche
+    <= [et] https://en.wikipedia.org/wiki/Mental_process
+
+
+  =================================================================
   #region Психические явления > Психический процесс > Когнитивный процесс / Когнитивные процессы
     Пока что создал отдельно, потому, что похоже, что Когнитивные процессы не включают Эмоциональные/Аффективные процессы
     https://en.wikipedia.org/wiki/Cognitive_process
@@ -1937,6 +1958,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
+  =================================================================
+  /Cognition
+  [Done] https://en.wikipedia.org/wiki/Cognition  =>  Cognition.txt
+    [Done] + [ja2] https://ja.wikipedia.org/wiki/認知
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  =================================================================
   /Subjective, Conscious Experience 
   https://en.wikipedia.org/wiki/Qualia
     <= https://en.wikipedia.org/wiki/Sense > Private perceptive experience
@@ -1954,6 +1983,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Social
   https://en.wikipedia.org/wiki/Social_psychology (https://ru.wikipedia.org/wiki/Социальная_психология )
     + https://no.wikipedia.org/wiki/Sosialpsykologi_(psykologi)
@@ -2046,6 +2076,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Template:Psychology
 
 
+  =================================================================
   /Developmental_psychology
   https://en.wikipedia.org/wiki/Developmental_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2067,6 +2098,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Language
   https://en.wikipedia.org/wiki/Psycholinguistics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2134,6 +2166,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
 
+  =================================================================
   /Knowledge
   https://en.wikipedia.org/wiki/Knowledge
     (ro уже типа было обработано, Knowledge.txt)
@@ -2165,6 +2198,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Schema /Categorization /Concept
   https://en.wikipedia.org/wiki/Schema_(psychology)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2181,6 +2215,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   (https://en.wikipedia.org/wiki/Terminology)
 
 
+  =================================================================
   /Information
   https://en.wikipedia.org/wiki/Information
   https://en.wikipedia.org/wiki/Information_science
@@ -2198,6 +2233,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
+  =================================================================
   /Mental image
   https://en.wikipedia.org/wiki/Mental_image (https://ru.wikipedia.org/wiki/Образ_(психология) )
     немецкая статья указывает на визуальный образ
@@ -2217,6 +2253,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Worldview /Система взглядов /Картина мира /Виртуальный мир
   https://en.wikipedia.org/wiki/Worldview
     <= https://en.wikipedia.org/wiki/Cognition
@@ -2236,6 +2273,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Preference   Вкусы и предпочтения
 
 
+  =================================================================
   /Experience
   https://en.wikipedia.org/wiki/Experience (https://ru.wikipedia.org/wiki/Опыт = https://ru.wikipedia.org/wiki/Опытное_знание )
     <= https://en.wikipedia.org/wiki/Perception
@@ -2244,6 +2282,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Learning
   https://en.wikipedia.org/wiki/Learning
     + https://sv.wikipedia.org/wiki/Inlärning
@@ -2261,6 +2300,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Education
   https://en.wikipedia.org/wiki/Education
     <= https://en.wikipedia.org/wiki/Cognition
@@ -2273,6 +2313,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Pedagogy
   https://en.wikipedia.org/wiki/Pedagogy
     <= https://en.wikipedia.org/wiki/Cognition
@@ -2288,8 +2329,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
-  /Cognitive functions
-
+  =================================================================
   /Biases and distorions
   https://en.wikipedia.org/wiki/List_of_cognitive_biases
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2298,6 +2338,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Attention
   https://en.wikipedia.org/wiki/Attention
     + https://no.wikipedia.org/wiki/Oppmerksomhet
@@ -2315,17 +2356,20 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  =================================================================
   /Evaluation
   https://en.wikipedia.org/wiki/Evaluation
     + https://it.wikipedia.org/wiki/Valutazione_dei_sistemi_formativi  возможно
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  =================================================================
   /Creativity
   https://en.wikipedia.org/wiki/Creativity
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Memory
   https://en.wikipedia.org/wiki/Memory
     + https://pl.wikipedia.org/wiki/Pamięć
@@ -2397,6 +2441,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
 
+  =================================================================
   /Reason /Разум?
   #region Разум
     https://en.wikipedia.org/wiki/Reason (https://ru.wikipedia.org/wiki/Разум )
@@ -2411,17 +2456,20 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Consciousness  /Сознание
   https://en.wikipedia.org/wiki/Consciousness (https://ru.wikipedia.org/wiki/Сознание ) + https://pl.wikipedia.org/wiki/Przytomność
     + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /ConsciousnessЮ но не является тем же Wikidata
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Understanding
   https://en.wikipedia.org/wiki/Understanding   /Communication
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Thought /Thinking
   https://en.wikipedia.org/wiki/Thought (https://ru.wikipedia.org/wiki/Мышление_(психология) ) + https://ru.wikipedia.org/wiki/Мышление + https://tr.wikipedia.org/wiki/Düşünme
     каша в википедии, статьи на разных языках либо мысль, либо мышление
@@ -2443,6 +2491,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_process
 
 
+  =================================================================
   /Metacognition /Метапознание
   https://en.wikipedia.org/wiki/Metacognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2470,6 +2519,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
+  =================================================================
   /Intuition
   https://en.wikipedia.org/wiki/Dual_process_theory
     (сюда или в метапознание?)
@@ -2480,6 +2530,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  =================================================================
   /Рассуждения
   https://en.wikipedia.org/wiki/Reasoning
     = https://uk.wikipedia.org/wiki/Міркування
@@ -2512,8 +2563,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Verbal_reasoning
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Value_judgment
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Rational_choice_model
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Imagination
   https://en.wikipedia.org/wiki/Imagination
     + https://et.wikipedia.org/wiki/Kujutlus  возможно имелась в виду Imagination, но эта статья короткая и содержит на неё ссылку
@@ -2521,6 +2577,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Intelligence
   https://en.wikipedia.org/wiki/Intelligence
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2528,6 +2585,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  =================================================================
   Психические явления > Психический процесс > /Эмоциональные процессы /Аффективные процессы /Emotion /Affect
   https://ru.wikipedia.org/wiki/Эмоциональный_процесс
     <= https://en.wikipedia.org/wiki/Mental_process
@@ -2552,6 +2610,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Unconscious  /Бессознательное
   https://en.wikipedia.org/wiki/Unconscious
     <= https://en.wikipedia.org/wiki/Cognition
@@ -2563,17 +2622,20 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Conscience  /Совесть
   https://en.wikipedia.org/wiki/Conscience  Совесть
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Problem_solving
   https://en.wikipedia.org/wiki/Problem_solving
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   /Decision-making
   https://en.wikipedia.org/wiki/Decision-making
     + https://de.wikipedia.org/wiki/Entscheidung
@@ -2584,6 +2646,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   Психические явления > Психический процесс > /Motivation /Will /Volition / Мотивационные процессы / Волевые процессы
   https://cs.wikipedia.org/wiki/Volní_procesy
     <= https://en.wikipedia.org/wiki/Mental_process
@@ -2612,11 +2675,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognition
 
 
+  =================================================================
   /Подсознание /Подсознательное
   https://en.wikipedia.org/wiki/Subconscious
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  =================================================================
   Психические явления > Психический процесс > Эмоциональные процессы > /Mental state  /Психические состояния
   Психические явления > /Mental state  /Психические состояния
   https://en.wikipedia.org/wiki/Mental_state
@@ -2624,11 +2689,13 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
+  =================================================================
   Психические явления > /психические свойства
   https://cs.wikipedia.org/wiki/Psychická_vlastnost  психические свойства  (Психические явления)
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
+  =================================================================
   /Behavior
   https://en.wikipedia.org/wiki/Behavior
     <= https://en.wikipedia.org/wiki/Experimental_psychology
@@ -2655,13 +2722,17 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Experimental_psychology
   https://pl.wikipedia.org/wiki/Warunkowanie  обусловливание
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Reaction_formation
+    <= https://en.wikipedia.org/wiki/Experimental_psychology
 
 
+  =================================================================
   /Psychodynamics
   https://en.wikipedia.org/wiki/Psychodynamics
     <= https://en.wikipedia.org/wiki/Mental_process
 
 
+  =================================================================
   /Modularity_of_mind
   https://en.wikipedia.org/wiki/Modularity_of_mind
 
@@ -2741,6 +2812,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Karl_H._Pribram
 
 
+  =================================================================
   /Патологии
   https://en.wikipedia.org/wiki/Abnormal_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2763,8 +2835,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
 
-  https://en.wikipedia.org/wiki/Acoustics
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pragmatics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Source-monitoring_error
@@ -3138,6 +3208,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Statistics
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
+
+  =================================================================
   /Personality
   https://en.wikipedia.org/wiki/Personality
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3150,6 +3222,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Trait_theory  черты характера
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Big_Five_personality_traits
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Temperament
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -3305,11 +3379,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Fixed_action_pattern
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  /Judgement
-  https://en.wikipedia.org/wiki/Value_judgment
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Rational_choice_model
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   https://en.wikipedia.org/wiki/Heuristic_(computer_science)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3322,8 +3391,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Cognitive_imitation
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Johari_window
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Temperament
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_apprenticeship
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3360,6 +3427,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Shared_intentionality
     <= https://en.wikipedia.org/wiki/Cognition
 
+
+  =================================================================
   #region https://en.wikipedia.org/wiki/Neuropsychoanalysis
     https://en.wikipedia.org/wiki/Sigmund_Freud
     https://en.wikipedia.org/wiki/Id,_ego_and_superego
@@ -3381,6 +3450,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     Что мне мешает трактовать, что базовый инстинкт продолжения рода у людей и так проявляется в виде влюблённости, без введения "сексуальной энергии"
   #endregion
 
+
   https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн ) (Theory of Mind)
     <= https://en.wikipedia.org/wiki/Theory_of_Mind
   #region Продолжение теста Салли-Энн
@@ -3396,6 +3466,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   #endregion
 
 
+  =================================================================
   /Experiment
   #region Экспериментальная_психология
     https://en.wikipedia.org/wiki/Experimental_psychology (https://ru.wikipedia.org/wiki/Экспериментальная_психология )
@@ -3731,10 +3802,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://de.wikipedia.org/wiki/Reaktivität_(Sozialwissenschaften)  Реактивность
     <= https://en.wikipedia.org/wiki/Experimental_psychology
 
-  https://en.wikipedia.org/wiki/Reaction_formation
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
-  https://pl.wikipedia.org/wiki/Odruch_warunkowy Условный рефлекс  (не ведёт напрямую в https://en.wikipedia.org/wiki/Classical_conditioning )
-    <= https://en.wikipedia.org/wiki/Experimental_psychology
 
   #region Эмпирическая психология
     https://en.wikipedia.org/wiki/Empirical_psychology (https://uk.wikipedia.org/wiki/Емпірична_психологія )
@@ -3778,8 +3845,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Category:Cognitive_neuroscience
 
 
-  https://en.wikipedia.org/wiki/Cultural_psychology
-    <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
 
 
 

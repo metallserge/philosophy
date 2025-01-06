@@ -171,12 +171,12 @@
 
       [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
       * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
-      (следующие 3 неправильные)
-      * [cs] внимание  (этого не должно быть здесь)  https://en.wikipedia.org/wiki/Attention
-      * [cs] память  (этого не должно быть здесь)  https://en.wikipedia.org/wiki/Memory
-      * [cs] эмоциональный  https://en.wikipedia.org/wiki/Emotion
       * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
       * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
+      (следующие 3 неправильные)
+      * [cs] внимание  https://en.wikipedia.org/wiki/Attention
+      * [cs] память  https://en.wikipedia.org/wiki/Memory
+      * [cs] эмоциональный  https://en.wikipedia.org/wiki/Emotion
 
       [cs] психические состояния  https://en.wikipedia.org/wiki/Mental_state
       * [cs] состояния внимания
@@ -238,12 +238,14 @@
       Психодинамические
 
 
+    ===============================================
     Психическая функция / Умственная функция
 
     ===============================================
     Когнитивные навыки https://en.wikipedia.org/wiki/Cognitive_skill
 
 
+    ===============================================
     https://en.wikipedia.org/wiki/Cognitive_psychology
     [en][zh][simple] Основные направления исследований
       [en] Категоризация
@@ -341,6 +343,7 @@
         * [en][zh] Решение проблем  (https://en.wikipedia.org/wiki/Problem_solving )
 
 
+    ===============================================
     https://en.wikipedia.org/wiki/Cognitive_psychology
     [fi] Концепции когнитивной психологии
       [fi] Схемы  https://en.wikipedia.org/wiki/Schema_(psychology)
