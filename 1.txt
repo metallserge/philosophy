@@ -1,167 +1,265 @@
 
-    Познание  https://en.wikipedia.org/wiki/Cognition
-    Основные понятия	
-    * Информация  https://en.wikipedia.org/wiki/Information
-    * Ментальное представление  https://en.wikipedia.org/wiki/Mental_representation
-      * когнитивная карта  https://en.wikipedia.org/wiki/Cognitive_map
-    * Когнитивная сложность  https://en.wikipedia.org/wiki/Cognitive_complexity
     * Мозг  https://en.wikipedia.org/wiki/Brain
       * нейронный субстрат  https://en.wikipedia.org/wiki/Neural_substrate
-    * Когнитивные искажения  https://en.wikipedia.org/wiki/Cognitive_bias
-      * Список  https://en.wikipedia.org/wiki/List_of_cognitive_biases
-    * Когнитивная революция  https://en.wikipedia.org/wiki/Cognitive_revolution
-    * Сознание  https://en.wikipedia.org/wiki/Consciousness
+
+    * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+      (психические функции?)
+      * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+        (когнитивные функции?)
+        * Восприятие  https://en.wikipedia.org/wiki/Perception
+          Иерархия восприятия:
+          * Сенсорное восприятие / Ощущение  https://en.wikipedia.org/wiki/Sense
+            * Дистальный стимул  https://en.wikipedia.org/wiki/Distal
+            * Проксимальный стимул  https://en.wikipedia.org/wiki/Proximal
+            * Трансдукция  https://en.wikipedia.org/wiki/Transduction_(physiology)
+          
+            Классификация ощущений Шеррингтона
+            * Экстероцепция / Экстероцептивные ощущения / Органы чувств (человека)  https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств )
+              * Зрение  https://en.wikipedia.org/wiki/Visual_perception
+                * Визуальное  https://kk.wikipedia.org/wiki/Көру_түйсігі
+                * Цветное зрение  https://en.wikipedia.org/wiki/Color_vision
+                  * RGB-модель  https://en.wikipedia.org/wiki/RGB_color_model
+                * Восприятие глубины  https://en.wikipedia.org/wiki/Depth_perception
+                * Восприятие формы  https://en.wikipedia.org/wiki/Form_perception
+                * Периферическое зрение  https://en.wikipedia.org/wiki/Peripheral_vision
+              * Слух  https://en.wikipedia.org/wiki/Hearing
+                * Психоакустика  https://en.wikipedia.org/wiki/Psychoacoustics
+                * Гармоники  https://en.wikipedia.org/wiki/Harmonic
+                * Высота тона  https://en.wikipedia.org/wiki/Pitch_(music)
+                (думаю отдельно)
+                * Восприятие речи  https://en.wikipedia.org/wiki/Speech_perception
+              * Обоняние  https://en.wikipedia.org/wiki/Sense_of_smell
+              * Вкус  https://en.wikipedia.org/wiki/Taste
+              * Кожные рецепторы и Проприоцепторы (пока затрудняюсь)
+                * Кожные рецепторы  https://en.wikipedia.org/wiki/Cutaneous_receptor
+                * Соматосенсорная система  https://en.wikipedia.org/wiki/Somatosensory_system
+              * Вестибулярный аппарат
+            (затрудняюсь, в Экстероцепция или Проприоцепция)
+            * Тактильное / чувство осязания  https://en.wikipedia.org/wiki/Haptic_perception
+              * Касания  https://en.wikipedia.org/wiki/Touch
+            * Интероцепция / Интероцептивные ощущения  https://en.wikipedia.org/wiki/Interoception + https://en.wikipedia.org/wiki/Sense#Internal
+              (хз)
+              * Восприятие как интерпретация  https://en.wikipedia.org/wiki/Aesthetic_interpretation
+            * Проприоцепция / Проприоцептивные ощущения  https://en.wikipedia.org/wiki/Proprioception
+            (пока хз куда)
+            * Восприятие времени  https://en.wikipedia.org/wiki/Time_perception
+            * Сенсорные сигналы  https://en.wikipedia.org/wiki/Sensory_cue
+            * ASMR  https://en.wikipedia.org/wiki/ASMR
+      
+            Свойства ощущений
+            * Модальность
+            * Интенсивность
+            * Локализация
+            * Длительность
+      
+            * Сенсорный порог  https://en.wikipedia.org/wiki/Sense > Thresholds  + https://en.wikipedia.org/wiki/Sensory_threshold
+              * Абсолютный порог / Absolute threshold  https://en.wikipedia.org/wiki/Absolute_threshold
+              * Differential threshold  https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference
+                * Закон_Вебера_—_Фехнера  https://en.wikipedia.org/wiki/Weber–Fechner_law
+                * Закон_Стивенса  https://en.wikipedia.org/wiki/Stevens%27s_power_law
+              * Terminal threshold
+              * Sensory adaptation  https://en.wikipedia.org/wiki/Sense > Sensory adaptation
+              * Neural adaptation  https://en.wikipedia.org/wiki/Sensory_adaptation = https://en.wikipedia.org/wiki/Neural_adaptation
+      
+            * Мультимодальное восприятие  https://en.wikipedia.org/wiki/Sense > Multimodal perception => https://en.wikipedia.org/wiki/Multimodal_integration = https://en.wikipedia.org/wiki/Multisensory_integration
+          
+            * Теория обнаружения сигналов  https://en.wikipedia.org/wiki/Detection_theory = https://en.wikipedia.org/wiki/Signal_detection_theory
+            * Частный перцептивный опыт  https://en.wikipedia.org/wiki/Sense > Private perceptive experience
+              * Квалия  https://en.wikipedia.org/wiki/Qualia
+            * Сенсорная нейробиология и биология восприятия  https://en.wikipedia.org/wiki/Sense > Sensory neuroscience and the biology of perception => https://en.wikipedia.org/wiki/Sensory_neuroscience
+              * Sensory nervous system  https://en.wikipedia.org/wiki/Sensory_nervous_system
+              * Sensory neuron  https://en.wikipedia.org/wiki/Sensory_neuron
+      
+          * Когнитивное восприятие — интерпретация и осмысление полученной сенсорной информации
+          (не понятно, Cognition это и есть Когнитивное восприятие? В определении наоборот, восприятие является частью Cognition)
+      
+          * Целостное восприятие
+            * Амодальное  https://en.wikipedia.org/wiki/Amodal_perception
+            * Modal / Amodal completion / Модальное завершение
+          (пока хз куда)
+          * Оптические иллюзии  https://en.wikipedia.org/wiki/Optical_illusion
+          (пока хз куда)
+          * Мысленные образы  https://en.wikipedia.org/wiki/Mental_image
+          * Мысленное вращение  https://en.wikipedia.org/wiki/Mental_rotation
+          (Социальное вынесено отдельно ниже)
+          * Социальное  https://en.wikipedia.org/wiki/Social_perception
+            * Социальное  https://kk.wikipedia.org/wiki/Әлеуметтік_қабылдау
+      
+        (наверное нужно все остальные поместить внутрь этого, нужно обработать Cognition.txt)
+        * Познание  https://en.wikipedia.org/wiki/Cognition
+        * Сознание  https://en.wikipedia.org/wiki/Consciousness
+        * Внимание  https://en.wikipedia.org/wiki/Attention
+          * Фокусировка  https://en.wikipedia.org/wiki/Attentional_control
+            * Продолжительность  https://en.wikipedia.org/wiki/Attention_span
+          * Отвлечение  https://en.wikipedia.org/wiki/Distraction
+          * Многозадачность  https://en.wikipedia.org/wiki/Human_multitasking
+          * Ориентация внимания  https://en.wikipedia.org/wiki/Attentional_shift
+          * Бдительность  https://en.wikipedia.org/wiki/Alertness
+          * Теория интеграции функций  https://en.wikipedia.org/wiki/Feature_integration_theory
+        * Память  https://en.wikipedia.org/wiki/Memory
+          * Консолидация   https://en.wikipedia.org/wiki/Memory_consolidation
+          * Кодирование  https://en.wikipedia.org/wiki/Encoding_(memory)
+          * Хранение  https://en.wikipedia.org/wiki/Storage_(memory)
+          * Извлечение  https://zh-yue.wikipedia.org/wiki/記憶#提取
+            * Воспоминание / Припоминание / Восстановление / Вспоминание  https://en.wikipedia.org/wiki/Recall_(memory)
+            * Идентификация  https://en.wikipedia.org/wiki/Recognition_memory
+          * Рабочая память  https://en.wikipedia.org/wiki/Working_memory
+            (хз)
+            * Когнитивная нагрузка  https://en.wikipedia.org/wiki/Cognitive_load
+          * Забывание  https://en.wikipedia.org/wiki/Forgetting
+          * Временная апперцепция  https://en.wikipedia.org/wiki/Mental_time_travel
+          * я хз, что это  https://kk.wikipedia.org/wiki/Есте_сақтау
+          * Возрождение ??  https://kk.wikipedia.org/wiki/Қайта_жаңғырту
+        * Язык  https://en.wikipedia.org/wiki/Language
+          * Речь  https://en.wikipedia.org/wiki/Speech
+        * Мышление  https://en.wikipedia.org/wiki/Thought
+          * Подавление мыслей  https://en.wikipedia.org/wiki/Thought_suppression
+          * Абстракция / Абстрагирование  https://en.wikipedia.org/wiki/Abstraction
+          * Реактивное мышление  https://en.wikipedia.org/wiki/Heuristic
+          * Проницательность  https://en.wikipedia.org/wiki/Insight
+        * Теория двойного процесса  https://en.wikipedia.org/wiki/Dual_process_theory
+          * Интуиция  https://en.wikipedia.org/wiki/Intuition
+            (мне кажется сюда)
+            * Ассоциация https://en.wikipedia.org/wiki/Association_(psychology)
+          (не уверен, это, или Rationality)
+          * Рациональность / Разум  https://en.wikipedia.org/wiki/Reason
+        * Суждение  https://en.wikipedia.org/wiki/Judgement
+        * Ум  https://en.wikipedia.org/wiki/Mind
+        * Понимание  https://en.wikipedia.org/wiki/Understanding
+        * Знание  https://en.wikipedia.org/wiki/Knowledge
+          * Явное знание  https://en.wikipedia.org/wiki/Explicit_knowledge
+          * Неявное знание  https://en.wikipedia.org/wiki/Tacit_knowledge
+          * Концепция  https://en.wikipedia.org/wiki/Concept
+          * Обучение  https://en.wikipedia.org/wiki/Learning
+          * Представление знаний  https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+          * Экспертное знание  https://en.wikipedia.org/wiki/Expert
+          * Ментальная модель  https://en.wikipedia.org/wiki/Mental_model
+          * Ментальное представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
+            * когнитивная карта  https://en.wikipedia.org/wiki/Cognitive_map
+          * Байесовская гипотеза мозга  https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function
+        * Убеждения / Вера  https://en.wikipedia.org/wiki/Belief
+        * Воображение  https://en.wikipedia.org/wiki/Imagination
+        * Креативность  https://en.wikipedia.org/wiki/Creativity
+        * Решение проблем  https://en.wikipedia.org/wiki/Problem_solving
+          * Принятие решений  https://en.wikipedia.org/wiki/Decision-making + https://de.wikipedia.org/wiki/Entscheidung
+          * Планирование  https://en.wikipedia.org/wiki/Planning
+        * Интеллект / Концепция разума  https://en.wikipedia.org/wiki/Intelligence
+          * Человеческий интеллект  https://en.wikipedia.org/wiki/Human_intelligence
+            * Общие факторы интеллекта  https://en.wikipedia.org/wiki/G_factor_(psychometrics)
+            * IQ  https://en.wikipedia.org/wiki/Intelligence_quotient
+            * Одаренность  https://en.wikipedia.org/wiki/Intellectual_giftedness
+            * Гениальность  https://en.wikipedia.org/wiki/Genius
+          * Познавательные способности животных  https://en.wikipedia.org/wiki/Animal_cognition
+          * Интеллект растений  https://en.wikipedia.org/wiki/Plant_intelligence
+          * Интеллектуальный агент  https://en.wikipedia.org/wiki/Intelligent_agent
+        * Метапознание  https://en.wikipedia.org/wiki/Metacognition
+          * Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
+          * Самоанализ  https://en.wikipedia.org/wiki/Introspection
+        * Социальное познание  https://en.wikipedia.org/wiki/Social_cognition
+          * Теория разума  https://en.wikipedia.org/wiki/Theory_of_mind
+      
+        * Когнитивные искажения  https://en.wikipedia.org/wiki/Cognitive_bias
+          * Список  https://en.wikipedia.org/wiki/List_of_cognitive_biases
+        * https://en.wikipedia.org/wiki/List_of_memory_biases
+      
+        (не помню к чему относится)
+        * Функция управления и контроля  https://en.wikipedia.org/wiki/Executive_functions
+        (далее я хз)
+        * Осведомленность https://en.wikipedia.org/wiki/Awareness
+        * Когнитивная гибкость https://en.wikipedia.org/wiki/Cognitive_flexibility
+        * Когнитивная сложность  https://en.wikipedia.org/wiki/Cognitive_complexity
+        * Когнитивная свобода https://en.wikipedia.org/wiki/Cognitive_liberty
+        * Прогностика (https://en.wikipedia.org/wiki/Forecasting ) (affective (https://en.wikipedia.org/wiki/Affective_forecasting ))
+        * Прозорливость  https://en.wikipedia.org/wiki/Foresight_(psychology)
+        * Перспективы  https://en.wikipedia.org/wiki/Prospection
+        * Когнитивный диссонанс  https://en.wikipedia.org/wiki/Cognitive_dissonance
+        * Когнитивная модель  https://en.wikipedia.org/wiki/Cognitive_model
+          * коннекционизм  https://en.wikipedia.org/wiki/Connectionism
+        * Когнитивная архитектура  https://en.wikipedia.org/wiki/Cognitive_architecture
+      
+      * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+        * Эмоции  https://en.wikipedia.org/wiki/Emotion
+        * Чувства  https://en.wikipedia.org/wiki/Feeling
+        * Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
+        * Настроение  https://en.wikipedia.org/wiki/Mood_(psychology)
+        (под вопросом)
+        * Психическое состояние (вообще идёт отдельно)  https://en.wikipedia.org/wiki/Mental_state
+      
+      * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
+        * Борьба мотивов
+        * Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
+        * Мотивация  https://en.wikipedia.org/wiki/Motivation
+        * Намерение  https://en.wikipedia.org/wiki/Intention + https://en.wikipedia.org/wiki/Intentionality
+        * Воля  https://en.wikipedia.org/wiki/Volition_(psychology) + https://en.wikipedia.org/wiki/Will_(philosophy)
+        * Проактивность  https://en.wikipedia.org/wiki/Proactivity
+        (от себя)
+        * Волевые качества  https://cs.wikipedia.org/wiki/Volní_vlastnosti
+        (не очень понятно, почему это здесь)
+        * Теория принятия решений  https://en.wikipedia.org/wiki/Decision_theory
+      
+      * Социальные процессы  https://en.wikipedia.org/wiki/Social_psychology  найти Социальные процессы
+        * Отношение  https://et.wikipedia.org/wiki/Hoiak
+      
+      * Психодинамические процессы  https://en.wikipedia.org/wiki/Psychodynamics  найти Психодинамические процессы
+
+
+    * Подходы к мышлению
+      (может быть это метапознание)
+      * Критическое мышление  https://en.wikipedia.org/wiki/Critical_thinking
+      * Эгциклопедическое мышление (сам придумал)
+
+
+    * Лингвистика  https://en.wikipedia.org/wiki/Linguistics
+      * Когнитивная лингвистика  https://en.wikipedia.org/wiki/Cognitive_linguistics
+
+
+    * Психология  https://en.wikipedia.org/wiki/Psychology
+      * Когнитивная психология  https://en.wikipedia.org/wiki/Cognitive_psychology
+        * Когнитивная революция  https://en.wikipedia.org/wiki/Cognitive_revolution
+
+
+    * Информация  https://en.wikipedia.org/wiki/Information
+      * Теория информации  https://en.wikipedia.org/wiki/Information_theory
+
 
     методы исследования
     * Психологические эксперименты  https://en.wikipedia.org/wiki/Experimental_psychology
       * время реакции  https://en.wikipedia.org/wiki/Mental_chronometry
       * отслеживание глаз  https://en.wikipedia.org/wiki/Eye_tracking
       * игра-головоломка  https://en.wikipedia.org/wiki/Puzzle
-    * Когнитивная модель  https://en.wikipedia.org/wiki/Cognitive_model
-      * коннекционизм  https://en.wikipedia.org/wiki/Connectionism
-    * Когнитивная архитектура  https://en.wikipedia.org/wiki/Cognitive_architecture
     * Нейровизуализация  https://en.wikipedia.org/wiki/Neuroimaging
 
 
-    Психические процессы  https://en.wikipedia.org/wiki/Mental_process
-    (психические функции?)
-    * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
-      (когнитивные функции?)
-      * Восприятие  https://en.wikipedia.org/wiki/Perception
-        Иерархия восприятия:
-        * Сенсорное восприятие / Ощущение  https://en.wikipedia.org/wiki/Sense
-          * Дистальный стимул  https://en.wikipedia.org/wiki/Distal
-          * Проксимальный стимул  https://en.wikipedia.org/wiki/Proximal
-          * Трансдукция  https://en.wikipedia.org/wiki/Transduction_(physiology)
-        
-          Классификация ощущений Шеррингтона
-          * Экстероцепция / Экстероцептивные ощущения / Органы чувств (человека)  https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств )
-            * Зрение  https://en.wikipedia.org/wiki/Visual_perception
-              * Визуальное  https://kk.wikipedia.org/wiki/Көру_түйсігі
-              * Цветное зрение  https://en.wikipedia.org/wiki/Color_vision
-                * RGB-модель  https://en.wikipedia.org/wiki/RGB_color_model
-              * Восприятие глубины  https://en.wikipedia.org/wiki/Depth_perception
-              * Восприятие формы  https://en.wikipedia.org/wiki/Form_perception
-              * Периферическое зрение  https://en.wikipedia.org/wiki/Peripheral_vision
-            * Слух  https://en.wikipedia.org/wiki/Hearing
-              * Восприятие высоты звука  https://en.wikipedia.org/wiki/Pitch_(music)
-              * Восприятие речи  https://en.wikipedia.org/wiki/Speech_perception
-            * Обоняние  https://en.wikipedia.org/wiki/Sense_of_smell
-            * Вкус  https://en.wikipedia.org/wiki/Taste
-            * Кожные рецепторы и Проприоцепторы
-              * Кожные рецепторы  https://en.wikipedia.org/wiki/Cutaneous_receptor
-              * Соматосенсорная система  https://en.wikipedia.org/wiki/Somatosensory_system
-            * Вестибулярный аппарат
-          (затрудняюсь, в Экстероцепция или Проприоцепция)
-          * Тактильное / чувство осязания  https://en.wikipedia.org/wiki/Haptic_perception
-            * Касания  https://en.wikipedia.org/wiki/Touch
-          * Интероцепция / Интероцептивные ощущения  https://en.wikipedia.org/wiki/Interoception + https://en.wikipedia.org/wiki/Sense#Internal
-          * Проприоцепция / Проприоцептивные ощущения  https://en.wikipedia.org/wiki/Proprioception
-          (пока хз куда)
-          * Восприятие времени  https://en.wikipedia.org/wiki/Time_perception
-          * Сенсорные сигналы  https://en.wikipedia.org/wiki/Sensory_cue
-
-          Свойства ощущений
-          * Модальность
-          * Интенсивность
-          * Локализация
-          * Длительность
-
-          * Сенсорный порог  https://en.wikipedia.org/wiki/Sense > Thresholds  + https://en.wikipedia.org/wiki/Sensory_threshold
-            * Абсолютный порог / Absolute threshold  https://en.wikipedia.org/wiki/Absolute_threshold
-            * Differential threshold  https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference
-              * Закон_Вебера_—_Фехнера  https://en.wikipedia.org/wiki/Weber–Fechner_law
-              * Закон_Стивенса  https://en.wikipedia.org/wiki/Stevens%27s_power_law
-            * Terminal threshold
-            * Sensory adaptation  https://en.wikipedia.org/wiki/Sense > Sensory adaptation
-            * Neural adaptation  https://en.wikipedia.org/wiki/Sensory_adaptation = https://en.wikipedia.org/wiki/Neural_adaptation
-
-          * Мультимодальное восприятие  https://en.wikipedia.org/wiki/Sense > Multimodal perception => https://en.wikipedia.org/wiki/Multimodal_integration = https://en.wikipedia.org/wiki/Multisensory_integration
-        
-          * Теория обнаружения сигнала  https://en.wikipedia.org/wiki/Detection_theory = https://en.wikipedia.org/wiki/Signal_detection_theory
-          * Частный перцептивный опыт  https://en.wikipedia.org/wiki/Sense > Private perceptive experience
-            * Квалия  https://en.wikipedia.org/wiki/Qualia
-          * Сенсорная нейробиология и биология восприятия  https://en.wikipedia.org/wiki/Sense > Sensory neuroscience and the biology of perception => https://en.wikipedia.org/wiki/Sensory_neuroscience
-            * Sensory nervous system  https://en.wikipedia.org/wiki/Sensory_nervous_system
-            * Sensory neuron  https://en.wikipedia.org/wiki/Sensory_neuron
-        * Когнитивное восприятие — интерпретация и осмысление полученной сенсорной информации
-        (пока хз куда)
-        * Оптические иллюзии  https://en.wikipedia.org/wiki/Optical_illusion
-        (пока хз куда)
-        * Мысленные образы  https://en.wikipedia.org/wiki/Mental_image
-          * Мысленное вращение  https://en.wikipedia.org/wiki/Mental_rotation
-    * Внимательность  https://en.wikipedia.org/wiki/Attention
-      * Фокусировка  https://en.wikipedia.org/wiki/Attentional_control
-        * Продолжительность  https://en.wikipedia.org/wiki/Attention_span
-      * Отвлечение  https://en.wikipedia.org/wiki/Distraction
-      * Многозадачность  https://en.wikipedia.org/wiki/Human_multitasking
-      * Ориентация внимания  https://en.wikipedia.org/wiki/Attentional_shift
-      * Бдительность  https://en.wikipedia.org/wiki/Alertness
-      * Теория интеграции функций  https://en.wikipedia.org/wiki/Feature_integration_theory
-    * Память  https://en.wikipedia.org/wiki/Memory
-      * Кодирование  https://en.wikipedia.org/wiki/Encoding_(memory)
-      * Хранение  https://en.wikipedia.org/wiki/Storage_(memory)
-      * Извлечение  https://zh-yue.wikipedia.org/wiki/記憶#提取
-        * Припоминание  https://en.wikipedia.org/wiki/Recall_(memory)
-        * Идентификация  https://en.wikipedia.org/wiki/Recognition_memory
-      * Рабочая память  https://en.wikipedia.org/wiki/Working_memory
-        * Когнитивная нагрузка  https://en.wikipedia.org/wiki/Cognitive_load
-      * Временная апперцепция  https://en.wikipedia.org/wiki/Mental_time_travel
-    * Решать проблемы  https://en.wikipedia.org/wiki/Problem_solving
-      * Мышление  https://en.wikipedia.org/wiki/Thought
-      * Принятие решений  https://en.wikipedia.org/wiki/Decision-making
-        * Обнаружение сигналов  https://en.wikipedia.org/wiki/Detection_theory
-      * Планирование  https://en.wikipedia.org/wiki/Planning
-      * Теория двойного процесса  https://en.wikipedia.org/wiki/Dual_process_theory
-        * Интуиция  https://en.wikipedia.org/wiki/Intuition
-        * Рациональность  https://en.wikipedia.org/wiki/Reason
-      * Реактивное мышление  https://en.wikipedia.org/wiki/Heuristic
-      * Проницательность  https://en.wikipedia.org/wiki/Insight
-    * Знание  https://en.wikipedia.org/wiki/Knowledge
-      * Явное знание  https://en.wikipedia.org/wiki/Explicit_knowledge
-      * Неявное знание  https://en.wikipedia.org/wiki/Tacit_knowledge
-      * Концепция
-      * Абстракция
-      * Представление знаний  https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
-      * Экспертное знание  https://en.wikipedia.org/wiki/Expert
-      * Ментальная модель  https://en.wikipedia.org/wiki/Mental_model
-      * Байесовская гипотеза мозга  https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function
-    * Разные функции
-      * Понимание  https://en.wikipedia.org/wiki/Understanding
-      * Обучение  https://en.wikipedia.org/wiki/Learning
-      * Языковое познание  https://en.wikipedia.org/wiki/Cognitive_linguistics
-      * Воображение  https://en.wikipedia.org/wiki/Imagination
-      * Метапознание  https://en.wikipedia.org/wiki/Metacognition
-      * Социальное познание  https://en.wikipedia.org/wiki/Social_cognition
-      * Теория разума  https://en.wikipedia.org/wiki/Theory_of_mind
-      * Функция управления и контроля  https://en.wikipedia.org/wiki/Executive_functions
-  * Концепция разума  https://en.wikipedia.org/wiki/Intelligence
-    * Человеческий интеллект  https://en.wikipedia.org/wiki/Human_intelligence
-      * Общие факторы интеллекта  https://en.wikipedia.org/wiki/G_factor_(psychometrics)
-      * IQ  https://en.wikipedia.org/wiki/Intelligence_quotient
-      * Одаренность  https://en.wikipedia.org/wiki/Intellectual_giftedness
-      * Гениальность  https://en.wikipedia.org/wiki/Genius
-    * Познавательные способности животных  https://en.wikipedia.org/wiki/Animal_cognition
-    * Интеллект растений  https://en.wikipedia.org/wiki/Plant_intelligence
-    * Интеллектуальный агент  https://en.wikipedia.org/wiki/Intelligent_agent
-    * Креативность  https://en.wikipedia.org/wiki/Creativity
-  * Связанные поля	https://en.wikipedia.org/wiki/Cognitive_science
-    * Сфера разума (https://en.wikipedia.org/wiki/Psychology ) и мозга (https://en.wikipedia.org/wiki/Neuroscience )
+    Науки
+      * Когнитивная наука  https://en.wikipedia.org/wiki/Cognitive_science
+          * Когнитивная психология  https://en.wikipedia.org/wiki/Cognitive_psychology
+          ...
+      * Нейробиология  https://en.wikipedia.org/wiki/Neuroscience
       * Когнитивная психология  https://en.wikipedia.org/wiki/Cognitive_psychology
       * Математическая психология  https://en.wikipedia.org/wiki/Mathematical_psychology
       * Психофизика  https://en.wikipedia.org/wiki/Psychophysics
       * Когнитивная нейробиология  https://en.wikipedia.org/wiki/Cognitive_neuroscience
       * Вычислительная нейробиология  https://en.wikipedia.org/wiki/Computational_neuroscience
       * Психометрия  https://en.wikipedia.org/wiki/Psychometrics
-    * Другое
-      * Теория информации  https://en.wikipedia.org/wiki/Information_theory
+
+
+    Непонятно куда
+    * Эмпирическое избегание  https://en.wikipedia.org/wiki/Experiential_avoidance
+    * Высшая нервная деятельность  https://en.wikipedia.org/wiki/Higher_nervous_activity
+      * Высшая нервная деятельность  https://kk.wikipedia.org/wiki/Жоғары_жүйке_қызметі
+    * Теория иронического процесса  https://en.wikipedia.org/wiki/Ironic_process_theory
+    * Умственная усталость  https://en.wikipedia.org/wiki/Fatigue
+    * Теория реляционных фреймов  https://en.wikipedia.org/wiki/Relational_frame_theory
+    * Психическая установка  https://en.wikipedia.org/wiki/Set_(psychology)
+
+
+    Необработанное
     · * ИИ  https://en.wikipedia.org/wiki/Artificial_intelligence
       * Робототехника  https://en.wikipedia.org/wiki/Robotics
-      * Лингвистика  https://en.wikipedia.org/wiki/Linguistics
-        * Когнитивная лингвистика  https://en.wikipedia.org/wiki/Cognitive_linguistics
       * Статистика  https://en.wikipedia.org/wiki/Statistics
-      * Теория принятия решений  https://en.wikipedia.org/wiki/Decision_theory
       * Эргономика, Человеческий фактор, Инженерия человеческого фактора  https://en.wikipedia.org/wiki/Ergonomics
       * Взаимодействие человека с компьютером  https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+
+
+  Философия
       * Теория познания  https://en.wikipedia.org/wiki/Epistemology
-  * Когнитивный  https://en.wikipedia.org/wiki/Category:Cognition
