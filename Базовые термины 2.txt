@@ -166,23 +166,17 @@
 
 
     ===============================================
-    Психические явления / Психический феномен
-      [cs] https://cs.wikipedia.org/wiki/Psychický_jev
-
-      [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
-      * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+    Психические явления / Психический феномен  https://cs.wikipedia.org/wiki/Psychický_jev
+    * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+      * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
       * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
       * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
-      (следующие 3 неправильные)
-      * [cs] внимание  https://en.wikipedia.org/wiki/Attention
-      * [cs] память  https://en.wikipedia.org/wiki/Memory
-      * [cs] эмоциональный  https://en.wikipedia.org/wiki/Emotion
 
-      [cs] психические состояния  https://en.wikipedia.org/wiki/Mental_state
-      * [cs] состояния внимания
-      * [cs] эмоциональные (https://en.wikipedia.org/wiki/Feeling ) состояния
+    * Психические состояния  https://en.wikipedia.org/wiki/Mental_state
+      * Состояния внимания
+      * Эмоциональные (https://en.wikipedia.org/wiki/Feeling ) состояния
 
-      [cs] психические свойства / Психологическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
+    * Психические свойства / Психическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
       * способности  https://en.wikipedia.org/wiki/Skill
       * черты личности  https://en.wikipedia.org/wiki/Personality
       * темперамент  https://en.wikipedia.org/wiki/Temperament
@@ -190,48 +184,44 @@
 
 
     ===============================================
-    Психические процессы (https://en.wikipedia.org/wiki/Mental_process )
-      [ru][uk][cs][hi][sl] Познавательные / Когнитивные
-      [cs] https://en.wikipedia.org/wiki/Cognitive_process
-      * [ru][uk][hi] Ощущение  https://en.wikipedia.org/wiki/Sense
-      * [ru][uk][et][ar][cs][hi][ko][bg] Восприятие  https://en.wikipedia.org/wiki/Perception
-      * [et][ar][et] Познание  https://en.wikipedia.org/wiki/Cognition
-      * [ru][uk] Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
-      * [ru][uk][cs] Воображение  https://en.wikipedia.org/wiki/Imagination
-      * [ru][uk][cs][hi] Память  https://en.wikipedia.org/wiki/Memory
-      * [ru][uk][cs][hi] Мышление  https://en.wikipedia.org/wiki/Thought
-      * [ru][et][at][et][hi] Внимание  https://en.wikipedia.org/wiki/Attention
-      * [uk] Язык  https://en.wikipedia.org/wiki/Language
-      * [ru] Речь  https://en.wikipedia.org/wiki/Speech
-      * [ru] Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
-      * [uk] Сознание  https://en.wikipedia.org/wiki/Consciousness
-      * [et] Убеждения / вера  https://en.wikipedia.org/wiki/Belief
-      * [et][cs] Обучение  https://en.wikipedia.org/wiki/Learning
-      * [cs] Интеллект  https://en.wikipedia.org/wiki/Intelligence
+    Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+      * Ощущение  https://en.wikipedia.org/wiki/Sense
+      * Восприятие  https://en.wikipedia.org/wiki/Perception
+      * Познание  https://en.wikipedia.org/wiki/Cognition
+      * Представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
+      * Воображение  https://en.wikipedia.org/wiki/Imagination
+      * Память  https://en.wikipedia.org/wiki/Memory
+      * Мышление  https://en.wikipedia.org/wiki/Thought
+      * Внимание  https://en.wikipedia.org/wiki/Attention
+      * Язык  https://en.wikipedia.org/wiki/Language
+      * Речь  https://en.wikipedia.org/wiki/Speech
+      * Рефлексия  https://en.wikipedia.org/wiki/Self-reflection
+      * Сознание  https://en.wikipedia.org/wiki/Consciousness
+      * Убеждения / вера  https://en.wikipedia.org/wiki/Belief
+      * Обучение  https://en.wikipedia.org/wiki/Learning
+      * Интеллект  https://en.wikipedia.org/wiki/Intelligence
 
-      [ru][uk][cs][sl] Эмоциональные процессы / Аффективные процессы
-      [ru] https://ru.wikipedia.org/wiki/Эмоциональный_процесс
-      * [ru][uk][et][cs] Эмоции  https://en.wikipedia.org/wiki/Emotion
-      * [ru][uk] Чувства  https://en.wikipedia.org/wiki/Feeling
-      * [ru] Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
-      * [ru] Настроения  https://en.wikipedia.org/wiki/Mood_(psychology)
-      * [uk] Психическое состояние  https://en.wikipedia.org/wiki/Mental_state
+    * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+      * Эмоции  https://en.wikipedia.org/wiki/Emotion
+      * Чувства  https://en.wikipedia.org/wiki/Feeling
+      * Аффекты  https://en.wikipedia.org/wiki/Affect_(psychology)
+      * Настроение  https://en.wikipedia.org/wiki/Mood_(psychology)
+      * Психическое состояние  https://en.wikipedia.org/wiki/Mental_state
 
-      [ru][uk][sl] Мотивационные процессы / Волевые процессы
-      [cs] https://cs.wikipedia.org/wiki/Volní_procesy
-      * [ru] Борьба мотивов
-      * [ru] Принятие решения  https://en.wikipedia.org/wiki/Decision_theory
-      * [ru] Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
-      * [uk][et] Мотивация   https://en.wikipedia.org/wiki/Motivation
-      * [uk] Воля  https://en.wikipedia.org/wiki/Volition_(psychology) + https://en.wikipedia.org/wiki/Will_(philosophy)
-      * [uk] Проактивность  https://en.wikipedia.org/wiki/Proactivity
+    * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
+      * Борьба мотивов
+      * Принятие решения  https://en.wikipedia.org/wiki/Decision_theory
+      * Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
+      * Мотивация   https://en.wikipedia.org/wiki/Motivation
+      * Воля  https://en.wikipedia.org/wiki/Volition_(psychology) + https://en.wikipedia.org/wiki/Will_(philosophy)
+      * Проактивность  https://en.wikipedia.org/wiki/Proactivity
       * (от себя) Волевые качества  https://cs.wikipedia.org/wiki/Volní_vlastnosti
 
-      Социальные
-      * [et] Отношение  https://et.wikipedia.org/wiki/Hoiak
+    * Социальные процессы  https://en.wikipedia.org/wiki/Social_psychology  найти Социальные процессы
+      * Отношение  https://et.wikipedia.org/wiki/Hoiak
 
-      Психодинамические
-      https://en.wikipedia.org/wiki/Psychodynamics
+    * Психодинамические процессы  https://en.wikipedia.org/wiki/Psychodynamics  найти Психодинамические процессы
 
 
     ===============================================

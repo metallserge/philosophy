@@ -146,8 +146,13 @@
       * [uk] Проактивность  https://en.wikipedia.org/wiki/Proactivity
       * (от себя) Волевые качества  https://cs.wikipedia.org/wiki/Volní_vlastnosti
 
-      Социальные
+      [et] Социальные
+      [fr] https://en.wikipedia.org/wiki/Social_psychology
       * [et] Отношение  https://et.wikipedia.org/wiki/Hoiak
+
+      [fr] Психодинамические процессы
+      [fr] https://en.wikipedia.org/wiki/Psychodynamics
+
     #endregion
 
 
