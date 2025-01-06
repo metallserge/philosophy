@@ -16,7 +16,7 @@
     * [en] Прозорливость  https://en.wikipedia.org/wiki/Foresight_(psychology)
     * [en][fa][zh][ko][kk] Понимание  https://en.wikipedia.org/wiki/Understanding
     * [en][fa][zh][ko][simple][tr][bn] Сознание  https://en.wikipedia.org/wiki/Consciousness
-    * [kk] Сознание  https://en.wikipedia.org/wiki/Mind
+    * [kk] Ум  https://en.wikipedia.org/wiki/Mind
     * [en][kk][simple] Критическое мышление  https://en.wikipedia.org/wiki/Critical_thinking
     * [en][fa][zh][zh][simple] Принятие решений  https://en.wikipedia.org/wiki/Decision-making
     * [kk] Принятие решений  https://de.wikipedia.org/wiki/Entscheidung
