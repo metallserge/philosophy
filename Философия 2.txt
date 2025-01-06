@@ -1429,9 +1429,28 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   =================================================================
-  /Психические явления
-  https://cs.wikipedia.org/wiki/Psychický_jev  Психические явления
-    <= https://en.wikipedia.org/wiki/Mental_process
+  #region /Психические явления / Психический феномен
+    https://cs.wikipedia.org/wiki/Psychický_jev
+      <= https://en.wikipedia.org/wiki/Mental_process
+    Языки
+    cs переобработать
+
+    [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+    * [cs] внимание  https://en.wikipedia.org/wiki/Attention
+    * [cs] память  https://en.wikipedia.org/wiki/Memory
+    * [cs] эмоциональный  https://en.wikipedia.org/wiki/Emotion
+
+    [cs] психические состояния  https://en.wikipedia.org/wiki/Mental_state
+    * [cs] состояния внимания  https://en.wikipedia.org/wiki/Attention
+    * [cs] эмоциональные состояния  https://en.wikipedia.org/wiki/Feeling
+
+    [cs] психические свойства / Психологическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
+    * способности  https://en.wikipedia.org/wiki/Skill
+    * черты личности  https://en.wikipedia.org/wiki/Personality
+    * темперамент  https://en.wikipedia.org/wiki/Temperament
+    * персонаж
+  #endregion
 
 
   =================================================================
@@ -2178,7 +2197,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Self-consciousness
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
-
+  https://en.wikipedia.org/wiki/Self-knowledge_(psychology)
+    <= https://en.wikipedia.org/wiki/Mental_process
 
   =================================================================
   /Intuition
