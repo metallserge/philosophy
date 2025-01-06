@@ -1,7 +1,28 @@
 
+    ===============================================
     * Мозг  https://en.wikipedia.org/wiki/Brain
       * нейронный субстрат  https://en.wikipedia.org/wiki/Neural_substrate
 
+
+    ===============================================
+    Психические явления / Психический феномен  https://cs.wikipedia.org/wiki/Psychický_jev
+    * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+      * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+      * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+      * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
+
+    * Психические состояния  https://en.wikipedia.org/wiki/Mental_state
+      * Состояния внимания
+      * Эмоциональные (https://en.wikipedia.org/wiki/Feeling ) состояния
+
+    * Психические свойства / Психическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
+      * способности  https://en.wikipedia.org/wiki/Skill
+      * черты личности  https://en.wikipedia.org/wiki/Personality
+      * темперамент  https://en.wikipedia.org/wiki/Temperament
+      * персонаж
+
+
+    ===============================================
     * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
       (психические функции?)
       * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
@@ -84,7 +105,7 @@
           (Социальное вынесено отдельно ниже)
           * Социальное  https://en.wikipedia.org/wiki/Social_perception
             * Социальное  https://kk.wikipedia.org/wiki/Әлеуметтік_қабылдау
-      
+
         (наверное нужно все остальные поместить внутрь этого, нужно обработать Cognition.txt)
         * Познание  https://en.wikipedia.org/wiki/Cognition
         * Сознание  https://en.wikipedia.org/wiki/Consciousness
@@ -157,11 +178,11 @@
           * Самоанализ  https://en.wikipedia.org/wiki/Introspection
         * Социальное познание  https://en.wikipedia.org/wiki/Social_cognition
           * Теория разума  https://en.wikipedia.org/wiki/Theory_of_mind
-      
+
         * Когнитивные искажения  https://en.wikipedia.org/wiki/Cognitive_bias
           * Список  https://en.wikipedia.org/wiki/List_of_cognitive_biases
         * https://en.wikipedia.org/wiki/List_of_memory_biases
-      
+
         (не помню к чему относится)
         * Функция управления и контроля  https://en.wikipedia.org/wiki/Executive_functions
         (далее я хз)
@@ -203,25 +224,38 @@
       * Психодинамические процессы  https://en.wikipedia.org/wiki/Psychodynamics  найти Психодинамические процессы
 
 
+    ===============================================
     * Подходы к мышлению
       (может быть это метапознание)
       * Критическое мышление  https://en.wikipedia.org/wiki/Critical_thinking
       * Эгциклопедическое мышление (сам придумал)
 
 
+    ===============================================
+    Психическая функция / Умственная функция
+
+
+    ===============================================
+    Когнитивные навыки https://en.wikipedia.org/wiki/Cognitive_skill
+
+
+    ===============================================
     * Лингвистика  https://en.wikipedia.org/wiki/Linguistics
       * Когнитивная лингвистика  https://en.wikipedia.org/wiki/Cognitive_linguistics
 
 
+    ===============================================
     * Психология  https://en.wikipedia.org/wiki/Psychology
       * Когнитивная психология  https://en.wikipedia.org/wiki/Cognitive_psychology
         * Когнитивная революция  https://en.wikipedia.org/wiki/Cognitive_revolution
 
 
+    ===============================================
     * Информация  https://en.wikipedia.org/wiki/Information
       * Теория информации  https://en.wikipedia.org/wiki/Information_theory
 
 
+    ===============================================
     методы исследования
     * Психологические эксперименты  https://en.wikipedia.org/wiki/Experimental_psychology
       * время реакции  https://en.wikipedia.org/wiki/Mental_chronometry
@@ -230,6 +264,7 @@
     * Нейровизуализация  https://en.wikipedia.org/wiki/Neuroimaging
 
 
+    ===============================================
     Науки
       * Когнитивная наука  https://en.wikipedia.org/wiki/Cognitive_science
           * Когнитивная психология  https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -243,6 +278,7 @@
       * Психометрия  https://en.wikipedia.org/wiki/Psychometrics
 
 
+    ===============================================
     Непонятно куда
     * Эмпирическое избегание  https://en.wikipedia.org/wiki/Experiential_avoidance
     * Высшая нервная деятельность  https://en.wikipedia.org/wiki/Higher_nervous_activity
@@ -253,6 +289,7 @@
     * Психическая установка  https://en.wikipedia.org/wiki/Set_(psychology)
 
 
+    ===============================================
     Необработанное
     · * ИИ  https://en.wikipedia.org/wiki/Artificial_intelligence
       * Робототехника  https://en.wikipedia.org/wiki/Robotics
@@ -261,5 +298,6 @@
       * Взаимодействие человека с компьютером  https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 
 
+    ===============================================
   Философия
       * Теория познания  https://en.wikipedia.org/wiki/Epistemology
