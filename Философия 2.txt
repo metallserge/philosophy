@@ -582,6 +582,164 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Brain (https://ru.wikipedia.org/wiki/Мозг )
 
 
+  #region Почему не назвать всё это "Научной Психологией"?
+    ChatGPT
+      Почему не назвать всё это "Научной Психологией"?
+      Термин "Научная Психология" действительно мог бы объединить все направления, использующие эмпирические данные. Однако более узкие термины помогают уточнить, какой аспект психики исследуется:
+      * Когнитивная психология — внутренние процессы.
+      * Нейропсихология — физиология мозга.
+      * Социальная психология — взаимодействия между людьми.
+      * Экологическая психология — влияние окружающей среды.
+
+    Пример того, как осознаётся, что ты очень мало знаешь:
+    - в начае написания этого текста я имел некоторое представление о Когнитивной психологии, как занимающейся психикой и в основном использующей научный подход
+    - по мере чтения я узнал, что когнитивиная психология базируется на эмпирических экспериментах (а не "в основном использует")
+    -- однако это не мешает конкретным учёным относить себя к когнитивной психологии и при этом не заниматься экспериментами
+    - что научный метод и так уже был на её начало в виде бихевиоризма
+    - далее я стал считать, что когнитивная психология должна заниматься вообще всеми аспектами работы мозга
+    - но оказалось, что "вообщем всеми аспектами работы мозга с научным подходом" занимается не одна, а несколько веток психологии (Когнитивная психология, Нейропсихология, Социальная психология, Экологическая психология, ... какие ещё?)
+  #endregion
+
+
+  https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
+
+
+  https://en.wikipedia.org/wiki/Template:Psychology
+    Basic psychology
+      Abnormal
+    ...
+
+  https://en.wikipedia.org/wiki/Template:Neuroscience
+    <= https://en.wikipedia.org/wiki/Cognitive_process
+
+
+  /History_of_psychology
+  https://en.wikipedia.org/wiki/History_of_psychology
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Würzburg School
+  https://en.wikipedia.org/wiki/History_of_cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Cognitive_revolution
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/History_of_neurology_and_neurosurgery
+    <= https://en.wikipedia.org/wiki/Mental_process
+
+
+  /Cognitive_neuroscience
+  https://en.wikipedia.org/wiki/Cognitive_neuroscience
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Cognitive_science
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Brain_science = https://en.wikipedia.org/wiki/Neuroscience + https://ru.wikipedia.org/wiki/Нейробиология
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://ja.wikipedia.org/wiki/脳科学  наука о мозге
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Cognitive_ethology  когнитивная психология животных
+
+
+  https://en.wikipedia.org/wiki/Neuropsychology
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+
+
+  https://en.wikipedia.org/wiki/Cognitive_neuropsychology
+    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
+    <= https://en.wikipedia.org/wiki/Experimental_psychology > Cognitive psychology
+
+
+  https://en.wikipedia.org/wiki/Cognitive_biology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Evolutionary_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Political_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Positive_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  /Cognitive_psychology
+  [Done] https://en.wikipedia.org/wiki/Cognitive_psychology => Cognitive_psychology.txt
+      <= https://en.wikipedia.org/wiki/Perception
+      <= https://en.wikipedia.org/wiki/History_of_psychology
+      <= https://en.wikipedia.org/wiki/Cognition
+
+
+  https://en.wikipedia.org/wiki/Ecological_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Media_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Behavioral_economics
+    + https://ru.wikipedia.org/wiki/Экономическая_психология
+    + https://pl.wikipedia.org/wiki/Psychologia_biznesu
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Behavioral_Sciences
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Behavioral_neurology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Behavioural_genetics
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Health_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Engineering_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Legal_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://ru.wikipedia.org/wiki/Психология_управления
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Clinical_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+  https://en.wikipedia.org/wiki/Military_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  https://en.wikipedia.org/wiki/Sport_psychology
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  /Психология творчества
+  https://hy.wikipedia.org/wiki/Ստեղծագործության_հոգեբանություն
+    <= https://en.wikipedia.org/wiki/Template:Psychology
+
+
+  /Космическая психология
+  https://hy.wikipedia.org/wiki/Տիեզերական_հոգեբանություն
+
+
   #region Восприятие
     ToDo: все языки
     https://en.wikipedia.org/wiki/Perception
@@ -1251,168 +1409,12 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     + https://kk.wikipedia.org/wiki/Көру_түйсігі
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
+
   (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
   https://en.wikipedia.org/wiki/Representational_systems_(NLP) (https://ru.wikipedia.org/wiki/Репрезентативная_система ) - это терминология Нейролингвистического Программирования, которое считается псевдонаукой
     <= https://ru.wikipedia.org/wiki/Ощущение
 
 
-
-  #region Почему не назвать всё это "Научной Психологией"?
-    ChatGPT
-      Почему не назвать всё это "Научной Психологией"?
-      Термин "Научная Психология" действительно мог бы объединить все направления, использующие эмпирические данные. Однако более узкие термины помогают уточнить, какой аспект психики исследуется:
-      * Когнитивная психология — внутренние процессы.
-      * Нейропсихология — физиология мозга.
-      * Социальная психология — взаимодействия между людьми.
-      * Экологическая психология — влияние окружающей среды.
-
-    Пример того, как осознаётся, что ты очень мало знаешь:
-    - в начае написания этого текста я имел некоторое представление о Когнитивной психологии, как занимающейся психикой и в основном использующей научный подход
-    - по мере чтения я узнал, что когнитивиная психология базируется на эмпирических экспериментах (а не "в основном использует")
-    -- однако это не мешает конкретным учёным относить себя к когнитивной психологии и при этом не заниматься экспериментами
-    - что научный метод и так уже был на её начало в виде бихевиоризма
-    - далее я стал считать, что когнитивная психология должна заниматься вообще всеми аспектами работы мозга
-    - но оказалось, что "вообщем всеми аспектами работы мозга с научным подходом" занимается не одна, а несколько веток психологии (Когнитивная психология, Нейропсихология, Социальная психология, Экологическая психология, ... какие ещё?)
-  #endregion
-
-
-  https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
-
-
-  https://en.wikipedia.org/wiki/Template:Psychology
-    Basic psychology
-      Abnormal
-    ...
-
-  https://en.wikipedia.org/wiki/Template:Neuroscience
-    <= https://en.wikipedia.org/wiki/Cognitive_process
-
-
-  /History_of_psychology
-  https://en.wikipedia.org/wiki/History_of_psychology
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Würzburg School
-  https://en.wikipedia.org/wiki/History_of_cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Cognitive_revolution
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/History_of_neurology_and_neurosurgery
-    <= https://en.wikipedia.org/wiki/Mental_process
-
-
-  /Cognitive_neuroscience
-  https://en.wikipedia.org/wiki/Cognitive_neuroscience
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Cognitive_science
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Brain_science = https://en.wikipedia.org/wiki/Neuroscience + https://ru.wikipedia.org/wiki/Нейробиология
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://ja.wikipedia.org/wiki/脳科学  наука о мозге
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Cognitive_ethology  когнитивная психология животных
-
-
-  https://en.wikipedia.org/wiki/Neuropsychology
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-
-
-  https://en.wikipedia.org/wiki/Cognitive_neuropsychology
-    <= https://en.wikipedia.org/wiki/History_of_psychology > Cognitivism
-    <= https://en.wikipedia.org/wiki/Experimental_psychology > Cognitive psychology
-
-
-  https://en.wikipedia.org/wiki/Cognitive_biology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Evolutionary_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Political_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Positive_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  /Cognitive_psychology
-  [Done] https://en.wikipedia.org/wiki/Cognitive_psychology
-      <= https://en.wikipedia.org/wiki/Perception
-      <= https://en.wikipedia.org/wiki/History_of_psychology
-      <= https://en.wikipedia.org/wiki/Cognition
-
-
-  https://en.wikipedia.org/wiki/Ecological_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Media_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Behavioral_economics
-    + https://ru.wikipedia.org/wiki/Экономическая_психология
-    + https://pl.wikipedia.org/wiki/Psychologia_biznesu
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Behavioral_Sciences
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Behavioral_neurology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Behavioural_genetics
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Health_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Engineering_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Legal_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://ru.wikipedia.org/wiki/Психология_управления
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Clinical_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-
-  https://en.wikipedia.org/wiki/Military_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  https://en.wikipedia.org/wiki/Sport_psychology
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  /Психология творчества
-  https://hy.wikipedia.org/wiki/Ստեղծագործության_հոգեբանություն
-    <= https://en.wikipedia.org/wiki/Template:Psychology
-
-
-  /Космическая психология
-  https://hy.wikipedia.org/wiki/Տիեզերական_հոգեբանություն
 
 
   /Cognition
