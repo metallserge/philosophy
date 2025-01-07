@@ -166,14 +166,4 @@
       [bg] Самосознание (https://en.wikipedia.org/wiki/Self-awareness ) и самопознание (https://en.wikipedia.org/wiki/Self-knowledge_(psychology) ) являются психическими явлениями, свойственными человеческому разуму (https://en.wikipedia.org/wiki/Mind ). Самосознание как человеческое качество присуще развитому разуму.
     #endregion
 
-
-    #region Психическая функция / Психические функции / Умственная функция
-      [et] https://et.wikipedia.org/wiki/Psüühiline_funktsioon
-        <= [et] https://en.wikipedia.org/wiki/Mental_process
-      [it] https://it.wikipedia.org/wiki/Funzioni_psichiche
-        <= [it] https://en.wikipedia.org/wiki/Mental_process
-      [pt] https://pt.wikipedia.org/wiki/Função_mental  но это https://en.wikipedia.org/wiki/Mental_process
-        <= [it] https://en.wikipedia.org/wiki/Mental_process
-    #endregion
-
   #endregion
