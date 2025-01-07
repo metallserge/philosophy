@@ -581,6 +581,105 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     + https://en.wikipedia.org/wiki/Encephalon
 
 
+  https://en.wikipedia.org/wiki/List_of_encyclopedias_by_branch_of_knowledge
+  https://en.wikipedia.org/wiki/International_Encyclopedia_of_the_Social_%26_Behavioral_Sciences
+  #region Дргуие энциклопедии
+    1. "Encyclopedia of Social Theory"
+    Язык: Английский.
+    Описание: Охватывает ключевые теории в области социологии и социальных наук. Издание включает статьи, написанные экспертами в области социальной теории.
+    Издатель: SAGE Publications.
+    2. "Handbook of Sociology"
+    Язык: Английский.
+    Описание: Большая антология, охватывающая основные темы и направления в социологии. Подходит для более глубокого изучения социальных структур, изменений и взаимодействий.
+    3. "Blackwell Encyclopedia of Sociology"
+    Язык: Английский.
+    Описание: Комплексное руководство по социологии, которое содержит статьи от ведущих ученых по всему миру. Доступна в онлайн-версии.
+    4. "The Cambridge Encyclopedia of Anthropology"
+    Язык: Английский.
+    Описание: Специализируется на антропологии, с акцентом на культурные, социальные и биологические аспекты человека.
+    Доступно бесплатно онлайн: cambridgeanthropology.org.
+    5. "Encyclopedia of Psychology"
+    Язык: Английский.
+    Описание: Ориентирована на психологию и поведение. Это многотомное издание, охватывающее широкий спектр психологических явлений.
+    Издатель: American Psychological Association.
+    6. "Handbook of Social Psychology"
+    Язык: Английский.
+    Описание: Содержит информацию о социальном поведении и межличностных взаимодействиях. Рассматривает как теоретические, так и эмпирические исследования.
+    7. "The Encyclopedia of Human Behavior"
+    Язык: Английский.
+    Описание: Углубленный ресурс по человеческому поведению, охватывающий психологию, социологию, поведенческую экономику и другие дисциплины.
+    8. "Энциклопедия Гранат"
+    Язык: Русский.
+    Описание: Хотя это издание историческое (начало XX века), оно содержит множество статей о человеческой культуре, обществе и философии, подходящее для общего понимания.
+    9. "Max Planck Encyclopedia of Comparative Constitutional Law"
+    Язык: Английский.
+    Описание: Специализируется на конституционном праве и включает поведенческие аспекты политики и общества.
+
+Encyclopedia of Sociology (2nd Edition)
+Издание, содержащее более 800 статей, охватывающее широкий спектр социологических тем. 
+SJSU LIBGUIDES
+
+Encyclopedia of Social Work
+Классическое издание, предоставляющее обширную информацию по социальной работе и смежным дисциплинам.
+
+Encyclopedia of Human Behavior
+Многотомное издание, посвященное различным аспектам человеческого поведения.
+
+Encyclopedia of Social and Cultural Anthropology
+Обширное издание, охватывающее темы антропологии, социологии и культурных исследований.
+
+Encyclopedia of Applied Psychology
+Издание, посвященное прикладным аспектам психологии и ее применению в различных областях.
+
+Эти издания предоставляют глубокое и всестороннее понимание различных аспектов социальных и поведенческих наук.
+
+
+неужели на других языках нет подобных книг?  (я называю это "всё, что связано с функциями мозга": социальные науки, психология, философия)
+ChatGPT сказал:
+ChatGPT
+Да, на других языках тоже существуют обширные энциклопедии и справочники, охватывающие социальные науки, психологию, философию и всё, что связано с функциями мозга. Вот несколько примеров на разных языках:
+
+Английский
+"The Oxford Companion to the Mind"
+Обширное руководство по темам, связанным с функциями мозга, сознанием, психологией и философией.
+Oxford University Press
+
+"Cambridge Handbook of Consciousness"
+Это руководство охватывает современные исследования в области сознания, включая философские и научные аспекты.
+
+"Encyclopedia of Neuroscience" (Springer)
+Основное внимание уделено нейробиологии, когнитивным наукам и их пересечению с психологией.
+
+Французский
+"Encyclopédie de la philosophie et des sciences humaines"
+Французский справочник по философии и гуманитарным наукам, охватывающий социальные и психологические аспекты.
+
+"Dictionnaire des sciences cognitives"
+Фокусируется на когнитивных науках, нейропсихологии и философии сознания.
+
+Немецкий
+"Lexikon der Psychologie" (Springer-Verlag)
+Немецкий справочник, охватывающий психологию и её применение.
+
+"Philosophie und Wissenschaftsgeschichte: Ein Lexikon"
+Глубокий анализ пересечения философии и науки, включая сознание и когнитивные процессы.
+
+Испанский
+"Diccionario de Psicología"
+Книга содержит объяснения множества терминов, связанных с психологией, когнитивными науками и философией.
+
+"Enciclopedia de las Ciencias Sociales"
+Справочник, посвящённый социальным наукам, включая аспекты, связанные с человеческим поведением.
+
+Русский
+"Большая психологическая энциклопедия" (под ред. Рубинштейна)
+Книга, содержащая термины и концепции в области психологии и смежных дисциплин.
+
+"Философский словарь"
+Анализ понятий и теорий, связанных с философией сознания и социальной философией.
+  #endregion
+
+
   #region Почему не назвать всё это "Научной Психологией"?
     ChatGPT
       Почему не назвать всё это "Научной Психологией"?
@@ -603,6 +702,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   =================================================================
   /Psychology  /Психология
   https://en.wikipedia.org/wiki/Psychology (нет упоминаний об Экологической психологии)
+    = https://en.wikipedia.org/wiki/Psychological_sciences
 
 
   https://en.wikipedia.org/wiki/Template:Psychology
@@ -1434,10 +1534,14 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   =================================================================
   #region /Психические явления / Психический феномен
-    https://cs.wikipedia.org/wiki/Psychický_jev
+    https://cs.wikipedia.org/wiki/Psychický_jev  psychological phenomenon
       <= https://en.wikipedia.org/wiki/Mental_process
     Языки
     cs переобработать
+
+    я пока хз что делать, это отдельные wikidata
+    https://en.wikipedia.org/wiki/Mental_phenomena  mental phenomenon
+      <= https://en.wikipedia.org/wiki/Mental_process
 
     [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
     * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
@@ -1463,15 +1567,19 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   [Done] https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
-  https://et.wikipedia.org/wiki/Psüühiline_funktsioon
-    ?? /Cognitive functions
-    + https://it.wikipedia.org/wiki/Funzioni_psichiche
-  https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
-    + https://pt.wikipedia.org/wiki/Função_mental = https://en.wikipedia.org/wiki/Mental_process
-    <= [et] https://en.wikipedia.org/wiki/Mental_process
+  Я никак не могу найти чёткие определения не из вики, поэтому пока отдельно
+  https://en.wikipedia.org/wiki/Mental_function
+    = https://en.wikipedia.org/wiki/Mental_functions
+    <= https://en.wikipedia.org/wiki/Mental_process
 
   Template_Mental_processes.txt
   [Done] https://en.wikipedia.org/wiki/Template:Mental_processes
+
+
+  https://en.wikipedia.org/wiki/Phenomenology_(psychology)  пока не очень понятно, это термины отсюда?
+    + https://www.philosophy.ru/ru/phenomenology/
+  https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   =================================================================
@@ -1609,7 +1717,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Social_neuroscience
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Social_intelligence (https://ru.wikipedia.org/wiki/Социальный_интеллект )
-  https://en.wikipedia.org/wiki/Theory_of_Mind
+  https://en.wikipedia.org/wiki/Theory_of_mind
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
     <= https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн )
   https://en.wikipedia.org/wiki/Social_interaction
@@ -2313,10 +2421,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://it.wikipedia.org/wiki/Elaborazione_umana_dell%27informazione  (Human Information Processing)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Depth_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  https://en.wikipedia.org/wiki/Behavioural_sciences
 
 
   https://en.wikipedia.org/wiki/Persuasion  искусство убеждения
@@ -3003,7 +3111,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   https://en.wikipedia.org/wiki/Sally–Anne_test (https://ru.wikipedia.org/wiki/Тест_Салли-Энн ) (Theory of Mind)
-    <= https://en.wikipedia.org/wiki/Theory_of_Mind
+    <= https://en.wikipedia.org/wiki/Theory_of_mind
   #region Продолжение теста Салли-Энн
   Hanna et al. (2003)
   http://www.sscnet.ucla.edu/polisci/faculty/chwe/austen/keysar2003.pdf
