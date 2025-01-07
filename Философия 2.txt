@@ -678,6 +678,10 @@ Sergey Solopov, [12/30/2024 12:36 AM]
       <= https://en.wikipedia.org/wiki/Cognition
 
 
+  https://en.wikipedia.org/wiki/Gestalt_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
   https://en.wikipedia.org/wiki/Ecological_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
@@ -1457,12 +1461,12 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   Психические явления > Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
   Mental_process.txt
   [Done] https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
-    = https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   https://et.wikipedia.org/wiki/Psüühiline_funktsioon
     ?? /Cognitive functions
     + https://it.wikipedia.org/wiki/Funzioni_psichiche
+  https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
     + https://pt.wikipedia.org/wiki/Função_mental = https://en.wikipedia.org/wiki/Mental_process
     <= [et] https://en.wikipedia.org/wiki/Mental_process
 
@@ -1781,6 +1785,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   /Mental image
   https://en.wikipedia.org/wiki/Mental_image (https://ru.wikipedia.org/wiki/Образ_(психология) )
     немецкая статья указывает на визуальный образ
+    = https://en.wikipedia.org/wiki/Mental_imagery
+    + https://plato.stanford.edu/entries/mental-imagery/  я нашёл эту статью через поиск "mental phenomenon" "mental process" "mental state"
     + https://de.wikipedia.org/wiki/Vorstellung
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://ru.wikipedia.org/wiki/Образ_(информация)
@@ -2003,7 +2009,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   =================================================================
   /Consciousness  /Сознание
   https://en.wikipedia.org/wiki/Consciousness (https://ru.wikipedia.org/wiki/Сознание ) + https://pl.wikipedia.org/wiki/Przytomność
-    + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /ConsciousnessЮ но не является тем же Wikidata
+    + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /Consciousness, но не является тем же Wikidata
+      Похоже это сделано через шаблон: {{interwiki extra|qid=Q7087}}
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -2290,7 +2297,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Associationism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Psyche_(psychology)
-    + https://fr.wikipedia.org/wiki/Psychisme = https://it.wikipedia.org/wiki/Funzioni_psichiche  опять мешанина понятий
+    + https://fr.wikipedia.org/wiki/Psychisme
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Expressive_aphasia
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2305,8 +2312,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://en.wikipedia.org/wiki/Dynamical_system
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://it.wikipedia.org/wiki/Elaborazione_umana_dell%27informazione  (Human Information Processing)
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Gestalt_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -3374,6 +3379,7 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
   Обработать ВСЕ языки!?!? ЭТО ПОЛНЕЙШИЙ ПИЗДЕЦ, ТАМ СОТНИ СТАТЕЙ
   https://en.wikipedia.org/wiki/Portal:Psychology
+  https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Psychology
   https://en.wikipedia.org/wiki/Template:Psychology
   https://en.wikipedia.org/wiki/Category:Cognitive_psychology
   https://en.wikipedia.org/wiki/Category:Psychology
