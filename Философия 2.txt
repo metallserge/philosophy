@@ -3373,6 +3373,8 @@ Sergey Solopov, [12/30/2024 12:36 AM]
 
 
   Обработать ВСЕ языки!?!? ЭТО ПОЛНЕЙШИЙ ПИЗДЕЦ, ТАМ СОТНИ СТАТЕЙ
+  https://en.wikipedia.org/wiki/Portal:Psychology
+  https://en.wikipedia.org/wiki/Template:Psychology
   https://en.wikipedia.org/wiki/Category:Cognitive_psychology
   https://en.wikipedia.org/wiki/Category:Psychology
   https://en.wikipedia.org/wiki/Category:Cognitive_science
@@ -3387,7 +3389,6 @@ Sergey Solopov, [12/30/2024 12:36 AM]
   https://ru.wikipedia.org/wiki/Категория:Психологические_явления
   https://en.wikipedia.org/wiki/Category:Psychology_experiments
   https://en.wikipedia.org/wiki/Category:Psychological_tests_and_scales
-  https://en.wikipedia.org/wiki/Portal:Psychology
   https://en.wikipedia.org/wiki/Category:Cognitive_neuroscience
 
 

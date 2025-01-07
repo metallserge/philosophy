@@ -166,6 +166,29 @@
 
 
 
+    #region Виды когнитивных процессов
+      [fr] Когнитивные процессы включают:
+      * [fr] Восприятие  https://en.wikipedia.org/wiki/Perception
+      * [fr] Внимание  https://en.wikipedia.org/wiki/Attention
+      * [fr] Ощущение  https://en.wikipedia.org/wiki/Sensation_(psychology)
+      * [fr] Память  https://fr.wikipedia.org/wiki/Mémoire_(sciences_humaines)
+      * [fr] Представление  https://en.wikipedia.org/wiki/Mental_representation
+      * [fr] Язык  https://en.wikipedia.org/wiki/Language
+      * [fr] Рассуждение  https://en.wikipedia.org/wiki/Reasoning
+      * [fr] Категоризация  https://en.wikipedia.org/wiki/Cognitive_categorization
+      * [fr] Принятие решений  https://en.wikipedia.org/wiki/Decision-making
+      * [fr] Обучение  https://en.wikipedia.org/wiki/Learning
+      * [fr] Эмоции  https://en.wikipedia.org/wiki/Emotion
+      * [fr] Забывание  https://en.wikipedia.org/wiki/Forgetting
+      * [fr] Индивидуальное и коллективное поведение  https://en.wikipedia.org/wiki/Behavior
+      * [fr] Коллективные явления
+    #endregion
+
+
+    Когнитивные процессы по Пиаже
+    * Ассимиляция
+    * Акомодация
+
 
     ===============================================
     https://en.wikipedia.org/wiki/Cognitive_psychology
