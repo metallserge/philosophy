@@ -133,19 +133,19 @@
           * Возрождение ??  https://kk.wikipedia.org/wiki/Қайта_жаңғырту
         * Язык  https://en.wikipedia.org/wiki/Language
           * Речь  https://en.wikipedia.org/wiki/Speech
-        * Мышление  https://en.wikipedia.org/wiki/Thought
-          * Подавление мыслей  https://en.wikipedia.org/wiki/Thought_suppression
-          * Абстракция / Абстрагирование  https://en.wikipedia.org/wiki/Abstraction
-          * Реактивное мышление  https://en.wikipedia.org/wiki/Heuristic
-          * Проницательность  https://en.wikipedia.org/wiki/Insight
         * Теория двойного процесса  https://en.wikipedia.org/wiki/Dual_process_theory
           * Интуиция  https://en.wikipedia.org/wiki/Intuition
             (мне кажется сюда)
             * Ассоциация https://en.wikipedia.org/wiki/Association_(psychology)
           (не уверен, это, или Rationality)
           * Рациональность / Разум  https://en.wikipedia.org/wiki/Reason
-        * Суждение  https://en.wikipedia.org/wiki/Judgement
-        * Ум  https://en.wikipedia.org/wiki/Mind
+        * Мышление  https://en.wikipedia.org/wiki/Thought
+          * Подавление мыслей  https://en.wikipedia.org/wiki/Thought_suppression
+          * Абстракция / Абстрагирование  https://en.wikipedia.org/wiki/Abstraction
+          * Реактивное мышление  https://en.wikipedia.org/wiki/Heuristic
+          * Проницательность  https://en.wikipedia.org/wiki/Insight
+          (пока перенес сюда)
+          * Суждение  https://en.wikipedia.org/wiki/Judgement
         * Понимание  https://en.wikipedia.org/wiki/Understanding
         * Знание  https://en.wikipedia.org/wiki/Knowledge
           * Явное знание  https://en.wikipedia.org/wiki/Explicit_knowledge
@@ -158,13 +158,21 @@
           * Ментальное представление  https://en.wikipedia.org/wiki/Mental_representation + https://uk.wikipedia.org/wiki/Уявлення
             * когнитивная карта  https://en.wikipedia.org/wiki/Cognitive_map
           * Байесовская гипотеза мозга  https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function
+        (может и знания)
         * Убеждения / Вера  https://en.wikipedia.org/wiki/Belief
+        (может мышление)
         * Воображение  https://en.wikipedia.org/wiki/Imagination
+        (может мышление)
         * Креативность  https://en.wikipedia.org/wiki/Creativity
+        (может мышление)
         * Решение проблем  https://en.wikipedia.org/wiki/Problem_solving
           * Принятие решений  https://en.wikipedia.org/wiki/Decision-making + https://de.wikipedia.org/wiki/Entscheidung
           * Планирование  https://en.wikipedia.org/wiki/Planning
         * Интеллект / Концепция разума  https://en.wikipedia.org/wiki/Intelligence
+          (пока перенес сюда)
+          * Ум  https://en.wikipedia.org/wiki/Mind
+          * Теория множественного интеллекта  https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences
+            *   https://en.wikipedia.org/wiki/Howard_Gardner
           * Человеческий интеллект  https://en.wikipedia.org/wiki/Human_intelligence
             * Общие факторы интеллекта  https://en.wikipedia.org/wiki/G_factor_(psychometrics)
             * IQ  https://en.wikipedia.org/wiki/Intelligence_quotient
