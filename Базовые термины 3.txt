@@ -5,6 +5,7 @@
 
 
     ===============================================
+    я не могу найти существование этих терминов и их взаимодействия
     Психические явления / Психический феномен  https://cs.wikipedia.org/wiki/Psychický_jev
     * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
       * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
@@ -33,7 +34,7 @@
             * Дистальный стимул  https://en.wikipedia.org/wiki/Distal
             * Проксимальный стимул  https://en.wikipedia.org/wiki/Proximal
             * Трансдукция  https://en.wikipedia.org/wiki/Transduction_(physiology)
-          
+
             Классификация ощущений Шеррингтона
             * Экстероцепция / Экстероцептивные ощущения / Органы чувств (человека)  https://en.wikipedia.org/wiki/Sense#External / https://en.wikipedia.org/wiki/Sensory_organ = https://en.wikipedia.org/wiki/Sense#Sensory_organs (https://ru.wikipedia.org/wiki/Орган_чувств )
               * Зрение  https://en.wikipedia.org/wiki/Visual_perception
@@ -66,13 +67,13 @@
             * Восприятие времени  https://en.wikipedia.org/wiki/Time_perception
             * Сенсорные сигналы  https://en.wikipedia.org/wiki/Sensory_cue
             * ASMR  https://en.wikipedia.org/wiki/ASMR
-      
+
             Свойства ощущений
             * Модальность
             * Интенсивность
             * Локализация
             * Длительность
-      
+
             * Сенсорный порог  https://en.wikipedia.org/wiki/Sense > Thresholds  + https://en.wikipedia.org/wiki/Sensory_threshold
               * Абсолютный порог / Absolute threshold  https://en.wikipedia.org/wiki/Absolute_threshold
               * Differential threshold  https://en.wikipedia.org/wiki/Differential_threshold = https://en.wikipedia.org/wiki/Just-noticeable_difference
@@ -81,19 +82,19 @@
               * Terminal threshold
               * Sensory adaptation  https://en.wikipedia.org/wiki/Sense > Sensory adaptation
               * Neural adaptation  https://en.wikipedia.org/wiki/Sensory_adaptation = https://en.wikipedia.org/wiki/Neural_adaptation
-      
+
             * Мультимодальное восприятие  https://en.wikipedia.org/wiki/Sense > Multimodal perception => https://en.wikipedia.org/wiki/Multimodal_integration = https://en.wikipedia.org/wiki/Multisensory_integration
-          
+
             * Теория обнаружения сигналов  https://en.wikipedia.org/wiki/Detection_theory = https://en.wikipedia.org/wiki/Signal_detection_theory
             * Частный перцептивный опыт  https://en.wikipedia.org/wiki/Sense > Private perceptive experience
               * Квалия  https://en.wikipedia.org/wiki/Qualia
             * Сенсорная нейробиология и биология восприятия  https://en.wikipedia.org/wiki/Sense > Sensory neuroscience and the biology of perception => https://en.wikipedia.org/wiki/Sensory_neuroscience
               * Sensory nervous system  https://en.wikipedia.org/wiki/Sensory_nervous_system
               * Sensory neuron  https://en.wikipedia.org/wiki/Sensory_neuron
-      
+
           * Когнитивное восприятие — интерпретация и осмысление полученной сенсорной информации
           (не понятно, Cognition это и есть Когнитивное восприятие? В определении наоборот, восприятие является частью Cognition)
-      
+
           * Целостное восприятие
             * Амодальное  https://en.wikipedia.org/wiki/Amodal_perception
             * Modal / Amodal completion / Модальное завершение
@@ -205,7 +206,7 @@
         * Когнитивная модель  https://en.wikipedia.org/wiki/Cognitive_model
           * коннекционизм  https://en.wikipedia.org/wiki/Connectionism
         * Когнитивная архитектура  https://en.wikipedia.org/wiki/Cognitive_architecture
-      
+
       * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
         * Эмоции  https://en.wikipedia.org/wiki/Emotion
         * Чувства  https://en.wikipedia.org/wiki/Feeling
@@ -213,7 +214,7 @@
         * Настроение  https://en.wikipedia.org/wiki/Mood_(psychology)
         (под вопросом)
         * Психическое состояние (вообще идёт отдельно)  https://en.wikipedia.org/wiki/Mental_state
-      
+
       * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
         * Борьба мотивов
         * Постановка цели  https://en.wikipedia.org/wiki/Goal_setting
@@ -225,10 +226,10 @@
         * Волевые качества  https://cs.wikipedia.org/wiki/Volní_vlastnosti
         (не очень понятно, почему это здесь)
         * Теория принятия решений  https://en.wikipedia.org/wiki/Decision_theory
-      
+
       * Социальные процессы  https://en.wikipedia.org/wiki/Social_psychology  найти Социальные процессы
         * Отношение  https://et.wikipedia.org/wiki/Hoiak
-      
+
       * Психодинамические процессы  https://en.wikipedia.org/wiki/Psychodynamics  найти Психодинамические процессы
 
 
