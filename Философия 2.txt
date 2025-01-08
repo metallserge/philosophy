@@ -1464,6 +1464,8 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Philosophy_of_perception
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognition
+  https://et.wikipedia.org/wiki/Tajumishäired  perceptual disorders
+    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   =================================================================
@@ -1566,10 +1568,8 @@ Oxford University Press
   Mental_process.txt
   [Done] https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-
-  Я никак не могу найти чёткие определения не из вики, поэтому пока отдельно
-  https://en.wikipedia.org/wiki/Mental_function
-    = https://en.wikipedia.org/wiki/Mental_functions
+  https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
+    Я никак не могу найти чёткие определения не из вики, поэтому пока отдельно
     <= https://en.wikipedia.org/wiki/Mental_process
 
   Template_Mental_processes.txt
@@ -1606,6 +1606,7 @@ Oxford University Press
     = https://en.wikipedia.org/wiki/Cognitive_ability
     = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
+  (а здесь не будет опять путаницы "когнитивные процессы", "когнитивные функции")
   https://en.wikipedia.org/wiki/Cognitive_function
     = https://en.wikipedia.org/wiki/Cognitive_functions
     = https://en.wikipedia.org/wiki/Cognitive_skill
@@ -1613,6 +1614,15 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Mental_function
+  (В мусор) (!!когнитивные функции!!)
+  https://en.wikipedia.org/wiki/Jungian_cognitive_functions
+    вообще ненужная херня и очень непонятно, это таки "психические функции" или "когнитивные функции"
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  (!!когнитивные функции!!)
+  https://et.wikipedia.org/wiki/K%C3%B5rgemad_kognitiivsed_funktsioonid
+    я хз, никаких источников там нет
+    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   =================================================================
@@ -2120,6 +2130,7 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Consciousness (https://ru.wikipedia.org/wiki/Сознание ) + https://pl.wikipedia.org/wiki/Przytomność
     + https://ru.wikipedia.org/wiki/Сознание_(психология)  я не понимаю, как это сделано, эта страница ссылается на /Consciousness, но не является тем же Wikidata
       Похоже это сделано через шаблон: {{interwiki extra|qid=Q7087}}
+    + https://it.wikipedia.org/wiki/Coscienza_(psichiatria)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
@@ -2249,11 +2260,14 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognition
   https://en.wikipedia.org/wiki/Howard_Gardner
     <= https://en.wikipedia.org/wiki/Cognition
+  https://ru.wikipedia.org/wiki/Рассудок  пока сомневаюсь, здесь из-за [et] https://en.wikipedia.org/wiki/Mental_function
+    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   =================================================================
   Психические явления > Психический процесс > /Эмоциональные процессы /Аффективные процессы /Emotion /Affect
   https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+    ?? https://en.wikipedia.org/wiki/Affectivity
     <= https://en.wikipedia.org/wiki/Mental_process
   https://en.wikipedia.org/wiki/Emotion (https://ru.wikipedia.org/wiki/Эмоция )
     мешанина ссылок между чувствами и эмоциями
@@ -2274,6 +2288,9 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Emotion_and_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Mood_disorder
+    + https://cs.wikipedia.org/wiki/Poruchy_emotivity
+    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   =================================================================
@@ -2403,6 +2420,76 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Modularity_of_mind
 
 
+  =================================================================
+  /Нарушения и /Паталогии
+  https://en.wikipedia.org/wiki/Mental_disorder
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Abnormal_psychology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Psychopathology
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Psychopathology
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Sensory_processing_disorder ??
+    <= https://en.wikipedia.org/wiki/Absolute_threshold
+  https://en.wikipedia.org/wiki/Somatosensory_disorder
+    <= ...
+  https://en.wikipedia.org/wiki/Thought_disorder
+    <= https://en.wikipedia.org/wiki/Cognition
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Mood_disorder
+    + https://cs.wikipedia.org/wiki/Poruchy_emotivity
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Altered_state_of_consciousness
+    <= https://en.wikipedia.org/wiki/Postictal_state
+  эот из медицины, типа пропустить
+  https://en.wikipedia.org/wiki/Altered_level_of_consciousness
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://ru.wikipedia.org/wiki/Психопатологический_синдром
+    <= https://en.wikipedia.org/wiki/Oneiroid_syndrome
+  https://en.wikipedia.org/wiki/Clouding_of_consciousness
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://fr.wikipedia.org/wiki/Obnubilation_(sciences_sociales)
+    <= https://en.wikipedia.org/wiki/Clouding_of_consciousness
+  https://en.wikipedia.org/wiki/Postictal_state
+    <= https://ru.wikipedia.org/wiki/Сумеречное_помрачение_сознания
+  https://ru.wikipedia.org/wiki/Сумеречное_помрачение_сознания
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Oneirism
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Oneiroid_syndrome
+    <= https://en.wikipedia.org/wiki/Oneirophrenia
+  https://en.wikipedia.org/wiki/Oneirophrenia
+    <= ...
+  https://en.wikipedia.org/wiki/Major_depressive_disorder
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Euphoria
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Cyclothymia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Apathy
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Phobia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Anxiety
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/List_of_paraphilias
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://it.wikipedia.org/wiki/Disturbo_di_regolazione
+    нарушения регуляции
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Autoimmune_disease
+    <= https://en.wikipedia.org/wiki/Hypersensitivity
+  https://en.wikipedia.org/wiki/Hypersensitivity
+    <= https://it.wikipedia.org/wiki/Disturbo_di_regolazione
+  https://en.wikipedia.org/wiki/Emotional_dysregulation
+    <= ...
+  https://ru.wikipedia.org/wiki/Психопатологический_симптом
+
+
+  https://en.wikipedia.org/wiki/Sexuality
+    <= 
+
   https://en.wikipedia.org/wiki/Associationism
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Psyche_(psychology)
@@ -2424,6 +2511,7 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Depth_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
 
   https://en.wikipedia.org/wiki/Behavioural_sciences
 
@@ -2476,12 +2564,6 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Karl_H._Pribram
 
 
-  =================================================================
-  /Патологии
-  https://en.wikipedia.org/wiki/Abnormal_psychology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Psychopathology
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
 
@@ -2724,8 +2806,6 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/John_Robert_Anderson_(psychologist)
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Jungian_cognitive_functions
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Karl_H._Pribram
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Karl_Lashley
@@ -2873,6 +2953,10 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
+  https://en.wikipedia.org/wiki/Revenge
+  
+
+
   =================================================================
   /Personality
   https://en.wikipedia.org/wiki/Personality
@@ -2889,6 +2973,13 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Temperament
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
+
+  https://en.wikipedia.org/wiki/Instinct (https://ru.wikipedia.org/wiki/Инстинкт )
+    <= ...
+  ?? https://it.wikipedia.org/wiki/Istintualità
+    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   https://en.wikipedia.org/wiki/Transpersonal_psychology
@@ -3517,7 +3608,7 @@ Oxford University Press
   Учение о познании (Гносеология) https://studfile.net/preview/7577498/page:9/   (там вообще миллиарды лекций)
     например, ещё о гносеологии: https://studfile.net/preview/7685378/page:30/
 
-  
+
 Объективность: https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy) (https://ru.wikipedia.org/wiki/Объективность )
 
   https://en.wikipedia.org/wiki/Philosophy_of_mind (https://ru.wikipedia.org/wiki/Философия_сознания )
@@ -3525,7 +3616,6 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Category:Philosophy_of_mind
   https://en.wikipedia.org/wiki/Category:Philosophical_concepts
 
-  https://en.wikipedia.org/wiki/Instinct (https://ru.wikipedia.org/wiki/Инстинкт )
 
   https://en.wikipedia.org/wiki/Recognition-by-components_theory (https://ru.wikipedia.org/wiki/Распознавание_по_компонентам )
     <= https://en.wikipedia.org/wiki/Machine_perception <= https://en.wikipedia.org/wiki/Sense#Artificial_sensation_and_perception
@@ -4604,7 +4694,6 @@ https://ru.wikipedia.org/wiki/Наука
 <= https://ru.wikipedia.org/wiki/Систематизация
 <= https://ru.wikipedia.org/wiki/Критическое_мышление
 <= https://ru.wikipedia.org/wiki/Научный_метод
-<= 
 
 
 
