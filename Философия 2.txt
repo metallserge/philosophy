@@ -1464,8 +1464,8 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Philosophy_of_perception
     <= https://en.wikipedia.org/wiki/Perception
     <= https://en.wikipedia.org/wiki/Cognition
-  https://et.wikipedia.org/wiki/Tajumishäired  perceptual disorders
-    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Multistable_perception
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   =================================================================
@@ -1525,8 +1525,6 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Touch
     <= https://en.wikipedia.org/wiki/Template:Mental_processes
 
-  https://en.wikipedia.org/wiki/Illusion
-    <= https://en.wikipedia.org/wiki/Sense
 
 
   (попросить ИИ оценить ошибочные заявления и предложить научные примеры и объяснения)
@@ -2059,8 +2057,6 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Intermediate-term_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/False_memory + https://en.wikipedia.org/wiki/False_memories
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Explicit_memory
     + https://en.wikipedia.org/wiki/Declarative_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -2155,11 +2151,11 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Visual_thinking
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Thought_disorder
-    <= https://en.wikipedia.org/wiki/Cognition
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_categorization
     <= https://en.wikipedia.org/wiki/Cognitive_process
+  не уверен, дублируется
+  https://en.wikipedia.org/wiki/Apophenia
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   =================================================================
@@ -2288,9 +2284,6 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Emotion_and_memory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mood_disorder
-    + https://cs.wikipedia.org/wiki/Poruchy_emotivity
-    <= https://en.wikipedia.org/wiki/Mental_function
 
 
   =================================================================
@@ -2428,9 +2421,8 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Psychopathology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Psychopathology
     <= https://en.wikipedia.org/wiki/Mental_function
-  https://en.wikipedia.org/wiki/Sensory_processing_disorder ??
+  https://en.wikipedia.org/wiki/Sensory_processing_disorder
     <= https://en.wikipedia.org/wiki/Absolute_threshold
   https://en.wikipedia.org/wiki/Somatosensory_disorder
     <= ...
@@ -2485,6 +2477,62 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Emotional_dysregulation
     <= ...
   https://ru.wikipedia.org/wiki/Психопатологический_симптом
+    <= ...
+  https://en.wikipedia.org/wiki/Abulia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Allomnesia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Amnesia
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Delusion
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Dementia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Depersonalization
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Dissociation_(psychology)
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Déjà_vu
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Epilepsy
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/False_memory + https://en.wikipedia.org/wiki/False_memories
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+  https://en.wikipedia.org/wiki/Fantasy_(psychology)
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Hallucination
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Hyperkinesia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Hypokinesia
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Illusion
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Optical_illusion
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Imbecile
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Impulsivity
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Intellectual_disability
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Stereotypy
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Stupidity
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://et.wikipedia.org/wiki/Tajumishäired  perceptual disorders
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://ru.wikipedia.org/wiki/Акинезия
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://ru.wikipedia.org/wiki/Гипермнезия
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://ru.wikipedia.org/wiki/Гипомнезия
+    <= https://en.wikipedia.org/wiki/Mental_function
+  https://ru.wikipedia.org/wiki/Парамнезия
+    <= https://en.wikipedia.org/wiki/Mental_function
+  дублируется
+  https://en.wikipedia.org/wiki/Apophenia
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
 
   https://en.wikipedia.org/wiki/Sexuality
@@ -2587,6 +2635,8 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Spaced_repetition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+  /Thought? /Perception? /Cognition?
   https://en.wikipedia.org/wiki/Pattern_recognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
@@ -2595,17 +2645,13 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Form_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
+
+
   https://en.wikipedia.org/wiki/Psychophysics (https://ru.wikipedia.org/wiki/Психофизика )
     <= https://en.wikipedia.org/wiki/Experimental_psychology
     <= https://ru.wikipedia.org/wiki/Вебер,_Эрнст_Генрих
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Pareidolia
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Optical_illusion
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Apophenia
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Multistable_perception
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
 
   https://en.wikipedia.org/wiki/Embodied_cognitive_science
@@ -2665,8 +2711,6 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Alexander_Luria
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Ambiguous_image
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Amnesia
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Amos_Tversky
     <= https://en.wikipedia.org/wiki/Cognitive_psychology

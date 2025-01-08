@@ -190,6 +190,146 @@
     * Акомодация
 
 
+
+    https://en.wikipedia.org/wiki/Mental_function
+    #region Список функций
+      [it] Внимание  https://en.wikipedia.org/wiki/Attention
+        [it] это способность концентрировать психическую деятельность на определенном содержании.
+        [et] Нарушения восприятия  https://et.wikipedia.org/wiki/Tajumishäired  perceptual disorders
+      [it][et] Восприятие  https://en.wikipedia.org/wiki/Perception
+        [it] это умственная деятельность по сбору и интеграции данных о реальности.
+      [it][et] Память  https://en.wikipedia.org/wiki/Memory
+        [it] это деятельность по сохранению и повторному использованию данных.
+        [et] Нарушения памяти
+      [it] Понимание  https://en.wikipedia.org/wiki/Understanding
+        [it] это деятельность по восприятию смысла реальности.
+      [it][et] Мышление  https://en.wikipedia.org/wiki/Thought
+        [it] это процесс распознавания и манипулирования реальностью.
+        [et] Нарушения мышления  https://en.wikipedia.org/wiki/Thought_disorder
+      [it] Идеация
+        [it] это поток идей.
+      [it] Критика  https://en.wikipedia.org/wiki/Criticism
+        [it] это деятельность контроля над другими психическими функциями и реальностью.
+      [it] Сознание  https://ru.wikipedia.org/wiki/Сознание_(психология)
+        [it] это осознание себя и окружающего мира.
+      [it] Интеллект  https://en.wikipedia.org/wiki/Intelligence
+        [it] это способность распознавать, устанавливать и решать проблемы, поставленные реальностью.
+      [et] Интеллект  https://ru.wikipedia.org/wiki/Рассудок
+        [et] Нарушения интеллекта
+      [it] Аффективность  https://en.wikipedia.org/wiki/Affectivity
+        [it] это эмоциональная деятельность в отношениях с реальностью.
+      [et] Эмоциональная жизнь  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
+        [et] Нарушения эмоциональной жизни  https://cs.wikipedia.org/wiki/Poruchy_emotivity + https://en.wikipedia.org/wiki/Mood_disorder
+      [it] Инстинктивность  https://it.wikipedia.org/wiki/Istintualità
+        [it] это деятельность, связанная с инстинктивным поведением, таким как сексуальность.
+      [et] Инстинкты  https://en.wikipedia.org/wiki/Instinct
+        [et] Нарушения инстинктов
+      [it] Воля  https://en.wikipedia.org/wiki/Will_(philosophy)
+        [it] это деятельность, связанная с инициированием и продолжением моторных функций и психических функций.
+      [et] Воля  https://cs.wikipedia.org/wiki/Volní_procesy
+        [et] Нарушения воли
+    #endregion
+
+    https://en.wikipedia.org/wiki/Mental_function
+    #region Отклонения, нарушения и патология психических функций
+      (патология - это отклонение от сренднего/нормального)
+
+      [it] Изменения психических функций являются центральной темой психиатрической (https://en.wikipedia.org/wiki/Psychiatry ) клиники и более широко — психопатологии (https://en.wikipedia.org/wiki/Psychopathology ). Из-за их масштаба, сложности и разнообразия вопросов изменения психических функций рассматриваются как патология отдельных функций.
+
+      * [it] Внимание  https://en.wikipedia.org/wiki/Attention
+        * [it] Гиперпрозексия — увеличение внимания
+        * [it] Гипопрозексия — уменьшение внимания
+        * Парапрозексия
+        * [it] Апрозексия — отсутствие внимания (только теоретическое)
+        * [it] Диспрозексия — невнимательность
+      * [it] Сенсорное восприятие  https://en.wikipedia.org/wiki/Perception
+        * [it] Количественные изменения
+          * [it] Гиперестезия — усиление восприятия
+          * [it] Гипостезия — ослабление восприятия
+        * [it] Качественные изменения
+          * [it] Деперсонализация (https://en.wikipedia.org/wiki/Depersonalization ) — ощущение, что окружающая среда странная и нереальная
+          * [it] Диссоциация (https://en.wikipedia.org/wiki/Dissociation_(psychology) ) — утрата взаимосвязи между восприятиями
+          * [it] Искажение — неправильное восприятие без объекта, может быть:
+            * [it] Иллюзия (https://en.wikipedia.org/wiki/Illusion ) — ошибочное восприятие, которое подвергается критике
+              * Оптическая иллюзия  https://en.wikipedia.org/wiki/Optical_illusion
+            * [it] Галлюцинация (https://en.wikipedia.org/wiki/Hallucination ) — восприятие без объекта, не подвергаемое критике
+            * [it] Псевдогаллюцинация — «эхо мысли»
+            * [it] Галлюциноз — восприятие без объекта, подвергаемое критике
+      * [it] Память. Расстройства памяти называют дисмнезией.
+        * [it] Количественные изменения
+          * [it] Гипермнезия (https://ru.wikipedia.org/wiki/Гипермнезия ) — усиление памяти
+          * [it] Гипомнезия (https://ru.wikipedia.org/wiki/Гипомнезия ) — ослабление памяти
+          * [it] Амнезия (https://en.wikipedia.org/wiki/Amnesia ) — утрата памяти
+        * [it] Качественные изменения
+          * Парамнезия  https://en.wikipedia.org/wiki/False_memory = https://ru.wikipedia.org/wiki/Парамнезия
+          * [it] алломнезия (https://en.wikipedia.org/wiki/Allomnesia ) — иллюзия памяти
+          * [it] псевдомнезия — галлюцинации, ложные узнавания и ложные воспоминания
+          * Дежавю https://en.wikipedia.org/wiki/Déjà_vu
+      * [it] Понимание (https://en.wikipedia.org/wiki/Understanding ) — это деятельность по осмыслению реальности
+      * [it] Мышление  https://en.wikipedia.org/wiki/Thought
+        * [it] Расстройства формы
+          * [it] Полет/бегство идей
+          * [it] Идеация
+            * [it] Диссоциированная
+            * [it] Неадекватная / непоследовательная
+            * [it] Превалирующая / распространенная
+            * [it] Принудительная
+          * [it] Чрезмерная детализация / партикуляризм
+          * [it] Излишняя болтливость / многословие
+          * [it] Персеверация / упорство
+        * [it] Расстройства содержания
+          * [it] Бредовая идея  https://en.wikipedia.org/wiki/Delusion
+        * [it] Идеация — это деятельность потока идей
+        * [it] Критика (https://en.wikipedia.org/wiki/Criticism ) — это деятельность контроля над другими психическими функциями и реальностью
+      * [it] Сознание
+        * [it] Обнубиляция / туман в сознании (https://en.wikipedia.org/wiki/Clouding_of_consciousness ) — когда только очень сильные стимулы могут вызвать реакцию
+        * [it] Сумеречное сознание (очень сомневаюсь: https://ru.wikipedia.org/wiki/Сумеречное_помрачение_сознания ) — когда происходит сужение поля сознания
+        * [it] Онирическое состояние / Сказка наяву (https://en.wikipedia.org/wiki/Oneirism ) — как и предыдущее, но с искажением, то есть отсутствует различие между реальностью и фантазией
+        * [it] Онейроидное состояние  (очень сомневаюсь: https://en.wikipedia.org/wiki/Oneiroid_syndrome ) — присутствует только искажение, то есть делирующее фантастическое производство и изменения в senso-perception
+      * [it] Интеллект  https://en.wikipedia.org/wiki/Intelligence
+        * [it] Количественные изменения
+          * [it] Олигофрения / Умственная отсталось / Интеллектуальная инвалидность (https://en.wikipedia.org/wiki/Intellectual_disability ) — отсутствие развития
+          * [it] Деменция (https://en.wikipedia.org/wiki/Dementia ) — утрата
+          * [it] Умственная недостаточность — недостаточное развитие и утрата
+          * [it] Псевдоугнетённость / псевдонедостаточность
+        * [it] Качественные изменения
+          * [it] Тяжёлая идиотия (https://en.wikipedia.org/wiki/Intellectual_disability повтор) — IQ < 20%
+          * [it] Имбецильность (https://en.wikipedia.org/wiki/Imbecile ) / Слабоумие — IQ 20-50%
+          * [it] Лёгкая лабильность — IQ 50-70%
+          * [it] Пограничная тупость (https://en.wikipedia.org/wiki/Stupidity ) — IQ 70-90%
+      * [it] Аффективность (https://en.wikipedia.org/wiki/Affectivity ) может быть нарушена (Я: https://en.wikipedia.org/wiki/Mood_disorder ) в следующих формах
+        * [it] Депрессия  https://en.wikipedia.org/wiki/Major_depressive_disorder
+        * [it] Эйфория  https://en.wikipedia.org/wiki/Euphoria
+        * [it] Раздражительность
+        * [it] Эмоциональная лабильность
+        * [it] Эмоциональное изумление
+        * [it] Аффективная диссоциация
+        * [it] Апатия  https://en.wikipedia.org/wiki/Apathy
+        * [it] Аффективная амбивалентность
+        * [it] Чувство отсутствия чувств
+        * [it] Фобия  https://en.wikipedia.org/wiki/Phobia
+        * [it] Тревога  https://en.wikipedia.org/wiki/Anxiety
+      * [it] Инстинктивность  https://it.wikipedia.org/wiki/Istintualità
+        Расстройства
+        * [it] Сексуальные (https://en.wikipedia.org/wiki/Sexuality ) расстройства
+        Отклонения (от среднего)
+        * Список сексуальных отклонений  https://en.wikipedia.org/wiki/List_of_paraphilias
+      * [it] Воля  https://en.wikipedia.org/wiki/Will_(philosophy)
+        * [it] Абулия (https://en.wikipedia.org/wiki/Abulia ) — утрата способности к решению
+        * [it] Импульсивность  https://en.wikipedia.org/wiki/Impulsivity
+        * [it] Гиперкинезия (хз: https://en.wikipedia.org/wiki/Hyperkinesia ) — повышенная двигательная активность
+        * [it] Гипокинезия (https://en.wikipedia.org/wiki/Hypokinesia ) — снижение двигательной активности
+        * [it] Акинезия (хз: https://ru.wikipedia.org/wiki/Акинезия ) — полное отсутствие движений
+        * [it] Стереотипии (https://en.wikipedia.org/wiki/Stereotypy ) — повторяющиеся движения или поведение
+        * [it] Маньеризмы — неестественные, преувеличенные движения
+        * [it] Негативизм — упрямое сопротивление действиям или указаниям
+        * [it] Автоматизм — неосознанные действия
+
+    #endregion
+
+
+
+
     ===============================================
     https://en.wikipedia.org/wiki/Cognitive_psychology
     [en][zh][simple] Основные направления исследований
