@@ -7,20 +7,28 @@
     ===============================================
     я не могу найти существование этих терминов и их взаимодействия
     Психические явления / Психический феномен  https://cs.wikipedia.org/wiki/Psychický_jev
+    Психические явления разделяют на 3 группы по продолжительности.
     * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    (психические функции? https://en.wikipedia.org/wiki/Mental_function )
       * Познавательные / Когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
       * Эмоциональные процессы / Аффективные процессы  https://ru.wikipedia.org/wiki/Эмоциональный_процесс
       * Мотивационные процессы / Волевые процессы  https://cs.wikipedia.org/wiki/Volní_procesy
 
     * Психические состояния  https://en.wikipedia.org/wiki/Mental_state
       * Состояния внимания
-      * Эмоциональные (https://en.wikipedia.org/wiki/Feeling ) состояния
+      * Эмоциональные состояния
 
     * Психические свойства / Психическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
-      * способности  https://en.wikipedia.org/wiki/Skill
-      * черты личности  https://en.wikipedia.org/wiki/Personality
-      * темперамент  https://en.wikipedia.org/wiki/Temperament
-      * персонаж
+      * Способности  https://en.wikipedia.org/wiki/Skill
+      * Черты личности  https://en.wikipedia.org/wiki/Personality
+      * Темперамент  https://en.wikipedia.org/wiki/Temperament
+      * Личность  https://en.wikipedia.org/wiki/Personality
+
+
+
+    В https://ru.wikipedia.org/wiki/Категория:Психологические_явления можно увидеть
+    Психологические искажения
+    Психологические эффекты
 
 
     ===============================================
