@@ -6,7 +6,7 @@
 
     ===============================================
     я не могу найти существование этих терминов и их взаимодействия
-    Психические явления / Психический феномен  https://cs.wikipedia.org/wiki/Psychický_jev
+    Психические явления / Психический феномен  https://en.wikipedia.org/wiki/Mental_phenomena
     Психические явления разделяют на 3 группы по продолжительности.
     * Психические процессы  https://en.wikipedia.org/wiki/Mental_process
     (психические функции? https://en.wikipedia.org/wiki/Mental_function )
@@ -24,6 +24,7 @@
       * Темперамент  https://en.wikipedia.org/wiki/Temperament
       * Личность  https://en.wikipedia.org/wiki/Personality
 
+    * Массовидные явления психики (https://uk.wikipedia.org/wiki/Масовидні_явища_психіки )
 
 
     В https://ru.wikipedia.org/wiki/Категория:Психологические_явления можно увидеть
