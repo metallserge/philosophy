@@ -169,7 +169,61 @@ https://edisco.cz/zsv/psychicke-procesy.php
 https://wikisofia.cz/wiki/Psychické_stavy
 
 
+    https://en.wikipedia.org/wiki/Mental_phenomena
+    [cs] Психические явления разделяют на 3 группы по продолжительности.
+    (в cs несколько неправильное разделение и ссылки)
+    * [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    (психические функции? https://en.wikipedia.org/wiki/Mental_function )
+      * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+      * [Я][cs] эмоциональные процессы
+      * [Я][cs] Волевые процессы
+    * [cs] психические состояния  https://en.wikipedia.org/wiki/Mental_state
+      * [cs] состояния внимания  https://en.wikipedia.org/wiki/Attention
+      * [cs] эмоциональные состояния  https://en.wikipedia.org/wiki/Feeling
+    * [cs] психические свойства / Психологическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
+      * способности  https://en.wikipedia.org/wiki/Skill
+      * черты личности  https://en.wikipedia.org/wiki/Personality
+      * темперамент  https://en.wikipedia.org/wiki/Temperament
+    
 
+
+    ===============================================
+    https://en.wikipedia.org/wiki/Mental_phenomena
+    [cs] Психические явления разделяют на 3 группы по продолжительности.
+    (в cs несколько неправильное разделение и ссылки)
+    * [cs] психические процессы  https://en.wikipedia.org/wiki/Mental_process
+    (психические функции? https://en.wikipedia.org/wiki/Mental_function )
+      * [cs] когнитивные процессы  https://en.wikipedia.org/wiki/Cognitive_process
+      * [Я][cs] эмоциональные процессы
+      * [Я][cs] Волевые процессы
+    * [cs] психические состояния  https://en.wikipedia.org/wiki/Mental_state
+      * [cs] состояния внимания  https://en.wikipedia.org/wiki/Attention
+      * [cs] эмоциональные состояния  https://en.wikipedia.org/wiki/Feeling
+    * [cs] психические свойства / Психологическая черта  https://cs.wikipedia.org/wiki/Psychická_vlastnost
+      * способности  https://en.wikipedia.org/wiki/Skill
+      * черты личности  https://en.wikipedia.org/wiki/Personality
+      * темперамент  https://en.wikipedia.org/wiki/Temperament
+      * персонаж  https://en.wikipedia.org/wiki/Personality
+
+      [sk] Психические явления с точки зрения критерия изменчивости/неизменчивости во времени делятся на психические состояния (https://en.wikipedia.org/wiki/Mental_state ) и психические процессы (https://en.wikipedia.org/wiki/Mental_process ).
+
+      С другой стороны, они классифицируются на познавательные/когнитивно психические явления (например, познание (https://sk.wikipedia.org/wiki/Poznávanie )), эмоциональные психические явления (например, эмоции (https://en.wikipedia.org/wiki/Emotion )) и волевые психические явления (например, воля (sk:https://en.wikipedia.org/wiki/Volya )).
+
+      [uk] В советской психологической традиции выделяются следующие виды психических явлений:
+      * [uk] Психические процессы (https://en.wikipedia.org/wiki/Mental_process ), направленные на познание окружающего и внутреннего мира.
+      * [uk] Психические состояния (https://en.wikipedia.org/wiki/Mental_state ), которые характеризуют внутренние переживания и определяют течение различных видов деятельности.
+      * [uk] Психические свойства (https://cs.wikipedia.org/wiki/Psychická_vlastnost ) — устойчивые черты, отличающие человека от других людей как личность и проявляющиеся в его поведении.
+      * [uk] Массовидные явления психики (https://uk.wikipedia.org/wiki/Масовидні_явища_психіки ), схожие с перечисленными выше, но возникающие исключительно в социальных взаимодействиях большого количества людей.
+
+
+      [Я] В https://ru.wikipedia.org/wiki/Категория:Психологические_явления можно увидеть
+      [Я] Психологические искажения
+      [Я] Психологические эффекты    * персонаж  https://en.wikipedia.org/wiki/Personality
+
+
+
+    ===============================================
+    https://en.wikipedia.org/wiki/Cognitive_process
     #region Виды когнитивных процессов
       [fr] Когнитивные процессы включают:
       * [fr] Восприятие  https://en.wikipedia.org/wiki/Perception
@@ -189,12 +243,14 @@ https://wikisofia.cz/wiki/Psychické_stavy
     #endregion
 
 
+    ===============================================
     Когнитивные процессы по Пиаже
     * Ассимиляция
     * Акомодация
 
 
 
+    ===============================================
     https://en.wikipedia.org/wiki/Mental_function
     #region Список функций
       [it] Внимание  https://en.wikipedia.org/wiki/Attention
@@ -234,6 +290,8 @@ https://wikisofia.cz/wiki/Psychické_stavy
         [et] Нарушения воли
     #endregion
 
+
+    ===============================================
     https://en.wikipedia.org/wiki/Mental_function
     #region Отклонения, нарушения и патология психических функций
       (патология - это отклонение от сренднего/нормального)
@@ -330,8 +388,6 @@ https://wikisofia.cz/wiki/Psychické_stavy
         * [it] Автоматизм — неосознанные действия
 
     #endregion
-
-
 
 
     ===============================================
