@@ -1534,6 +1534,7 @@ Oxford University Press
 
   =================================================================
   /Психические явления / Психический феномен / Психологические явления / Психологический феномен
+  Mental_phenomena.txt
   [ToDo] https://en.wikipedia.org/wiki/Mental_phenomena
     <= https://en.wikipedia.org/wiki/Mental_process
 
@@ -1543,12 +1544,16 @@ Oxford University Press
   Mental_process.txt
   [Done] https://en.wikipedia.org/wiki/Mental_process = https://en.wikipedia.org/wiki/Mental_processes
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
-    Я никак не могу найти чёткие определения не из вики, поэтому пока отдельно
-    <= https://en.wikipedia.org/wiki/Mental_process
-
   Template_Mental_processes.txt
   [Done] https://en.wikipedia.org/wiki/Template:Mental_processes
+
+
+  =================================================================
+  Психические явления > Психический процесс / Психические процессы / Психическая функция / Психические функции / Умственная функция
+  [Done] https://en.wikipedia.org/wiki/Mental_function = https://en.wikipedia.org/wiki/Mental_functions
+    <= https://en.wikipedia.org/wiki/Mental_process
+
+
 
 
   https://en.wikipedia.org/wiki/Phenomenology_(psychology)  пока не очень понятно, это термины отсюда?
@@ -1569,11 +1574,20 @@ Oxford University Press
   [New]: sk
   [ToDo] https://en.wikipedia.org/wiki/Cognitive_process
     + https://ru.wikipedia.org/wiki/Когнитивный_процесс  удалена
-    + [ToDo] я оставил коммент, сделать редирект https://sk.wikipedia.org/wiki/Poznávanie  
+    + [ToDo] я оставил коммент, сделать редирект https://sk.wikipedia.org/wiki/Poznávanie
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Executive_functions
     + https://en.wikipedia.org/wiki/Cognitive_control
     + https://ru.wikipedia.org/wiki/Когнитивный_контроль
+
+
+  =================================================================
+  /Когнитивные функции
+  ПРОПУСКАЮ
+  (не понятно: "когнитивные процессы" vs "когнитивные функции" vs "психические функции")
+  https://en.wikipedia.org/wiki/Cognitive_function
+    = https://en.wikipedia.org/wiki/Cognitive_functions
+    = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitive_skill
@@ -1583,22 +1597,8 @@ Oxford University Press
     = https://en.wikipedia.org/wiki/Cognitive_ability
     = https://en.wikipedia.org/wiki/Cognitive_skill
     <= https://en.wikipedia.org/wiki/Cognition
-  (а здесь не будет опять путаницы "когнитивные процессы", "когнитивные функции")
-  https://en.wikipedia.org/wiki/Cognitive_function
-    = https://en.wikipedia.org/wiki/Cognitive_functions
-    = https://en.wikipedia.org/wiki/Cognitive_skill
-    <= https://en.wikipedia.org/wiki/Cognition
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Cognitivism_(psychology)    (da - переводит на https://en.wikipedia.org/wiki/Cognitive_psychology )
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
-    <= https://en.wikipedia.org/wiki/Mental_function
-  (В мусор) (!!когнитивные функции!!)
-  https://en.wikipedia.org/wiki/Jungian_cognitive_functions
-    вообще ненужная херня и очень непонятно, это таки "психические функции" или "когнитивные функции"
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  (!!когнитивные функции!!)
-  https://et.wikipedia.org/wiki/K%C3%B5rgemad_kognitiivsed_funktsioonid
-    я хз, никаких источников там нет
     <= https://en.wikipedia.org/wiki/Mental_function
 
 
@@ -2006,7 +2006,7 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Cognition
     Распределенное внимание
     Сфокусированное внимание
-  https://en.wikipedia.org/wiki/Attentional_control  концентрация внимания
+  https://en.wikipedia.org/wiki/Attentional_control  концентрация/контроль внимания
     <= https://en.wikipedia.org/wiki/Cognition
 
 
@@ -2176,6 +2176,11 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Wilhelm_Wundt
   https://en.wikipedia.org/wiki/Self-knowledge_(psychology)
     <= https://en.wikipedia.org/wiki/Mental_process
+
+
+  /Самоконтроль /Self control
+  https://en.wikipedia.org/wiki/Self-control
+    <= https://en.wikipedia.org/wiki/Executive_functions
 
 
   =================================================================
@@ -2408,6 +2413,8 @@ Oxford University Press
   /Нарушения и /Паталогии
   https://en.wikipedia.org/wiki/Mental_disorder
     <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Cognitive_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Abnormal_psychology
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Psychopathology
@@ -2479,6 +2486,8 @@ Oxford University Press
     <= https://en.wikipedia.org/wiki/Mental_function
   https://en.wikipedia.org/wiki/Dementia
     <= https://en.wikipedia.org/wiki/Mental_function
+  https://en.wikipedia.org/wiki/Steroid_dementia_syndrome
+    <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Depersonalization
     <= https://en.wikipedia.org/wiki/Mental_function
   https://en.wikipedia.org/wiki/Dissociation_(psychology)
@@ -3631,7 +3640,11 @@ Oxford University Press
   https://en.wikipedia.org/wiki/Category:Psychology_experiments
   https://en.wikipedia.org/wiki/Category:Psychological_tests_and_scales
   https://en.wikipedia.org/wiki/Category:Cognitive_neuroscience
+  https://de.wikipedia.org/wiki/Portal:Geist_und_Gehirn  Разум и мозг
+  https://en.wikipedia.org/wiki/Category:Neuropsychology
 
+  (сомнительно)
+  https://en.wikipedia.org/wiki/Category:Self
 
 
 
