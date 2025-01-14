@@ -1606,8 +1606,7 @@ Oxford University Press
       <= https://en.wikipedia.org/wiki/Cognition
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
     Языки:
-      ar        ca
-da	Eksekutive funktioner
+      ar        ca      da
 de	Exekutive Funktionen
 en	Executive functions
 es	Función ejecutiva (neuropsicología)
@@ -1635,8 +1634,9 @@ zh	管控功能
 
     #region Определение
       [ar] Исполнительные функции (также известные как когнитивный контроль или система внимания высокого уровня) — это общий термин, обозначающий управление (то есть контроль и регулирование) когнитивными процессами (https://en.wikipedia.org/wiki/Cognition ).[ar:1] К таким процессам относятся рабочая память (https://en.wikipedia.org/wiki/Working_memory ), рассуждение (https://en.wikipedia.org/wiki/Philosophy_of_mind ), когнитивная гибкость (https://en.wikipedia.org/wiki/Cognitive_flexibility ), решение задач (https://en.wikipedia.org/wiki/Problem_solving ) [ar:2], а также планирование (https://en.wikipedia.org/wiki/Planning ) и выполнение действий.[ar:3]
-
-      [ca] Исполнительные функции (способствующего называемые исполнительной функцией и когнитивным контролем) представляют собой совокупность когнитивных процессов (https://en.wikipedia.org/wiki/Cognition ), необходимых для управления поведением (https://en.wikipedia.org/wiki/Behavior ): они позволяют выбирать и успешно контролировать действия, которые способствуют достижению поставленных целей. Исполнительные функции включают базовые когнитивные процессы, такие как контроль внимания (https://en.wikipedia.org/wiki/Attentional_control ), когнитивное торможение, тормозной контроль, рабочая память (https://en.wikipedia.org/wiki/Working_memory ) и когнитивная гибкость. Более сложные исполнительные функции требуют одновременного использования нескольких базовых функций и включают планирование и "гибкий интеллект" (https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence ) (например, способность к рассуждению (https://en.wikipedia.org/wiki/Reason ) и решению проблем (https://en.wikipedia.org/wiki/Problem_solving )).[ca:1][ca:2][ca:3]
+      [ca] Исполнительные функции (способствующего называемые исполнительной функцией и когнитивным контролем) представляют собой совокупность когнитивных процессов (https://en.wikipedia.org/wiki/Cognition ), необходимых для управления поведением (https://en.wikipedia.org/wiki/Behavior ): они позволяют выбирать и успешно контролировать действия, которые способствуют достижению поставленных целей.
+      [da] Исполнительные функции, управленческие функции, исполнительная система или когнитивный контроль — это термины, которые психологи и неврологи используют для описания набора мозговых процессов, которые регулируются лобной долей (https://en.wikipedia.org/wiki/Frontal_lobe ). Исполнительные функции представляют собой обобщающий термин для когнитивных процессов (https://en.wikipedia.org/wiki/Cognition ), которые управляют, контролируют и регулируют другие когнитивные процессы. Они отвечают за планирование, когнитивную гибкость, абстрактное мышление, формирование правил, выполнение необходимых действий, подавление нецелесообразных действий, а также за выбор релевантной сенсорной информации (https://en.wikipedia.org/wiki/Sense ).[da:1][da:2]
+      [da] Исполнительные функции нарушаются при зависимостях (https://en.wikipedia.org/wiki/Addiction ), синдроме дефицита внимания и гиперактивности, аутизме (https://en.wikipedia.org/wiki/Autism ) и ряде других расстройств центральной нервной системы.
 
     #endregion
 
@@ -1646,18 +1646,19 @@ zh	管控功能
 
       [ar] Префронтальная кора (https://en.wikipedia.org/wiki/Prefrontal_cortex ), расположенная в лобной доле (https://en.wikipedia.org/wiki/Frontal_lobe ) мозга, является основной областью, отвечающей за выполнение этих функций в организме человека. Однако она не единственная, кто участвует в этом процессе.
 
-      [ar] Исполнительные функции (и когнитивный контроль) представляют собой совокупность когнитивных процессов, необходимых для управления поведением посредством выбора и контроля действий, которые способствуют достижению поставленных целей. Исполнительные функции включают в себя такие основные когнитивные процессы, как управление вниманием, когнитивное торможение, подавление импульсивных реакций, рабочая память и когнитивная гибкость. Более сложные исполнительные функции требуют одновременного использования нескольких базовых исполнительных функций и включают планирование, абстрактное мышление и решение проблем (так называемый «гибкий интеллект»).[ar:5]
+      [ar] Исполнительные функции (и когнитивный контроль) представляют собой совокупность когнитивных процессов, необходимых для управления поведением посредством выбора и контроля действий, которые способствуют достижению поставленных целей.
 
-      [ar][ca] Исполнительные функции развиваются и изменяются постепенно на протяжении всей жизни человека. Их можно улучшать в любом возрасте, занимаясь тренировкой когнитивных способностей.[ca:2] Однако исполнительные функции могут ухудшаться под воздействием различных факторов, таких как травмы, стрессы или заболевания, возникающие в разное время жизни.
+      [ar][ca][da] Исполнительные функции включают в себя такие основные когнитивные процессы, как контроль внимания (https://en.wikipedia.org/wiki/Attentional_control ), когнитивное торможение, тормозной контроль /? подавление импульсивных реакций, рабочая память (https://en.wikipedia.org/wiki/Working_memory ) и когнитивная гибкость. Более сложные (высшие) исполнительные функции представляют собой одновременное использования нескольких базовых исполнительных функций, и включают планирование и «гибкий интеллект»: (https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence ) абстрактное мышление, рассуждения (https://en.wikipedia.org/wiki/Reason ) и решение проблем (https://en.wikipedia.org/wiki/Problem_solving ).[ar:5][ca:1][ca:2][ca:3]
 
-      [ar][ca] Для оценки исполнительных функций применяются нейропсихологические тесты(https://en.wikipedia.org/wiki/Neuropsychological_test ) (например, тест Струпа) и рейтинговые шкалы (например, Поведенческий рейтинг исполнительных функций / Behavior Rating Inventory of Executive Function (https://en.wikipedia.org/wiki/Behavior_Rating_Inventory_of_Executive_Function )). Эти методы используются как часть более комплексной диагностики, направленной на выявление неврологических и психологических нарушений.[ar:6]
+      [ar][ca][da] Исполнительные функции развиваются и изменяются постепенно на протяжении всей жизни человека. Их можно улучшать в любом возрасте, занимаясь тренировкой когнитивных способностей.[ca:2] Однако исполнительные функции могут ухудшаться под воздействием различных факторов, таких как травмы, стрессы или заболевания, возникающие в разное время жизни.
+
+      [ar][ca][da] Для оценки исполнительных функций применяются нейропсихологические тесты(https://en.wikipedia.org/wiki/Neuropsychological_test ) (например, тест Струпа) и рейтинговые шкалы (например, Поведенческий рейтинг исполнительных функций / Behavior Rating Inventory of Executive Function (https://en.wikipedia.org/wiki/Behavior_Rating_Inventory_of_Executive_Function )). Эти методы используются как часть более комплексной диагностики, направленной на выявление неврологических и психологических нарушений.[ar:6]
 
       [ar][ca] Когнитивный контроль и контроль стимулов, связанные с оперантным (https://en.wikipedia.org/wiki/Operant_conditioning ) и классическим (https://en.wikipedia.org/wiki/Classical_conditioning ) обусловливанием, представляют собой противоположные процессы (внутренние и внешние или обусловленные окружающей средой), которые конкурируют за управление поведением человека, вызванным определёнными стимулами.[ca:4] [ca] В частности, для преодоления поведенческих реакций, вызванных стимулом (контроль стимулов над поведением), необходим тормозной контроль.[ca:2]
 
       [ar] Хотя передняя часть префронтальной коры (https://en.wikipedia.org/wiki/Prefrontal_cortex ) играет важную роль в управлении исполнительными функциями, её участие недостаточно для полной регуляции этих процессов.[ca:5][ca:6] Например, полосатое тело (хвостатое ядро) (https://en.wikipedia.org/wiki/Caudate_nucleus ) и субталамическое ядро также участвуют в обеспечении когнитивного торможения.[ar:7][ca:7]
 
       [ar][ca] Нарушения когнитивного контроля наблюдаются при таких состояниях, как зависимость (https://en.wikipedia.org/wiki/Addiction ), синдром дефицита внимания и гиперактивности (СДВГ) (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ),[ca:2][ca:7] расстройства аутистического спектра (https://en.wikipedia.org/wiki/Autism_spectrum ),[ca:8] и различные другие расстройства центральной нервной системы. У людей, страдающих зависимостью, поведение в значительной степени управляется стимулами, связанными с вознаграждением.[ar:8][ar:9]
-
     #endregion
 
 
@@ -1676,6 +1677,15 @@ zh	管控功能
       [ar][ca] В этот период было достигнуто согласие,, что эта система располагается в передней части мозга — префронтальной коре (https://en.wikipedia.org/wiki/Prefrontal_cortex ).[ar:20][ar:21]
 
       [ar] Психолог Алан Бэддли предложил аналогичную систему в рамках своей модели рабочей памяти (https://en.wikipedia.org/wiki/Working_memory )[ca:25] и предположил, что должен существовать компонент (который он назвал «центральным исполнительным блоком»), позволяющий манипулировать информацией, находящейся в кратковременной памяти (https://en.wikipedia.org/wiki/Short-term_memory ) (например, при выполнении мысленных расчётов (https://en.wikipedia.org/wiki/Mental_calculation )).[ar:22]
+    #endregion
+
+
+    #region «Холодные» и «горячие» компоненты
+      [da] Исполнительные функции делятся на «холодные» и «горячие» компоненты.
+      
+      [da] Когнитивные процессы и поведенческие способности, которые включают вербальные рассуждения, решение проблем, планирование, определение последовательности действий, способность удерживать внимание, сопротивление помехам, использование обратной связи, многозадачность, гибкость и способность справляться с новыми ситуациями, называются «холодной» компонентой исполнительных функций, потому что соответствующие когнитивные процессы, как правило, не связаны с сильным эмоциональным возбуждением и основаны на относительно «механистическом» или «логическом» подходе.
+      
+      [da] С другой стороны, исполнительные функции, которые включают более «эмоциональные», «убеждения» или «желания», такие как восприятие вознаграждения, наказания, регулирование социального поведения и принятие решений, которые связаны с эмоциональной и личной интерпретацией, считаются «горячими» компонентами.
     #endregion
 
 
@@ -1713,14 +1723,26 @@ zh	管控功能
     #endregion
 
 
-    #region Примеры / Виды исполнительных функций
+    #region Виды / Примеры исполнительных функций  (также в Общая информация)
       [ar] Примеры исполнительных функций включают:
-      * [ar] Постановку цели.
-      * [ar] Стратегическое планирование для достижения этой цели.
-      * [ar] Оценку трудностей и препятствий, мешающих достижению цели.
-      * [ar] Расстановку приоритетов.
-      * [ar] Контроль над эмоциями и эмоциональными импульсами.
-      * [ar] Осознанное управление вниманием.
+      * [ar] Постановка цели
+      * [ar] Стратегическое планирование для достижения этой цели
+      * [ar] Оценка трудностей и препятствий, мешающих достижению цели
+      * [ar] Расстановка приоритетов
+      * [ar] Контроль над эмоциями и эмоциональными импульсами
+      * [ar] Осознанное управление вниманием
+
+      [da] Исполнительные функции — это способности, которые помогают вам доводить дела до конца. Эти навыки контролируются областью мозга, называемой лобной долей, и помогают вам:
+      * [da] управлять временем
+      * [da] быть внимательным
+      * [da] переключать внимание
+      * [da] планировать, организовывать и управлять временем
+      * [da] запоминать детали
+      * [da] избегать ошибок в словах и действиях
+      * [da] выполнять задачи, основываясь на своем опыте
+      * [da] заниматься многозадачностью
+      * [da] думать креативно
+      ?[da:3]
     #endregion
 
 
@@ -1904,12 +1926,27 @@ zh	管控功能
     #endregion
 
 
-    #region Заболевания и расстройства
-      [ca] Исследования исполнительных функций при болезни Паркинсона (https://en.wikipedia.org/wiki/Parkinson's_disease ) показывают, что субкортикальные области, такие как миндалина (https://en.wikipedia.org/wiki/Amygdala ), гиппокамп (https://en.wikipedia.org/wiki/Hippocampus ) и базальные ганглии (https://en.wikipedia.org/wiki/Basal_ganglia ), играют важную роль в этих процессах. Модуляция дофамина (https://en.wikipedia.org/wiki/Dopamine ) в префронтальной коре головного мозга отвечает за эффективность дофаминергических препаратов в улучшении исполнительных функций, что приводит к кривой Йеркса-Додсона.[ca:89] Эта "перевернутая U" демонстрирует снижение исполнительных функций как при чрезмерной стимуляции (например, избыточное высвобождение катехоламинов в условиях стресса), так и при недостаточной стимуляции.[ca:90]
+    #region Нарушения, заболевания и расстройства
+      [ca] Исследования исполнительных функций при болезни Паркинсона (https://en.wikipedia.org/wiki/Parkinson%27s_disease ) показывают, что субкортикальные области, такие как миндалина (https://en.wikipedia.org/wiki/Amygdala ), гиппокамп (https://en.wikipedia.org/wiki/Hippocampus ) и базальные ганглии (https://en.wikipedia.org/wiki/Basal_ganglia ), играют важную роль в этих процессах. Модуляция дофамина (https://en.wikipedia.org/wiki/Dopamine ) в префронтальной коре головного мозга отвечает за эффективность дофаминергических препаратов в улучшении исполнительных функций, что приводит к кривой Йеркса-Додсона.[ca:89] Эта "перевернутая U" демонстрирует снижение исполнительных функций как при чрезмерной стимуляции (например, избыточное высвобождение катехоламинов в условиях стресса), так и при недостаточной стимуляции.[ca:90]
       
       [ca] Полиморфизм с низкой активностью фермента катехол-О-метилтрансферазы (COMT) ассоциируется с небольшим улучшением выполнения задач, связанных с исполнительными функциями, у здоровых людей.[ca:91] Нарушения исполнительных функций наблюдаются при множестве расстройств, включая тревожное расстройство (https://en.wikipedia.org/wiki/Anxiety_disorder ), большое депрессивное расстройство (https://en.wikipedia.org/wiki/Major_depressive_disorder ), биполярное расстройство (https://en.wikipedia.org/wiki/Bipolar_disorder ), синдром дефицита внимания и гиперактивности (СДВГ) (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ), шизофрению (https://en.wikipedia.org/wiki/Schizophrenia ) и аутизм (https://en.wikipedia.org/wiki/Autism ).[ca:92]
       
       [ca] Повреждения префронтальной коры, как в случае Финеаса Гейджа (https://en.wikipedia.org/wiki/Phineas_Gage ), также могут приводить к дефицитам исполнительных функций. Такие повреждения могут сопровождаться нарушением других способностей, включая снижение мотивации (https://en.wikipedia.org/wiki/Motivation ) и проблемы с социальными навыками (https://en.wikipedia.org/wiki/Social_skills ).[ca:93]
+      
+      [da] Когда исполнительные функции не работают должным образом, ваше поведение становится менее контролируемым. Это может повлиять на вашу способность:
+      * [da] работать или учиться
+      * [da] выполнять задачи самостоятельно
+      * [da] поддерживать отношения [da:3]
+
+      [da] Некоторые люди рождаются с ослабленными исполнительными функциями. У людей с СДВГ (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ), депрессией (https://en.wikipedia.org/wiki/Major_depressive_disorder ) или трудностями в обучении (Я: https://en.wikipedia.org/wiki/Learning_disability ) часто возникают проблемы с этими функциями. Травма передней части мозга может повлиять на способность концентрироваться. Повреждения, вызванные болезнью Альцгеймера (https://en.wikipedia.org/wiki/Alzheimer%27s_disease ) или инсультом (https://en.wikipedia.org/wiki/Stroke ), также могут стать причиной подобных трудностей.[da:4]
+
+    #endregion
+
+
+    #region Микробиология
+      (что-то странное)
+
+      [da] В последние годы исследования показывают, что состав микробиома (https://en.wikipedia.org/wiki/Microbiome ) кишечника оказывает значительное влияние на работу мозга и неврологическое здоровье. Связь обнаруживается не только с присутствием определённых бактерий, но и с наличием бактериофагов (https://en.wikipedia.org/wiki/Bacteriophage ), что подтверждается в экспериментах на животных.[ca:5]
     #endregion
 
 
@@ -1933,24 +1970,24 @@ zh	管控功能
       [ar:1] Elliott R (2003). Executive functions and their disorders. British Medical Bulletin. (65); 49–59
       [ar:2] Monsell S (2003). "Task switching". TRENDS in Cognitive Sciences. ج. 7 ع. 3: 134–140. DOI:10.1016/S1364-6613(03)00028-7. PMID:12639695.
       [ar:3] Chan, R. C. K., Shum, D., Toulopoulou, T. & Chen, E. Y. H.، R؛ Shum، D؛ Toulopoulou، T؛ Chen، E (2008). "Assessment of executive functions: Review of instruments and identification of critical issues". Archives of Clinical Neuropsychology. 2. ج. 23 ع. 2: 201–216. DOI:10.1016/j.acn.2007.08.010. PMID:18096360.
-      [ar:4] Alvarez, J. A. & Emory, E.، Julie A.؛ Emory، Eugene (2006). "Executive function and the frontal lobes: A meta-analytic review". Neuropsychology Review. ج. 16 ع. 1: 17–42. DOI:10.1007/s11065-006-9002-x. PMID:16794878.
-      [ar:5] Diamond، Adele (2013). "Executive functions". Annual Review of Psychology. ج. 64: 135–168. DOI:10.1146/annurev-psych-113011-143750. PMC:4084861. PMID:23020641.
+      [ar:4] Alvarez, J. A. & Emory, E.، Julie A.؛ Emory، Eugene (2006). "Executive function and the frontal lobes: A meta-analytic review". Neuropsychology Review. (https://archive.org/details/sim_neuropsychology-review_2006-03_16_1/page/17 ) ج. 16 ع. 1: 17–42. DOI:10.1007/s11065-006-9002-x. PMID:16794878.
+      [ar:5] Diamond، Adele (2013). "Executive functions". (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084861 ) Annual Review of Psychology. ج. 64: 135–168. DOI:10.1146/annurev-psych-113011-143750. PMC:4084861. PMID:23020641.
       [ar:6] Washburn، DA (2016). "The Stroop effect at 80: The competition between stimulus control and cognitive control". J Exp Anal Behav. ج. 105 ع. 1: 3–13. DOI:10.1002/jeab.194. PMID:26781048.
       [ar:7] Malenka، RC؛ Nestler، EJ؛ Hyman، SE (2009). "Chapter 13: Higher Cognitive Function and Behavioral Control". في Sydor، A؛ Brown، RY (المحررون). Molecular Neuropharmacology: A Foundation for Clinical Neuroscience (ط. 2nd). New York: McGraw-Hill Medical. ص. 315. ISBN:978-0-07-148127-4.
       [ar:8] Malenka، RC؛ Nestler، EJ؛ Hyman، SE (2009). "Chapter 13: Higher Cognitive Function and Behavioral Control". في Sydor، A؛ Brown، RY (المحررون). Molecular Neuropharmacology: A Foundation for Clinical Neuroscience (ط. 2nd). New York: McGraw-Hill Medical. ص. 313–321. ISBN:978-0-07-148127-4.
-      [ar:9] Solomon، Marjorie (13 نوفمبر 2007). "Cognitive control in autism spectrum disorders". International Journal of Developmental Neuroscience. ج. 26 ع. 2: 239–47. DOI:10.1016/j.ijdevneu.2007.11.001. PMC:2695998. PMID:18093787.
-      [ar:10] Alvarez، Julie A.؛ Emory، Eugene (2006). "Executive function and the frontal lobes: A meta-analytic review". Neuropsychology Review. ج. 16 ع. 1: 17–42. DOI:10.1007/s11065-006-9002-x. PMID:16794878.
-      [ar:11] Clark، L؛ Bechara، A؛ Damasio، H؛ Aitken، MRF؛ Sahakian، BJ؛ Robbins، TW (2008). "Differential effects of insular and ventromedial prefrontal cortex lesions on risky decision making". Brain. ج. 131 ع. 5: 1311–1322. DOI:10.1093/brain/awn066. PMC:2367692. PMID:18390562.
-      [ar:12] Lezak، Muriel Deutsch؛ Howieson، Diane B.؛ Loring، David W. (2004). Neuropsychological Assessment (ط. 4th). New York: Oxford University Press. ISBN:978-0-19-511121-7. OCLC:456026734.
+      [ar:9] Solomon، Marjorie (13 نوفمبر 2007). "Cognitive control in autism spectrum disorders". (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695998 ) International Journal of Developmental Neuroscience. ج. 26 ع. 2: 239–47. DOI:10.1016/j.ijdevneu.2007.11.001. PMC:2695998. PMID:18093787.
+      [ar:10] Alvarez، Julie A.؛ Emory، Eugene (2006). "Executive function and the frontal lobes: A meta-analytic review". (https://archive.org/details/sim_neuropsychology-review_2006-03_16_1/page/17 ) Neuropsychology Review. ج. 16 ع. 1: 17–42. DOI:10.1007/s11065-006-9002-x. PMID:16794878.
+      [ar:11] Clark، L؛ Bechara، A؛ Damasio، H؛ Aitken، MRF؛ Sahakian، BJ؛ Robbins، TW (2008). "Differential effects of insular and ventromedial prefrontal cortex lesions on risky decision making". (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367692 ) Brain. ج. 131 ع. 5: 1311–1322. DOI:10.1093/brain/awn066. PMC:2367692. PMID:18390562.
+      [ar:12] Lezak، Muriel Deutsch؛ Howieson، Diane B.؛ Loring، David W. (2004). Neuropsychological Assessment (https://archive.org/details/neuropsychologic0000unse_m7e7 ) (ط. 4th). New York: Oxford University Press. ISBN:978-0-19-511121-7. OCLC:456026734.
       [ar:13] Allman، John M.؛ Hakeem، Atiya؛ Erwin، Joseph M.؛ Nimchinsky، Esther؛ Hof، Patrick (2001). "The anterior cingulate cortex: the evolution of an interface between emotion and cognition". Annals of the New York Academy of Sciences. ج. 935 ع. 1: 107–117. Bibcode:2001NYASA.935..107A. DOI:10.1111/j.1749-6632.2001.tb03476.x. PMID:11411161.
       [ar:14] Koziol LF، Budding DE، Chidekel D (2012). "From movement to thought: executive function, embodied cognition, and the cerebellum". Cerebellum. ج. 11 ع. 2: 505–25. DOI:10.1007/s12311-011-0321-y. PMID:22068584.
       [ar:15] Noroozian M (2014). "The role of the cerebellum in cognition: beyond coordination in the central nervous system". Neurol Clin. ج. 32 ع. 4: 1081–104. DOI:10.1016/j.ncl.2014.07.005. PMID:25439295.
       [ar:16] Norman، DA؛ Shallice، T (1980). "Attention to action: Willed and automatic control of behaviour". في Gazzaniga، MS (المحرر). Cognitive neuroscience: a reader. Oxford: Blackwell (نُشِر في 2000). ص. 377. ISBN:978-0-631-21660-5.
       [ar:17] Barkley، Russell A.؛ Murphy، Kevin R. (2006). Attention-Deficit Hyperactivity Disorder: A Clinical Workbook (ط. 3rd). New York, NY: Guilford Press. ج. 2. ISBN:978-1-59385-227-6. OCLC:314949058.
-      [ar:18] Shiffrin، RM؛ Schneider، W (مارس 1977). "Controlled and automatic human information processing: II: Perceptual learning, automatic attending, and a general theory". Psychological Review. ج. 84 ع. 2: 127–90. CiteSeerX:10.1.1.227.1856. DOI:10.1037/0033-295X.84.2.127.
-      [ar:19] Posner، MI؛ Snyder، CRR (1975). "Attention and cognitive control". في Solso، RL (المحرر). Information processing and cognition: the Loyola symposium. Hillsdale, NJ: L. Erlbaum Associates. ISBN:978-0-470-81230-3. مؤرشف من الأصل في 2020-01-31.
+      [ar:18] Shiffrin، RM؛ Schneider، W (مارس 1977). "Controlled and automatic human information processing: II: Perceptual learning, automatic attending, and a general theory". (https://archive.org/details/sim_psychological-review_1977-03_84_2/page/127 ) Psychological Review. ج. 84 ع. 2: 127–90. CiteSeerX:10.1.1.227.1856. DOI:10.1037/0033-295X.84.2.127.
+      [ar:19] Posner، MI؛ Snyder، CRR (1975). "Attention and cognitive control". (https://web.archive.org/web/20200131185547/https://archive.org/details/informationproce0000unse_l8d4 ) في Solso، RL (المحرر). Information processing and cognition: the Loyola symposium. (https://archive.org/details/informationproce0000unse_l8d4 ) Hillsdale, NJ: L. Erlbaum Associates. ISBN:978-0-470-81230-3. مؤرشف من الأصل في 2020-01-31. (https://archive.org/details/informationproce0000unse_l8d4 )
       [ar:20] Posner، MI؛ Petersen، SE (1990). "The attention system of the human brain". Annu Rev Neurosci. ج. 13 ع. 1: 25–42. DOI:10.1146/annurev.ne.13.030190.000325. PMID:2183676.
-      [ar:21] Shallice، T (1988). From neuropsychology to mental structure. Cambridge, UK: Cambridge University Press. ISBN:978-0-521-31360-5. مؤرشف من الأصل في 2020-01-31.
+      [ar:21] Shallice، T (1988). From neuropsychology to mental structure. (https://web.archive.org/web/20200131185550/https://archive.org/details/fromneuropsychol0000shal ) Cambridge, UK: Cambridge University Press. ISBN:978-0-521-31360-5. مؤرشف من الأصل في 2020-01-31. (https://archive.org/details/fromneuropsychol0000shal )
       [ar:22] Baddeley، Alan D. (1986). Working memory. Oxford psychology series. Oxford: Clarendon Press. ج. 11. ISBN:978-0-19-852116-7. OCLC:13125659.
     #endregion
 
@@ -2054,6 +2091,14 @@ zh	管控功能
       [ca:97] Koechlin, E; Ody, C; Kouneiher, F Science, 302, 5648, 11-2003, pàg. 1181–5. Bibcode: 2003Sci...302.1181K. DOI: 10.1126/science.1088545. PMID: 14615530.
       [ca:98] Greene, CM; Braet, W; Johnson, KA; Bellgrove, MA Biol Psychol, 79, 1, 2007, pàg. 30–42. DOI: 10.1016/j.biopsycho.2007.11.009. PMID: 18178303.
       [ca:99] Diamond, Adele; Ling, Daphne S. Developmental Cognitive Neuroscience, 18, 01-04-2016, pàg. 34–48. DOI: 10.1016/j.dcn.2015.11.005. PMC: 5108631. PMID: 26749076.
+    #endregion
+
+    #region da
+      [da:1] Eksekutive funktioner. Socialstyrelsen. Viden til gavn 2015 (https://socialstyrelsen.dk/handicap/hjerneskade/bornehjernekassen/paedagogiske-tips/eksekutive-funktioner-1 )
+      [da:2] "UDVIKLING AF EKSEKUTIVE FUNKTIONER. IMPULSKONTROL.DK 2020". (https://web.archive.org/web/20220221121256/https://impulskontrol.dk/kaba/udvikling-af-eksekutive-funktioner/ ) Arkiveret fra originalen (https://impulskontrol.dk/kaba/udvikling-af-eksekutive-funktioner/ ) 21. februar 2022. Hentet 21. februar 2022.
+      [da:3] "Skolebørn med eksekutive vanskeligheder. Videnscenter Sølund Skanderborg". (https://web.archive.org/web/20220221115755/https://viss.skanderborg.dk/VIDEN/Artikler1/Artikler1/Skoleb%C3%B8rn-med-eksekutive-vanskeligheder-1.aspx ) Arkiveret fra originalen (https://viss.skanderborg.dk/VIDEN/Artikler1/Artikler1/Skoleb%C3%B8rn-med-eksekutive-vanskeligheder-1.aspx ) 21. februar 2022. Hentet 21. februar 2022.
+      [da:4] Eksekutive funktioner. Neurorehabilitering - Kbh (https://neurorehabilitering.kk.dk/viden-om/ordbog/eksekutive-funktioner )
+      [da:5] Bacteria-Infecting Viruses in Gut Microbiome Linked to Cognition. The Scientist 2022 (https://www.the-scientist.com/news-opinion/bacteria-infecting-viruses-in-gut-microbiome-linked-to-cognition-69709 )
     #endregion
 
     #endregion
@@ -3024,6 +3069,8 @@ zh	管控功能
   https://en.wikipedia.org/wiki/Executive_dysfunction
     <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Nonverbal_learning_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Parkinson%27s_disease
     <= https://en.wikipedia.org/wiki/Executive_functions
 
 
