@@ -1992,32 +1992,32 @@ zh	管控功能
     #endregion
 
     #region ca
-      [ca:1] Malenka, RC. «Chapter 6: Widely Projecting Systems: Monoamines, Acetylcholine, and Orexin». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 155–157. ISBN 978-0-07-148127-4.
+      [ca:1] Malenka, RC. «Chapter 6: Widely Projecting Systems: Monoamines, Acetylcholine, and Orexin». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 155–157. ISBN:978-0-07-148127-4.
       [ca:2] Diamond, Adele Annual Review of Psychology, 64, 2013, pàg. 135–168. DOI: 10.1146/annurev-psych-113011-143750. PMC: 4084861. PMID: 23020641.
       [ca:3] Archives of Clinical Neuropsychology, 23, 2, 3-2008, pàg. 201–216. DOI: 10.1016/j.acn.2007.08.010. PMID: 18096360.
       [ca:4] Washburn, DA J Exp Anal Behav, 105, 1, 2016, pàg. 3–13. DOI: 10.1002/jeab.194. PMID: 26781048.
       [ca:5] Alvarez, Julie A.; Emory, Eugene Neuropsychology Review, 16, 1, 2006, pàg. 17–42. DOI: 10.1007/s11065-006-9002-x. PMID: 16794878.
-      [ca:6] Malenka, RC. «Chapter 13: Higher Cognitive Function and Behavioral Control». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 315. ISBN 978-0-07-148127-4.
-      [ca:7] Malenka, RC. «Chapter 13: Higher Cognitive Function and Behavioral Control». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 313–321. ISBN 978-0-07-148127-4.
+      [ca:6] Malenka, RC. «Chapter 13: Higher Cognitive Function and Behavioral Control». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 315. ISBN:978-0-07-148127-4.
+      [ca:7] Malenka, RC. «Chapter 13: Higher Cognitive Function and Behavioral Control». A: Sydor. Molecular Neuropharmacology: A Foundation for Clinical Neuroscience. 2a edició. Nova York: McGraw-Hill Medical, 2009, p. 313–321. ISBN:978-0-07-148127-4.
       [ca:8] Solomon, Marjorie International Journal of Developmental Neuroscience, 26, 2, 13-11-2007, pàg. 239–47. DOI: 10.1016/j.ijdevneu.2007.11.001. PMC: 2695998. PMID: 18093787.
       [ca:9] Stuss, D.T., & Alexander, M.P. (2000). Executive functions and the frontal lobes: A conceptual view. Psychological Research, 63, 289-298.
       [ca:10] Burgess, P. & Stuss, D.T. (2017). Fifty years of prefrontal cortex research: Impact on assessment. Journal of the International Neuropsychological Society, 23, 755-767.
-      [ca:11] Lezak, Muriel Deutsch. Neuropsychological Assessment. 4th. Nova York: Oxford University Press, 2004. ISBN 978-0-19-511121-7. OCLC 456026734.
+      [ca:11] Lezak, Muriel Deutsch. Neuropsychological Assessment. 4th. Nova York: Oxford University Press, 2004. ISBN:978-0-19-511121-7. OCLC:456026734.
       [ca:12] Clark, L; Bechara, A; Damasio, H; Aitken, MRF; Sahakian, BJ Brain, 131, 5, 2008, pàg. 1311–1322. DOI: 10.1093/brain/awn066. PMC: 2367692. PMID: 18390562.
       [ca:13] Allman, John M.; Hakeem, Atiya; Erwin, Joseph M.; Nimchinsky, Esther; Hof, Patrick Annals of the New York Academy of Sciences, 935, 1, 2001, pàg. 107–117. Bibcode: 2001NYASA.935..107A. DOI: 10.1111/j.1749-6632.2001.tb03476.x. PMID: 11411161.
       [ca:14] Rolls, Edmund T.; Grabenhorst, Fabian Progress in Neurobiology, 86, 3, 2008, pàg. 216–244. DOI: 10.1016/j.pneurobio.2008.09.001. PMID: 18824074.
       [ca:15] Cerebellum, 11, 2, 2012, pàg. 505–25. DOI: 10.1007/s12311-011-0321-y. PMID: 22068584.
       [ca:16] Neurol Clin, 32, 4, 2014, pàg. 1081–104. DOI: 10.1016/j.ncl.2014.07.005. PMID: 25439295.
-      [ca:17] Norman, DA. «Attention to action: Willed and automatic control of behaviour». A: Gazzaniga. Cognitive neuroscience: a reader. Oxford: Blackwell, 1980, p. 377. ISBN 978-0-631-21660-5.
-      [ca:18] Barkley, Russell A. Attention-Deficit Hyperactivity Disorder: A Clinical Workbook. 2. 3rd. Nova York, NY: Guilford Press, 2006. ISBN 978-1-59385-227-6. OCLC 314949058.
-      [ca:19] Cherkes-Julkowski, Miriam. The DYSfunctionality of Executive Function. Apache Junction, AZ: Surviving Education Guides, 2005. ISBN 978-0-9765299-2-7. OCLC 77573143.
+      [ca:17] Norman, DA. «Attention to action: Willed and automatic control of behaviour». A: Gazzaniga. Cognitive neuroscience: a reader. Oxford: Blackwell, 1980, p. 377. ISBN:978-0-631-21660-5.
+      [ca:18] Barkley, Russell A. Attention-Deficit Hyperactivity Disorder: A Clinical Workbook. 2. 3rd. Nova York, NY: Guilford Press, 2006. ISBN:978-1-59385-227-6. OCLC:314949058.
+      [ca:19] Cherkes-Julkowski, Miriam. The DYSfunctionality of Executive Function. Apache Junction, AZ: Surviving Education Guides, 2005. ISBN:978-0-9765299-2-7. OCLC:77573143.
       [ca:20] Anderson, J.R.. Cognitive Psychology and Its Implications lloc=New York, NY (en anglès). Worth Publishers, 2010.
       [ca:21] Shiffrin, RM; Schneider, W Psychological Review, 84, 2, 3-1977, pàg. 127–190. DOI: 10.1037/0033-295X.84.2.127.
-      [ca:22] Posner, MI. «Attention and cognitive control». A: Solso. Information processing and cognition: the Loyola symposium. Hillsdale, NJ: L. Erlbaum Associates, 1975. ISBN 978-0-470-81230-3.
+      [ca:22] Posner, MI. «Attention and cognitive control». (https://archive.org/details/informationproce0000unsel8d4 ) A: Solso. Information processing and cognition: the Loyola symposium. Hillsdale, NJ: L. Erlbaum Associates, 1975. ISBN:978-0-470-81230-3.
       [ca:23] Posner, MI; Petersen, SE Annu Rev Neurosci, 13, 1, 1990, pàg. 25–42. DOI: 10.1146/annurev.ne.13.030190.000325. PMID: 2183676.
-      [ca:24] Shallice, T. From neuropsychology to mental structure. Cambridge, UK: Cambridge University Press, 1988. ISBN 978-0-521-31360-5.
-      [ca:25] Baddeley, Alan D. Working memory. 11. Oxford: Clarendon Press, 1986 (Oxford psychology series). ISBN 978-0-19-852116-7. OCLC 13125659.
-      [ca:26] De Luca, Cinzia R. «Developmental trajectories of executive functions across the lifespan». A: Anderson. Executive functions and the frontal lobes: a lifespan perspective. Washington, DC: Taylor & Francis, 2008, p. 24–47. ISBN 978-1-84169-490-0. OCLC 182857040.
+      [ca:24] Shallice, T. From neuropsychology to mental structure (https://archive.org/details/fromneuropsychol0000shal ). Cambridge, UK: Cambridge University Press, 1988. ISBN:978-0-521-31360-5.
+      [ca:25] Baddeley, Alan D. Working memory. 11. Oxford: Clarendon Press, 1986 (Oxford psychology series). ISBN:978-0-19-852116-7. OCLC:13125659.
+      [ca:26] De Luca, Cinzia R. «Developmental trajectories of executive functions across the lifespan» (https://books.google.cat/books?id=2F14AgAAQBAJ&pg=PT107 ). A: Anderson. Executive functions and the frontal lobes: a lifespan perspective. Washington, DC: Taylor & Francis, 2008, p. 24–47. ISBN:978-1-84169-490-0. OCLC:182857040.
       [ca:27] Anderson, PJ Child Neuropsychology, 8, 2, 2002, pàg. 71–82. DOI: 10.1076/chin.8.2.71.8724. PMID: 12638061.
       [ca:28] Senn, TE; Espy, KA; Kaufmann, PM Developmental Neuropsychology, 26, 1, 2004, pàg. 445–464. DOI: 10.1207/s15326942dn2601_5. PMID: 15276904.
       [ca:29] Best, JR; Miller, PH; Jones, LL Developmental Review, 29, 3, 2009, pàg. 180–200. DOI: 10.1016/j.dr.2009.05.002. PMC: 2792574. PMID: 20161467.
@@ -2037,14 +2037,14 @@ zh	管控功能
       [ca:43] Ochsner, KN; Gross, JJ Trends Cogn Sci, 9, 5, 5-2005, pàg. 242–9. DOI: 10.1016/j.tics.2005.03.010. PMID: 15866151.
       [ca:44] Decety, J; Grèzes, J Brain Res., 1079, 1, 3-2006, pàg. 4–14. DOI: 10.1016/j.brainres.2005.12.115. PMID: 16460715.
       [ca:45] Aron, AR Neuroscientist, 13, 3, 6-2007, pàg. 214–28. DOI: 10.1177/1073858407299288. PMID: 17519365.
-      [ca:46] Baddeley, Alan. «16 Fractionating the Central Executive». A: Knight. Principles of frontal lobe function. Oxford [Oxfordshire]: Oxford University Press, 2002, p. 246–260. ISBN 978-0-19-513497-1. OCLC 48383566.
-      [ca:47] Norman, DA. «Attention to action: Willed and automatic control of behaviour». A: Shapiro. Consciousness and self-regulation: advances in research. Nova York: Plenum Press, 1986, p. 1–14. ISBN 978-0-306-33601-0. OCLC 2392770.
+      [ca:46] Baddeley, Alan. «16 Fractionating the Central Executive». A: Knight. Principles of frontal lobe function. Oxford [Oxfordshire]: Oxford University Press, 2002, p. 246–260. ISBN:978-0-19-513497-1. OCLC:48383566.
+      [ca:47] Norman, DA. «Attention to action: Willed and automatic control of behaviour» (https://archive.org/details/consciousnesssel01trol ). A: Shapiro. Consciousness and self-regulation: advances in research (https://archive.org/details/consciousnesssel01trol/page/1 ). Nova York: Plenum Press, 1986, p. 1–14 (https://archive.org/details/consciousnesssel01trol/page/1 ). ISBN:978-0-306-33601-0. OCLC:2392770.
       [ca:48] Shallice, Tim; Burgess, Paul; Robertson, I. Philosophical Transactions of the Royal Society B, 351, 1346, 1996, pàg. 1405–1412. DOI: 10.1098/rstb.1996.0124. PMID: 8941952.
       [ca:49] Barkley, RA Psychological Bulletin, 121, 1, 1997, pàg. 65–94. DOI: 10.1037/0033-2909.121.1.65. PMID: 9000892.
-      [ca:50] Russell A. Barkley: Executive Functions - What They Are, How They Work, and Why They Evolved. Guilford Press, 2012. ISBN 978-1-4625-0535-7
+      [ca:50] Russell A. Barkley: Executive Functions - What They Are, How They Work, and Why They Evolved (https://books.google.cat/books?id=7c39F6qD38IC&printsec=frontcover&hl=ca&source=gbsgesummaryr&cad=0#v=onepage&q&f=false ). Guilford Press, 2012. ISBN:978-1-4625-0535-7
       [ca:51] Zelazo, PD; Carter, A; Reznick, J; Frye, D Review of General Psychology, 1, 2, 1997, pàg. 198–226. DOI: 10.1037/1089-2680.1.2.198.
-      [ca:52] Lezak, Muriel Deutsch. Neuropsychological assessment. 3rd. Nova York: Oxford University Press, 1995. ISBN 978-0-19-509031-4. OCLC 925640891.
-      [ca:53] Anderson, PJ. «Towards a developmental framework of executive function». A: Anderson. Executive functions and the frontal lobes: A lifespan perspective. Nova York: Taylor & Francis, 2008, p. 3–21. ISBN 978-1-84169-490-0. OCLC 182857040.
+      [ca:52] Lezak, Muriel Deutsch. Neuropsychological assessment (https://archive.org/details/neuropsychologic0000leza ). 3rd. Nova York: Oxford University Press, 1995. ISBN:978-0-19-509031-4. OCLC:925640891.
+      [ca:53] Anderson, PJ. «Towards a developmental framework of executive function». A: Anderson. Executive functions and the frontal lobes: A lifespan perspective. Nova York: Taylor & Francis, 2008, p. 3–21. ISBN:978-1-84169-490-0. OCLC:182857040.
       [ca:54] Miller, EK; Cohen, JD Annu Rev Neurosci, 24, 1, 2001, pàg. 167–202. DOI: 10.1146/annurev.neuro.24.1.167. PMID: 11283309.
       [ca:55] Desimone, R; Duncan, J Annu Rev Neurosci, 18, 1, 1995, pàg. 193–222. DOI: 10.1146/annurev.ne.18.030195.001205. PMID: 7605061.
       [ca:56] Miyake, A; Friedman, NP; Emerson, MJ; Witzki, AH; Howerter, A Cognitive Psychology, 41, 1, 2000, pàg. 49–100. DOI: 10.1006/cogp.1999.0734. PMID: 10945922.
@@ -2059,7 +2059,7 @@ zh	管控功能
       [ca:65] Banich, MT Current Directions in Psychological Science, 18, 2, 2009, pàg. 89–94. DOI: 10.1111/j.1467-8721.2009.01615.x.
       [ca:66] Buzzell, GA; Roberts, DM; Baldwin, CL; McDonald, CG International Journal of Psychophysiology, 90, 2, 2013, pàg. 265–71. DOI: 10.1016/j.ijpsycho.2013.08.008. PMID: 23994425.
       [ca:67] Castellanos, Irina; Kronenberger, William G.; Pisoni, David B. Applied Neuropsychology: Child, 0, 2, 2016, pàg. 1–17. DOI: 10.1080/21622965.2016.1248557. PMC: 6260811. PMID: 27841670.
-      [ca:68] Rabbitt, PMA. «Theory and methodology in executive function research». A: Methodology of frontal and executive function. East Sussex: Psychology Press, 1997. ISBN 978-0-86377-485-0.
+      [ca:68] Rabbitt, PMA. «Theory and methodology in executive function research». A: Methodology of frontal and executive function. East Sussex: Psychology Press, 1997. ISBN:978-0-86377-485-0.
       [ca:69] Saver, JL; Damasio, AR Neuropsychologia, 29, 12, 1991, pàg. 1241–9. DOI: 10.1016/0028-3932(91)90037-9. PMID: 1791934.
       [ca:70] Shimamura, AP Psychobiology, 28, 2000, pàg. 207–218. DOI: 10.3758/BF03331979.
       [ca:71] Sakagami, M; Tsutsui, Ki; Lauwereyns, J; Koizumi, M; Kobayashi, S J. Neurosci., 21, 13, 01-07-2001, pàg. 4801–8. DOI: 10.1523/JNEUROSCI.21-13-04801.2001. PMC: 6762341. PMID: 11425907.
@@ -2070,11 +2070,11 @@ zh	管控功能
       [ca:76] Miller, BT; d'Esposito, M Neuron, 48, 4, 11-2005, pàg. 535–8. DOI: 10.1016/j.neuron.2005.11.002. PMID: 16301170.
       [ca:77] Barceló, F; Suwazono, S; Knight, RT Nat. Neurosci., 3, 4, 4-2000, pàg. 399–403. DOI: 10.1038/73975. PMID: 10725931.
       [ca:78] Fuster, JM; Bauer, RH; Jervey, JP Brain Res., 330, 2, 3-1985, pàg. 299–307. DOI: 10.1016/0006-8993(85)90689-4. PMID: 3986545.
-      [ca:79] Gazzaley, A; Rissman, J; d'Esposito, M Cogn Affect Behav Neurosci, 4, 4, 12-2004, pàg. 580–99. DOI: 10.3758/CABN.4.4.580. PMID: 15849899.[Enllaç no actiu]
+      [ca:79] Gazzaley, A; Rissman, J; d'Esposito, M Cogn Affect Behav Neurosci, 4, 4, 12-2004, pàg. 580–99. DOI: 10.3758/CABN.4.4.580. PMID: 15849899.
       [ca:80] Shokri-Kojori, E; Motes, MA; Rypma, B; Krawczyk, DC Sci. Rep., 2, 411, 5-2012, pàg. 411. Bibcode: 2012NatSR...2E.411S. DOI: 10.1038/srep00411. PMC: 3355370. PMID: 22624092.
       [ca:81] Antoniou, Mark Annual Review of Linguistics, 5, 1, 2019, pàg. 395–415. DOI: 10.1146/annurev-linguistics-011718-011820. ISSN: 2333-9683.
       [ca:82] Carlson, SM; Meltzoff, AM Developmental Science, 11, 2, 2008, pàg. 282–298. DOI: 10.1111/j.1467-7687.2008.00675.x. PMC: 3647884. PMID: 18333982.
-      [ca:83] Bialystok, Ellen. Bilingualism in development: Language, literacy, and cognition. Nova York: Cambridge University Press, 2001. ISBN 978-0-511-60596-3. OCLC 51202836.
+      [ca:83] Bialystok, Ellen. Bilingualism in development: Language, literacy, and cognition. Nova York: Cambridge University Press, 2001. ISBN:978-0-511-60596-3. OCLC:51202836.
       [ca:84] Conboy, BT; Sommerville, JA; Kuhl, PK Developmental Psychology, 44, 5, 2008, pàg. 1505–1512. DOI: 10.1037/a0012975. PMC: 2562344. PMID: 18793082.
       [ca:85] Bialystok, E; Craik, FIM; Klein, R; Viswanathan, M Psychology and Aging, 19, 2, 2004, pàg. 290–303. DOI: 10.1037/0882-7974.19.2.290. PMID: 15222822.
       [ca:86] Emmorey, K; Luk, G; Pyers, JE; Bialystok, E Psychological Science, 19, 12, 2008, pàg. 1201–1206. DOI: 10.1111/j.1467-9280.2008.02224.x. PMC: 2677184. PMID: 19121123.
