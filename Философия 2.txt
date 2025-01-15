@@ -1606,8 +1606,7 @@ Oxford University Press
       <= https://en.wikipedia.org/wiki/Cognition
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
     Языки:
-      ar        ca      da
-de	Exekutive Funktionen
+      ar        ca      da      de
 en	Executive functions
 es	Función ejecutiva (neuropsicología)
 fa	کارکردهای اجرایی
@@ -1637,7 +1636,8 @@ zh	管控功能
       [ca] Исполнительные функции (способствующего называемые исполнительной функцией и когнитивным контролем) представляют собой совокупность когнитивных процессов (https://en.wikipedia.org/wiki/Cognition ), необходимых для управления поведением (https://en.wikipedia.org/wiki/Behavior ): они позволяют выбирать и успешно контролировать действия, которые способствуют достижению поставленных целей.
       [da] Исполнительные функции, управленческие функции, исполнительная система или когнитивный контроль — это термины, которые психологи и неврологи используют для описания набора мозговых процессов, которые регулируются лобной долей (https://en.wikipedia.org/wiki/Frontal_lobe ). Исполнительные функции представляют собой обобщающий термин для когнитивных процессов (https://en.wikipedia.org/wiki/Cognition ), которые управляют, контролируют и регулируют другие когнитивные процессы. Они отвечают за планирование, когнитивную гибкость, абстрактное мышление, формирование правил, выполнение необходимых действий, подавление нецелесообразных действий, а также за выбор релевантной сенсорной информации (https://en.wikipedia.org/wiki/Sense ).[da:1][da:2]
       [da] Исполнительные функции нарушаются при зависимостях (https://en.wikipedia.org/wiki/Addiction ), синдроме дефицита внимания и гиперактивности, аутизме (https://en.wikipedia.org/wiki/Autism ) и ряде других расстройств центральной нервной системы.
-
+      [de] Термин «исполнительные функции» или «когнитивный контроль», является обобщающим понятием, используемым в нейропсихологии (https://en.wikipedia.org/wiki/Neuropsychology ) и исследованиях мозга (https://en.wikipedia.org/wiki/Brain_research ). Он описывает умственные способности, которые позволяют людям (а в более широком смысле — высшим живым существам) управлять своим поведением с учетом условий окружающей среды. Эти функции помогают оптимально адаптировать свои действия к ситуации, чтобы добиться наилучшего результата.
+      (деление на высших и низших живых существ достаточно условное; и нет, это совсем не только люди, это любые организмы, чьё поведение адаптируется.. надо уточнить, тут https://en.wikipedia.org/wiki/Higher_animal редирект )
     #endregion
 
 
@@ -1659,6 +1659,24 @@ zh	管控功能
       [ar] Хотя передняя часть префронтальной коры (https://en.wikipedia.org/wiki/Prefrontal_cortex ) играет важную роль в управлении исполнительными функциями, её участие недостаточно для полной регуляции этих процессов.[ca:5][ca:6] Например, полосатое тело (хвостатое ядро) (https://en.wikipedia.org/wiki/Caudate_nucleus ) и субталамическое ядро также участвуют в обеспечении когнитивного торможения.[ar:7][ca:7]
 
       [ar][ca] Нарушения когнитивного контроля наблюдаются при таких состояниях, как зависимость (https://en.wikipedia.org/wiki/Addiction ), синдром дефицита внимания и гиперактивности (СДВГ) (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ),[ca:2][ca:7] расстройства аутистического спектра (https://en.wikipedia.org/wiki/Autism_spectrum ),[ca:8] и различные другие расстройства центральной нервной системы. У людей, страдающих зависимостью, поведение в значительной степени управляется стимулами, связанными с вознаграждением.[ar:8][ar:9]
+
+      [de] Исполнительные функции выступают в роли процессов контроля, которые используются особенно тогда, когда автоматических действий уже недостаточно для решения проблем. Примеры таких ситуаций включают исправление ошибки, освоение сложного нового навыка или отказ от укоренившихся привычек. В таких случаях вместо привычного поведения требуется высокий уровень осознанных и внимательных действий, для чего необходимы исполнительные функции.[de:1]
+
+      [de] Исполнительные функции не относятся к какому-либо одному когнитивному процессу (например, память или восприятие), а выполняют регулирующую контрольную функцию.[de:2]
+
+      [de] Таким образом, исполнительные функции представляют собой высшие психические и когнитивные процессы, которые служат для саморегуляции (https://en.wikipedia.org/wiki/Emotional_self-regulation ) и целенаправленного управления действиями человека (https://de.wikipedia.org/wiki/Selbstmanagement ) в его окружении. Исполнительные функции можно понимать как те психические способности, которые непосредственно предшествуют выполнению действий или сопровождают их.[de:3] К этим функциям также относятся самомотивация (https://de.wikipedia.org/wiki/Selbstmotivation ), формирование воли (волеобразование) (https://en.wikipedia.org/wiki/Volition_(psychology) ) и побуждение к началу действия (инициатива) (https://en.wikipedia.org/wiki/Initiative ).
+
+      [de] Исполнительные функции играют ключевую роль в повседневной жизни: они незаменимы для самостоятельного ведения жизни, способствуют развитию самодисциплины (https://ru.wikipedia.org/wiki/Дисциплинированность ), эффективного управления временем (https://en.wikipedia.org/wiki/Time_management ), способности к реализации планов (https://de.wikipedia.org/wiki/Umsetzungskompetenz ) и умению откладывать мгновенное вознаграждение ради достижения долгосрочных целей (https://en.wikipedia.org/wiki/Delayed_gratification ).
+
+      #region Возможно к моделям
+      [de] Статистические исследования (https://en.wikipedia.org/wiki/Path_analysis_(statistics) ) показали, что все более сложные исполнительные функции можно свести к трем независимым базовым процессам:[de:4]
+      
+      * [de] Смена фокуса внимания (shifting) – способность переключаться между различными задачами или аспектами информации.
+      * [de] Подавление доминантных реакций (inhibition) – умение сдерживать импульсивные или автоматические реакции.
+      * [de] Обновление содержания рабочей памяти (updating) – способность обновлять и сохранять актуальную информацию в рабочей памяти.
+      
+      [de] Преимущество такого подхода заключается в том, что эти базовые процессы легко поддаются операционализации (https://en.wikipedia.org/wiki/Operationalization ) и измерению с помощью специальных тестов.[de:4]
+      #endregion
     #endregion
 
 
@@ -1689,7 +1707,34 @@ zh	管控功能
     #endregion
 
 
-    #region Нейроанатомия
+    #region Виды / Примеры исполнительных функций  (также в Общая информация)
+      [ar][de] Примеры исполнительных функций включают:
+      * [ar][de] Постановка цели
+      * [ar][de] Стратегическое планирование действий для достижения этой цели
+      * [ar][de] Учёт трудностей и препятствий, мешающих достижению цели
+      * [ar][de] Расстановка приоритетов (https://de.wikipedia.org/wiki/Priorität )
+      * [ar][de] Самоконтроль (контроль импульсов (https://en.wikipedia.org/wiki/Impulse-control_disorder ) и регулирование эмоций (https://en.wikipedia.org/wiki/Regulation_of_emotion ))
+      * [de] использование рабочей памяти (https://en.wikipedia.org/wiki/Working_memory )
+      * [ar][de] Осознанное управление вниманием
+      * [de] целенаправленное начало, координацию и последовательное выполнение действий
+      * [de] моторное исполнение, наблюдение за результатами действий и самокоррекция
+
+      [da] Исполнительные функции — это способности, которые помогают вам доводить дела до конца. Эти навыки контролируются областью мозга, называемой лобной долей, и помогают вам:
+      * [da] управлять временем
+      * [da] быть внимательным
+      * [da] переключать внимание
+      * [da] планировать, организовывать и управлять временем
+      * [da] запоминать детали
+      * [da] избегать ошибок в словах и действиях
+      * [da] выполнять задачи, основываясь на своем опыте
+      * [da] заниматься многозадачностью
+      * [da] думать креативно
+      ?[da:3]
+
+    #endregion
+
+
+    #region Нейроанатомия / Нейробиология
       [ar][ca] Исторически считалось, что исполнительные функции управляются областями префронтальной коры, расположенными в лобной доле мозга,[ca:9][ca:10] однако это утверждение остается предметом широких дискуссий/дебатов.[ca:5] Несмотря на то, что научные статьи указывают на нарушение исполнительных функций после поражения лобной доли мозга, и наоборот, в одном обзоре были обнаружены доказательства чувствительности , но не специфичности (https://en.wikipedia.org/wiki/Sensitivity_and_specificity ) показателей исполнительной функции к функционированию лобных долей. Это означает, что как префронтальные, так и не префронтальные области мозга играют важную роль в поддержании исполнительных функций. Считается, что лобная доля участвует во всех исполнительных функциях, но она не является единственной областью мозга, отвечающей за их выполнение.[ar:10]
 
       [ar] Исследования с использованием методов нейровизуализации и изучения поражений мозга выявили функции, связанные с определенными областями префронтальной коры и другими связанными с ними участками мозга.[ca:5]
@@ -1703,6 +1748,8 @@ zh	管控功能
       [ar][ca] Кроме того, исследователи Альварес и Эмори в своем обзорном исследовании отмечают: «Лобная доля имеет множественные связи с корковыми и подкорковыми областями, а также с участками ствола мозга. Основы высших когнитивных функций, таких как торможение (ингибирование), гибкость мышления, решение проблем, планирование, контроль мотивации, формирование концепций, абстрактное мышление и творчество/креативность, берут начало из более простых и низкоуровневых когнитивных и поведенческих процессов. Поэтому концепция исполнительной функции должна быть достаточно широкой, чтобы включать анатомические структуры, представляющие разнообразные и разбросанные части центральной нервной системы».».[ar:10][ca:5]
 
       [ar] Мозжечок (https://en.wikipedia.org/wiki/Cerebellum ), по-видимому, также участвует в осуществлении определенных исполнительных функций.[ar:14][ar:15][ca:15][ca:16]
+
+      [de] Для нормального функционирования этих когнитивных способностей требуется здоровый лобный отдел мозга (https://en.wikipedia.org/wiki/Frontal_lobe ), особенно префронтальная кора (https://en.wikipedia.org/wiki/Prefrontal_cortex ), а также сбалансированное взаимодействие определённых нервных путей, организованных в регуляторные циклы, и связанных с ними нейромедиаторов (https://en.wikipedia.org/wiki/Neurotransmitter ). Эти нейронные регуляторные цепи включают, помимо лобного мозга, также части базальных ганглиев (https://en.wikipedia.org/wiki/Basal_ganglia ) и таламус (https://en.wikipedia.org/wiki/Thalamus ) (см. стриато-фронтальная дисфункция (https://en.wikipedia.org/wiki/Frontostriatal_circuit )).
     #endregion
 
 
@@ -1720,29 +1767,6 @@ zh	管控功能
       [ar][ca] Исполнительные функции обычно задействуются, когда возникает необходимость преодолеть ранее сформированные реакции, которые могут автоматически активироваться под воздействием внешних стимулов. Например, если человек сталкивается с потенциально привлекательным стимулом, например вкусным куском шоколадного торта, его автоматическая реакция может заключаться в том, чтобы взять и откусить его. Однако, если такое поведение противоречит внутренним планам человека (например, решение не есть шоколадный торт из-за соблюдения диеты), в работу включаются исполнительные функции, чтобы подавить эту реакцию.
 
       [ar][ca] Хотя подавление таких доминирующих реакций обычно считается адаптивным, в процессе индивидуального и культурного развития человека могут возникать проблемы. Это происходит, когда культурные ожидания начинают доминировать над внутренними ощущениями правильного и неправильного или когда исполнительные функции чрезмерно подавляют творческие импульсы.[ca:19]
-    #endregion
-
-
-    #region Виды / Примеры исполнительных функций  (также в Общая информация)
-      [ar] Примеры исполнительных функций включают:
-      * [ar] Постановка цели
-      * [ar] Стратегическое планирование для достижения этой цели
-      * [ar] Оценка трудностей и препятствий, мешающих достижению цели
-      * [ar] Расстановка приоритетов
-      * [ar] Контроль над эмоциями и эмоциональными импульсами
-      * [ar] Осознанное управление вниманием
-
-      [da] Исполнительные функции — это способности, которые помогают вам доводить дела до конца. Эти навыки контролируются областью мозга, называемой лобной долей, и помогают вам:
-      * [da] управлять временем
-      * [da] быть внимательным
-      * [da] переключать внимание
-      * [da] планировать, организовывать и управлять временем
-      * [da] запоминать детали
-      * [da] избегать ошибок в словах и действиях
-      * [da] выполнять задачи, основываясь на своем опыте
-      * [da] заниматься многозадачностью
-      * [da] думать креативно
-      ?[da:3]
     #endregion
 
 
@@ -1857,7 +1881,7 @@ zh	管控功能
     #endregion
 
 
-    #region Оценка / Тесты
+    #region Измерения / Оценка / Тесты
       [ca] Оценка исполнительных функций включает сбор данных из различных источников и их синтез для выявления тенденций и закономерностей со временем. Помимо стандартизированных нейропсихологических тестов (https://en.wikipedia.org/wiki/Neuropsychological_test ), можно и нужно использовать другие методы, такие как списки наблюдений (https://en.wikipedia.org/wiki/Observation ) за поведением, наблюдения, интервью и образцы выполнения заданий. На основе этого можно сделать выводы об использовании исполнительных функций.[ca:67]
       
       [ca] Существуют различные типы инструментов (например, самоотчеты, основанные на результатах), которые измеряют исполнительные функции на протяжении всего развития. Такие оценки могут быть полезны для постановки диагноза в различных клинических группах.
@@ -1874,6 +1898,33 @@ zh	管控功能
       * [ca] Тест "Башня Лондона" (Tower of London Test)  https://en.wikipedia.org/wiki/Tower_of_London_test
       * [ca] Тест соединения точек (Trail-Making Test, TMT)  [Я] https://en.wikipedia.org/wiki/Trail_Making_Test
       * [ca] Wisconsin Card Sorting Test (WCST) / Висконсинский тест по сортировке карточек  [Я] https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test
+
+
+      [de] Для оценки исполнительных функций обычно используются классические нейропсихологические тесты (https://en.wikipedia.org/wiki/Neuropsychological_test ), такие как тест Струпа (https://en.wikipedia.org/wiki/Stroop_effect ). Однако способность этих тестов предсказывать поведение в реальной жизни (экологическая валидность (https://en.wikipedia.org/wiki/Ecological_validity )) всё чаще ставится под сомнение и вызывает споры. Поэтому в дополнение к ним применяются опросники, например, Behavior Rating Inventory of Executive Function (BRIEF), которые более ориентированы на повседневные ситуации.[de:5]
+      
+      [de] Примеры известных методов оценки:
+      
+      * [de] Behavioural Assessment of Dysexecutive Syndrome (BADS):
+        [de] Несколько подтестов направлены на изучение таких способностей, как планирование, контроль и адаптация поведения на основе явных и неявных инструкций.[de:6]
+      
+      * [de] Barkley Deficits in Executive Functioning Scales (BDEFS):
+        [de] Этот инструмент включает шкалы самооценки и оценки со стороны, что позволяет получить представление об уровне исполнительных функций.[de:7]
+      
+      * [de] Тесты на способность к планированию (https://en.wikipedia.org/wiki/Planning ) (Башня Лондона (https://en.wikipedia.org/wiki/Tower_of_London_test ), HOTAP):[de:8]
+        [de] В этих тестах, представленных в нескольких вариациях, необходимо перемещать элементы, такие как бусины, из начальной позиции в заданное конечное положение на трёх вертикальных стержнях. Эффективность выполнения оценивается по времени или количеству необходимых ходов.[de:9]
+      
+      * [de] Iowa Gambling Task (Задача Айовы на азартные игры) (https://en.wikipedia.org/wiki/Iowa_gambling_task ):
+        [de] Цель состоит в том, чтобы получить как можно больше выигрыша и минимизировать потери, открывая карты. Карты из колод A и B дают более высокие выигрыши, но в долгосрочной перспективе приводят к большим потерям по сравнению с картами из колод C и D. Пациенты с определёнными повреждениями мозга испытывают трудности с адаптацией стратегии и получают меньше выигрыша.[de:10]
+      
+      * [de] Rey-Osterrieth Complex Figure (Тест сложной фигуры Рея-Остерриета) (https://en.wikipedia.org/wiki/Rey%E2%80%93Osterrieth_complex_figure ):
+        [de] Испытуемый должен сначала скопировать сложную геометрическую фигуру, а затем через 30 минут повторить её по памяти.[de:11]
+      
+      * [de] Trail-Making Test (Тест на соединение точек) (https://en.wikipedia.org/wiki/Trail_Making_Test ):
+        [de] Не отрывая ручку от бумаги, необходимо поочерёдно соединить числа от 1 до 13 и буквы от A до L в возрастающем порядке, следуя схеме: 1-A-2-B-3-C и так далее. Оценивается время выполнения задания. [de:12]
+      
+      * [de] Wisconsin Card Sorting Test (Тест Висконсинской сортировки карт) (https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test ):
+  [de] Испытуемому нужно сопоставлять ряд карт с эталонными по определённым правилам (например, «Сортируй карты по цвету/форме/числовому значению»). Когда правила внезапно меняются, пациенты с определёнными повреждениями мозга испытывают трудности в переходе на новую систему правил.[de:12]
+
     #endregion
 
 
@@ -1926,7 +1977,7 @@ zh	管控功能
     #endregion
 
 
-    #region Нарушения, заболевания и расстройства
+    #region Нарушения, заболевания и расстройства / Медицина
       [ca] Исследования исполнительных функций при болезни Паркинсона (https://en.wikipedia.org/wiki/Parkinson%27s_disease ) показывают, что субкортикальные области, такие как миндалина (https://en.wikipedia.org/wiki/Amygdala ), гиппокамп (https://en.wikipedia.org/wiki/Hippocampus ) и базальные ганглии (https://en.wikipedia.org/wiki/Basal_ganglia ), играют важную роль в этих процессах. Модуляция дофамина (https://en.wikipedia.org/wiki/Dopamine ) в префронтальной коре головного мозга отвечает за эффективность дофаминергических препаратов в улучшении исполнительных функций, что приводит к кривой Йеркса-Додсона.[ca:89] Эта "перевернутая U" демонстрирует снижение исполнительных функций как при чрезмерной стимуляции (например, избыточное высвобождение катехоламинов в условиях стресса), так и при недостаточной стимуляции.[ca:90]
       
       [ca] Полиморфизм с низкой активностью фермента катехол-О-метилтрансферазы (COMT) ассоциируется с небольшим улучшением выполнения задач, связанных с исполнительными функциями, у здоровых людей.[ca:91] Нарушения исполнительных функций наблюдаются при множестве расстройств, включая тревожное расстройство (https://en.wikipedia.org/wiki/Anxiety_disorder ), большое депрессивное расстройство (https://en.wikipedia.org/wiki/Major_depressive_disorder ), биполярное расстройство (https://en.wikipedia.org/wiki/Bipolar_disorder ), синдром дефицита внимания и гиперактивности (СДВГ) (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ), шизофрению (https://en.wikipedia.org/wiki/Schizophrenia ) и аутизм (https://en.wikipedia.org/wiki/Autism ).[ca:92]
@@ -1940,6 +1991,8 @@ zh	管控功能
 
       [da] Некоторые люди рождаются с ослабленными исполнительными функциями. У людей с СДВГ (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ), депрессией (https://en.wikipedia.org/wiki/Major_depressive_disorder ) или трудностями в обучении (Я: https://en.wikipedia.org/wiki/Learning_disability ) часто возникают проблемы с этими функциями. Травма передней части мозга может повлиять на способность концентрироваться. Повреждения, вызванные болезнью Альцгеймера (https://en.wikipedia.org/wiki/Alzheimer%27s_disease ) или инсультом (https://en.wikipedia.org/wiki/Stroke ), также могут стать причиной подобных трудностей.[da:4]
 
+      [de] При определённых неврологических нарушениях (например, фронтотемпоральной деменции (https://en.wikipedia.org/wiki/Pick%27s_disease ), дисфазии (https://de.wikipedia.org/wiki/Kognitive_Dysphasien ), черепно-мозговой травме (https://en.wikipedia.org/wiki/Traumatic_brain_injury ), дисэкзекутивном синдроме или синдроме лобной доли (https://en.wikipedia.org/wiki/Frontal_lobe_disorder ), а также при фетальном алкогольном синдроме (https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder )) исполнительные функции оказываются нарушенными. Однако они могут быть затронуты в различной степени и при многих психических заболеваниях или нарушениях развития, таких как синдром дефицита внимания и гиперактивности (СДВГ) (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder ), аутизм (https://en.wikipedia.org/wiki/Autism ), синдром Корсакова (https://en.wikipedia.org/wiki/Korsakoff_syndrome ), шизофрения (https://en.wikipedia.org/wiki/Schizophrenia ) или пограничное расстройство личности (https://en.wikipedia.org/wiki/Borderline_personality_disorder ).
+      (пропустили депрессию)
     #endregion
 
 
@@ -2099,6 +2152,39 @@ zh	管控功能
       [da:3] "Skolebørn med eksekutive vanskeligheder. Videnscenter Sølund Skanderborg". (https://web.archive.org/web/20220221115755/https://viss.skanderborg.dk/VIDEN/Artikler1/Artikler1/Skoleb%C3%B8rn-med-eksekutive-vanskeligheder-1.aspx ) Arkiveret fra originalen (https://viss.skanderborg.dk/VIDEN/Artikler1/Artikler1/Skoleb%C3%B8rn-med-eksekutive-vanskeligheder-1.aspx ) 21. februar 2022. Hentet 21. februar 2022.
       [da:4] Eksekutive funktioner. Neurorehabilitering - Kbh (https://neurorehabilitering.kk.dk/viden-om/ordbog/eksekutive-funktioner )
       [da:5] Bacteria-Infecting Viruses in Gut Microbiome Linked to Cognition. The Scientist 2022 (https://www.the-scientist.com/news-opinion/bacteria-infecting-viruses-in-gut-microbiome-linked-to-cognition-69709 )
+    #endregion
+
+    #region de
+      Литература
+        Техническая
+        Sandra Verena Müller: Störungen der Exekutivfunktionen – Wenn die Handlungsplanung zum Problem wird. Hogrefe, Göttingen 2013, ISBN 978-3-8017-1761-2.
+        Hans Förstl (Hrsg.): Frontalhirn – Funktionen und Erkrankungen. 2. Auflage. Springer, Heidelberg/Berlin 2005, ISBN 3-540-20485-7.
+        Ulrich Müller: Die katecholaminerge Modulation präfrontaler kognitiver Funktionen beim Menschen. Habilitationsschrift. MPI für Neuropsychologische Forschung, Leipzig 2002, ISBN 3-9807904-5-2.
+
+        Консультант
+        Sabine Kubesch: Exekutive Funktionen und Selbstregulation – Neurowissenschaftliche Grundlagen und Transfer in die pädagogische Praxis. Hogrefe, 2014.
+        Peg Dawson und Richard Guare: Schlau, aber ... – Kindern helfen, ihre Fähigkeiten zu entwickeln durch Stärkung der Exekutivfunktionen. Hogrefe, 2011.
+        Elkhonon Goldberg: Die Regie im Gehirn – Wo wir Pläne schmieden und Entscheidungen treffen. VAK, Kirchzarten bei Freiburg im Breisgau 2002, ISBN 3-935767-04-8.
+
+      Weblinks
+        Nadja Gwiggn: Die exekutiven Funktionen im Jugendalter. (http://edoc.ub.uni-muenchen.de/2958/1/Gwiggner_Nadja.pdf ) Dissertation. Medizinische Fakultät der Universität München, 2004 (PDF-Datei; 411 kB).
+        Der kurze Pfad zur Tat – funktionelle Neuroanatomie des Frontallappens (http://www.cbs.mpg.de/institut/forschung/archiv/frontallappen ) (Artikel des Max Planck-Instituts für Kognitions- und Neurowissenschaften in Leipzig vom 12. Januar 2011, zuletzt gesichtet am 1. Mai 2014)
+        Vaughan Bell: The Executive System and its Disorders (http://www.ldchicago.com/execsysdisorders.pdf ) (PDF-Datei; 30 kB)
+        ZNL TransferZentrum für Neurowissenschaften und Lernen - Förderung exekutiver Funktionen (https://wp.znl-ulm.de/exekutive-funktionen/ )
+
+      Ссылки
+        [de:1] Donald A. Norman, Tim Shallice (1986). Attention to Action: willed and automatic control of behavior. (S. 1–18) In: Richard J. Davidson (Eds). Consciousness and self-regulation. Vol. 4, New York Plenum. ISBN: 978-1-4757-0631-4.
+        [de:2] Jamie Ward: The Student’s Guide to Cognitive Neuroscience. 4. Auflage. Routledge, 2020.
+        [de:3] Franz Petermann (https://de.wikipedia.org/wiki/Franz_Petermann ) (Hrsg.): Lehrbuch der Klinischen Kinderpsychologie. 7., überarbeitete und erweiterte Auflage. Hogrefe, Göttingen 2013, ISBN: 978-3-8409-2447-7, S. 277.
+        [de:4] Lutz Jäncke (https://en.wikipedia.org/wiki/Lutz_Jäncke ): Einführung in die Kognitiven Neurowissenschaften. Hogrefe-Verlag 2013. ISBN: 978-3-456-85004-7, Kapitel 11: Exekutive Funktionen, S. 387–422.
+        [de:5] Renate Drechsler, Hans-Christoph Steinhausen (https://de.wikipedia.org/wiki/Hans-Christoph_Steinhausen ): Verhaltensinventar zur Beurteilung exekutiver Funktionen (https://www.testzentrale.de/shop/verhaltensinventar-zur-beurteilung-exekutiver-funktionen.html ). (Deutschsprachige Adaptation des Behavior Rating Inventory of Executive Function (BRIEF) von G. A. Gioia, P. K. Isquith, S. C. Guy und L. Kenworthy und der Self-Report Version (BRIEF-SR) von S. C. Guy, P. K. Isquith und G. A. Gioia). Hogrefe Verlag, 2013.
+        [de:6] Sandra Verena Müller: Behavioural Assessment of the Dysexecutive Syndrome (BADS) im Dorsch Lexikon der Psychologie. 2021 (https://dorsch.hogrefe.com/stichwort/behavioural-assessment-of-the-dysexecutive-syndrome-bads ) [abgerufen am 12. Juli 2021].
+        [de:7] Russell A. Barkley (https://en.wikipedia.org/wiki/Russell_Barkley ): Barkley deficits in executive functioning scale (BDEFS). Guilford Press, New York 2011, ISBN: 978-1-60623-934-6 (https://www.guilford.com/books/Barkley-Deficits-Executive-Functioning-Scale-BDEFS-Adults/Russell-Barkley/9781606239346 ) [abgerufen am 12. Juli 2021].
+        [de:8] Anke Menzel-Begemann: HOTAP-Handlungsorganisation und Tagesplanung (https://www.testzentrale.de/shop/handlungsorganisation-und-tagesplanung.html ). Hogrefe Verlag 2009.
+        [de:9] L.H. Phillips: The Role of Memory in the Tower of London Task. In: Memory. Band 7, Nr. 2, 1999, ISSN: 0965-8211, S. 209–231, DOI: 10.1080/741944066.
+        [de:10] Ulf Hlobil: Eine theoretische Kritik der somatischen Marker Hypothese Antonio Damasios. Diplomarbeit, 2008 (http://psydok.psycharchives.de/jspui/handle/20.500.11780/609 ) [abgerufen am 12. Juli 2021].
+        [de:11] Figure Complexe de Rey (https://web.archive.org/web/20070721140756/http://www.testraum.ch/Serie%205/Rey.htm ). 21. Juli 2007, archiviert vom (http://www.testraum.ch/Serie%25205/Rey.htm ) am 21. Juli 2007; abgerufen am 12. Juli 2021.
+        [de:12] Camila de Assis Faria, Heloisa Veiga Dias Alves, Helenice Charchat-Fichman: The most frequently used tests for assessing executive functions in aging. In: Dementia & Neuropsychologia. Band 9, Nr. 2, Juni 2015, ISSN: 1980-5764, S. 149–155, DOI: 10.1590/1980-57642015DN92000009, PMID: 29213956 (http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1980-57642015000200149&lng=en&tlng=en ) [abgerufen am 12. Juli 2021].
     #endregion
 
     #endregion
@@ -3072,6 +3158,64 @@ zh	管控功能
     <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Parkinson%27s_disease
     <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Impulse-control_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  не ясно куда
+  https://en.wikipedia.org/wiki/Regulation_of_emotion
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Frontostriatal_circuit  стриато-фронтальная дисфункция
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Pick%27s_disease
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://de.wikipedia.org/wiki/Kognitive_Dysphasien
+    <= https://en.wikipedia.org/wiki/Executive_functions
+    en .Dysphasia переводит на /Aphasia, но в статье выше сказано, что "это другое"
+  https://en.wikipedia.org/wiki/Aphasia
+    <= https://en.wikipedia.org/wiki/Cognitive_psychology
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Traumatic_brain_injury
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Frontal_lobe_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Korsakoff_syndrome
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Schizophrenia
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Borderline_personality_disorder
+    <= https://en.wikipedia.org/wiki/Executive_functions
+
+
+  =================================================================
+  /Опросники /Тесты /Tests
+  https://en.wikipedia.org/wiki/Neuropsychological_test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Operationalization
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Behavior_Rating_Inventory_of_Executive_Function
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Continuous_performance_task
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Controlled_Oral_Word_Association_Test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/D2_Test_of_Attention
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Iowa_gambling_task
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Paced_Auditory_Serial_Addition_Test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Rey%E2%80%93Osterrieth_complex_figure
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Stroop_effect
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Tower_of_London_test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Trail_Making_Test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test
+    <= https://en.wikipedia.org/wiki/Executive_functions
+
 
 
   https://en.wikipedia.org/wiki/Sexuality
@@ -3131,8 +3275,6 @@ zh	管控功能
   https://en.wikipedia.org/wiki/Interference_theory
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Stimulus–response_model = https://en.wikipedia.org/wiki/Stimulus-response_model
-    <= https://en.wikipedia.org/wiki/Cognitive_psychology
-  https://en.wikipedia.org/wiki/Aphasia
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
   https://en.wikipedia.org/wiki/Phoneme
     <= https://en.wikipedia.org/wiki/Cognitive_psychology
@@ -4181,9 +4323,12 @@ zh	管控功能
   https://en.wikipedia.org/wiki/Category:Cognitive_neuroscience
   https://de.wikipedia.org/wiki/Portal:Geist_und_Gehirn  Разум и мозг
   https://en.wikipedia.org/wiki/Category:Neuropsychology
+  https://en.wikipedia.org/wiki/Category:Human_behavior
+  https://ru.wikipedia.org/wiki/Категория:Общая_психология
 
   (сомнительно)
   https://en.wikipedia.org/wiki/Category:Self
+  https://en.wikipedia.org/wiki/Category:Motivation
 
 
 
