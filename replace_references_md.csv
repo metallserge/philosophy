@@ -1,0 +1,30 @@
+Selected,Find,Replace,WholeWord,MatchCase,UseVariables,Regex,Extended
+1," "," ",0,0,0,0,0
+1,"**","",0,0,0,0,0
+1,"[^]","",0,0,0,0,0
+1,"\\(https://[a-z]+\\.wikipedia\\.org/wiki/[^)]+cite_ref[^)]+\\)","",0,0,0,0,1
+1,"[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) ""ISBN (identifier)"")","ISBN:",0,0,0,0,0
+1,"\\[(?<group>[0-9]+(-[0-9]+)+)\\]\\(https://en\\.wikipedia\\.org/wiki/Special:BookSources/([A-Za-z0-9]+(-[A-Za-z0-9]+)+) ""Special:BookSources/([A-Za-z0-9]+(-[A-Za-z0-9]+)+)""\\)","$+{group}",0,0,0,0,1
+1,"[doi](https://en.wikipedia.org/wiki/Doi_(identifier) ""Doi (identifier)""):","doi: ",0,0,0,0,0
+1,"doi: *\\[(?<group>[^\\]]*)\\]\\(https://doi\\.org/[^)]*\\)","doi: $+{group}",0,0,0,0,1
+1,"[PMID](https://en.wikipedia.org/wiki/PMID_(identifier) ""PMID (identifier)"")","PMID:",0,0,0,0,0
+1,"\\[(?<group>[0-9]+)\\]\\(https://pubmed\\.ncbi\\.nlm\\.nih\\.gov/[0-9]+\\)","$+{group}",0,0,0,0,1
+1,"[PMC](https://en.wikipedia.org/wiki/PMC_(identifier) ""PMC (identifier)"")","PMC:",0,0,0,0,0
+1,"PMC: *\\[(?<group>[0-9]+)\\]\\(https://www\\.ncbi\\.nlm\\.nih\\.gov/pmc/articles/[^)]*\\)","PMC: $+{group}",0,0,0,0,1
+1,"[ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) ""ISSN (identifier)"")","ISSN:",0,0,0,0,0
+1,"ISSN: *\\[(?<group>[^\\]]*)\\]\\(https://search\\.worldcat\\.org/issn/[^)]*\\)","ISSN: $+{group}",0,0,0,0,1
+1,"[S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) ""S2CID (identifier)"")","S2CID:",0,0,0,0,0
+1,"S2CID: *\\[(?<group>[^\\]]*)\\]\\(https://api\\.semanticscholar\\.org/CorpusID:[^\\)]*\\)","S2CID: $+{group}",0,0,0,0,1
+1,"[OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) ""OCLC (identifier)"")","OCLC:",0,0,0,0,0
+1,"OCLC: *\\[(?<group>[^\\]]*)\\]\\(https://search\\.worldcat\\.org/oclc/[^\\)]*\\)","OCLC: $+{group}",0,0,0,0,1
+1,"\\[hdl\\]\\(https://en\\.wikipedia\\.org/wiki/Hdl_?\\(identifier\\) ""Hdl \\(identifier\\)""\\)","hdl",0,0,0,0,1
+1,"hdl:? *\\[(?<group>[^\\]]*)\\]\\(https://hdl\\.handle\\.net/[^\\)]*\\)","hdl: $+{group}",0,0,0,0,1
+1,"\\[Bibcode\\]\\(https://en\\.wikipedia\\.org/wiki/Bibcode_?\\(identifier\\) ""Bibcode \\(identifier\\)""\\)","Bibcode",0,0,0,0,1
+1,"Bibcode:? *\\[(?<group>[^\\]]*)\\]\\(https://ui\\.adsabs\\.harvard\\.edu/[^\\)]*\\)","Bibcode: $+{group}",0,0,0,0,1
+1,"\\[CiteSeerX\\]\\(https://en\\.wikipedia\\.org/wiki/CiteSeerX_?\\(identifier\\) ""CiteSeerX \\(identifier\\)""\\)","CiteSeerX",0,0,0,0,1
+1,"CiteSeerX:? *\\[(?<group>[^\\]]*)\\]\\(https://citeseerx\\.ist\\.psu\\.edu/[^\\)]*\\)","CiteSeerX: $+{group}",0,0,0,0,1
+1,"<sup><i><b>[A-Za-z]+</b></i></sup>","",0,0,0,0,1
+1,"[Jump up to: ]","",0,0,0,0,0
+1,"[]","",0,0,0,0,0
+1,"^(\\d+)\\. *","$1 ",0,0,0,0,1
+1,"_(?<group>[^_\\r\\n]+)_","$+{group}",0,0,0,0,1

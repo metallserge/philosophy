@@ -1,0 +1,149 @@
+Странный пробел
+" " => " "
+
+** => ""
+
+[^] => ""
+
+Ссылки вверх
+  \(https://[a-z]+\.wikipedia\.org/wiki/[^)]+cite_ref[^)]+\)
+  =>
+  
+
+ISBN
+  [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)")
+  =>
+  ISBN:
+
+ISBN number
+  \[(?<group>[0-9]+(-[0-9]+)+)\]\(https://en\.wikipedia\.org/wiki/Special:BookSources/([A-Za-z0-9]+(-[A-Za-z0-9]+)+) "Special:BookSources/([A-Za-z0-9]+(-[A-Za-z0-9]+)+)"\)
+  =>
+  $+{group}
+
+
+doi
+  [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):
+  =>
+  doi: 
+
+doi number
+  doi: *\[(?<group>[^\]]*)\]\(https://doi\.org/[^)]*\)
+  =>
+  doi: $+{group}
+
+
+PMID
+  [PMID](https://en.wikipedia.org/wiki/PMID_(identifier) "PMID (identifier)")
+  =>
+  PMID:
+
+PMID number
+  \[(?<group>[0-9]+)\]\(https://pubmed\.ncbi\.nlm\.nih\.gov/[0-9]+\)
+  =>
+  $+{group}
+
+
+PMC
+  [PMC](https://en.wikipedia.org/wiki/PMC_(identifier) "PMC (identifier)")
+  =>
+  PMC:
+
+PMC number
+  PMC: *\[(?<group>[0-9]+)\]\(https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/[^)]*\)
+  =>
+  PMC: $+{group}
+
+ISSN
+  [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier) "ISSN (identifier)")
+  =>
+  ISSN:
+
+ISSN number
+  ISSN: *\[(?<group>[^\]]*)\]\(https://search\.worldcat\.org/issn/[^)]*\)
+  =>
+  ISSN: $+{group}
+
+S2CID
+  [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier) "S2CID (identifier)")
+  =>
+  S2CID:
+
+S2CID number
+  S2CID: *\[(?<group>[^\]]*)\]\(https://api\.semanticscholar\.org/CorpusID:[^\)]*\)
+  =>
+  S2CID: $+{group}
+
+
+OCLC
+  [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier) "OCLC (identifier)")
+  =>
+  OCLC:
+
+OCLC number
+  OCLC: *\[(?<group>[^\]]*)\]\(https://search\.worldcat\.org/oclc/[^\)]*\)
+  =>
+  OCLC: $+{group}
+
+
+hdl
+  [hdl](https://en.wikipedia.org/wiki/Hdl_(identifier) "Hdl (identifier)")
+  \[hdl\]\(https://en\.wikipedia\.org/wiki/Hdl_?\(identifier\) "Hdl \(identifier\)"\)
+  =>
+  hdl
+
+hdl number
+  hdl:? *\[(?<group>[^\]]*)\]\(https://hdl\.handle\.net/[^\)]*\)
+  =>
+  hdl: $+{group}
+
+
+Bibcode
+  [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+  \[Bibcode\]\(https://en\.wikipedia\.org/wiki/Bibcode_?\(identifier\) "Bibcode \(identifier\)"\)
+  =>
+  Bibcode
+
+Bibcode number
+  Bibcode:? *\[(?<group>[^\]]*)\]\(https://ui\.adsabs\.harvard\.edu/[^\)]*\)
+  =>
+  Bibcode: $+{group}
+
+
+CiteSeerX
+  [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_(identifier) "CiteSeerX (identifier)")
+  \[CiteSeerX\]\(https://en\.wikipedia\.org/wiki/CiteSeerX_?\(identifier\) "CiteSeerX \(identifier\)"\)
+  =>
+  CiteSeerX
+
+CiteSeerX number
+  CiteSeerX:? *\[(?<group>[^\]]*)\]\(https://citeseerx\.ist\.psu\.edu/[^\)]*\)
+  =>
+  CiteSeerX: $+{group}
+
+
+abcd...
+<sup><i><b>[A-Za-z]+</b></i></sup>
+=>
+
+
+отдельно, руками
+
+[ABC](http://xyz)
+  предыдущее: \[(?<title>[^\]\r\n]*)\] *\((?<url>[^\)\r\n"]*)( ?"[^\)\r\n"]+")?\)
+  с кавычками: \[(?<title>[^\]\r\n]*)\] *\((?<url>https?:\/\/[^\s"]+?)\s+".*?"\)
+  с и без кавычек, но не без пробелов: \[(?<title>[^\]\r\n]*)\] *\((?<url>https?:\/\/[^\s"]+?)(\s+".*?"\)|\s+?\))
+  это для 1 или 2х скобок: \[(?<title>[^\]\r\n]*)\] *\((?<url>https?:\/\/[^\s"]+?\)?)\)
+  то, что нужно: \[(?<title>[^\]\r\n]*)\] *\(((?<url>https?:\/\/[^\s"]+?)(\s+".*?"\)|\s+?\))|(?<url>https?:\/\/[^\s"]+?\)?)\))
+  =>
+  $+{title} \($+{url} \)
+
+
+[schemas](https://en.wikipedia.org/wiki/Schema)
+[schemas](https://en.wikipedia.org/wiki/Schema_(psychology))
+[schemas](https://en.wikipedia.org/wiki/Schema_(psychology) )
+[schemas](https://en.wikipedia.org/wiki/Schema_(psychology) "Schema (psychology)")
+
+
+
+(<span>(?<group>[^<]+)</span>)|(<a[^>]+>(?<group>[^<]+)</a>)|(<sup[^>]+>(?<group>[^<]+)</sup>)
+$+{group}
