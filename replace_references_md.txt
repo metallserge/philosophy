@@ -145,5 +145,12 @@ abcd...
 
 
 
-(<span>(?<group>[^<]+)</span>)|(<a[^>]+>(?<group>[^<]+)</a>)|(<sup[^>]+>(?<group>[^<]+)</sup>)
+<(?<el>[^ ]+)([^>]+)?>(?<group>[^<]+)?</\g{el}>
 $+{group}
+
+<span></span>
+<span>[]</span>
+<span id="as"></span>
+<span id="as">[]</span>
+<i></i>
+<i>[]</i>
