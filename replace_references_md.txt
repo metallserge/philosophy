@@ -121,12 +121,13 @@ CiteSeerX number
   CiteSeerX: $+{group}
 
 
-abcd...
-<sup><i><b>[A-Za-z]+</b></i></sup>
-=>
-
-
 отдельно, руками
+
+=======================================================
+" " => " "
+** => ""
+[^] => ""
+
 
 [ABC](http://xyz)
   предыдущее: \[(?<title>[^\]\r\n]*)\] *\((?<url>[^\)\r\n"]*)( ?"[^\)\r\n"]+")?\)
@@ -137,16 +138,16 @@ abcd...
   =>
   $+{title} \($+{url} \)
 
-
 [schemas](https://en.wikipedia.org/wiki/Schema)
 [schemas](https://en.wikipedia.org/wiki/Schema_(psychology))
 [schemas](https://en.wikipedia.org/wiki/Schema_(psychology) )
 [schemas](https://en.wikipedia.org/wiki/Schema_(psychology) "Schema (psychology)")
 
 
-
-<(?<el>[^ ]+)([^>]+)?>(?<group>[^<]+)?</\g{el}>
-$+{group}
+html элементы
+  <(?<el>[^ ]+)([^>]+)?>(?<group>[^<]+)?</\g{el}>
+  =>
+  $+{group}
 
 <span></span>
 <span>[]</span>
@@ -154,3 +155,16 @@ $+{group}
 <span id="as">[]</span>
 <i></i>
 <i>[]</i>
+
+
+  \b(?<name>ISBN|doi|PMID|PMC|ISSN|S2CID|OCLC|hdl|Bibcode|CiteSeerX)\b:? *
+  =>
+  $+{name}: 
+
+
+ISSN
+ISSN:
+ISSN: 
+doi
+doi:
+doi: 

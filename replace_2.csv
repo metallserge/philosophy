@@ -1,0 +1,7 @@
+Selected,Find,Replace,WholeWord,MatchCase,UseVariables,Regex,Extended
+1," "," ",0,0,0,0,0
+1,"**","",0,0,0,0,0
+1,"[^]","",0,0,0,0,0
+1,"\\[(?<title>[^\\]\\r\\n]*)\\] *\\(((?<url>https?:\\/\\/[^\\s""]+?)(\\s+"".*?""\\)|\\s+?\\))|(?<url>https?:\\/\\/[^\\s""]+?\\)?)\\))","$+{title} \\($+{url} \\)",0,0,0,0,1
+1,"<(?<el>[^ ]+)([^>]+)?>(?<group>[^<]+)?</\\g{el}>","$+{group}",0,0,0,0,1
+1,"\\b(?<name>ISBN|doi|PMID|PMC|ISSN|S2CID|OCLC|hdl|Bibcode|CiteSeerX)\\b:? *","$+{name}: ",0,0,0,0,1
