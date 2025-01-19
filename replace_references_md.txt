@@ -144,6 +144,11 @@ CiteSeerX number
 [schemas](https://en.wikipedia.org/wiki/Schema_(psychology) "Schema (psychology)")
 
 
+  <a([^>]+)?href="(?<url>[^"]+)"([^>]+)?>(?<group>[^<]+)?</a>
+  =>
+  $+{group} \($+{url} \)
+
+
 html элементы
   <(?<el>[^ ]+)([^>]+)?>(?<group>[^<]+)?</\g{el}>
   =>
