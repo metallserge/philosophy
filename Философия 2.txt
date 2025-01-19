@@ -1613,8 +1613,7 @@ Oxford University Press
       <= https://en.wikipedia.org/wiki/Cognition
       <= https://en.wikipedia.org/wiki/Cognitive_psychology
     Языки:
-      ar        ca      da      de      en      es      fa      fi
-fr	Fonctions exécutives
+      ar        ca      da      de      en      es      fa      fi      fr
 gl	Funcións executivas
 he	תפקודים ניהוליים
 hu	Végrehajtó funkciók
@@ -1716,6 +1715,13 @@ zh	管控功能
 
       [fi] Под функциями управления понимают либо непроизвольную деятельность навыка или рабочей памяти, либо произвольные способы достижения поставленной цели. К последним относятся, например, осознанное планирование своих действий, их координация и контроль.
 
+      [fr] В психологии (https://en.wikipedia.org/wiki/Psychology ) исполнительные функции — это достаточно разнородная совокупность когнитивных процессов (https://en.wikipedia.org/wiki/Cognitive_process ) высокого уровня, которые позволяют индивиду контролировать себя, когда он стремится достичь цели или справиться с трудной или новой ситуацией. Эти функции позволяют изменять обработку информации и поведение (https://en.wikipedia.org/wiki/Behavior ) в каждый момент времени в зависимости от текущих целей и адаптивным образом, а не жестко и негибко.
+      
+      [fr] Эти исполнительные функции позволяют планировать (https://en.wikipedia.org/wiki/Planning ), организовывать, разрабатывать стратегии, сосредотачиваться и запоминать важные детали, а также управлять временем и пространством.[fr:1]. Нейропсихология и нейрофизиология привели к консенсусу, что префронтальная кора (https://en.wikipedia.org/wiki/Prefrontal_cortex ) играет ключевую роль в исполнительных функциях (или "когнитивном контроле") в мозге.[fr:2] Однако различные функции исполнительных функций, похоже, активируют различные части лобной коры, а также другие области мозга.[fr:3]
+      
+      [fr] Исследователи в области когнитивных наук (https://en.wikipedia.org/wiki/Cognitive_science ) разработали модели исполнительных функций, одной из самых известных является модель надзорной системы внимания (https://en.wikipedia.org/wiki/Supervisory_attentional_system ) Дональда Нормана (https://en.wikipedia.org/wiki/Don_Norman ) и Тима Шаллиса (https://en.wikipedia.org/wiki/Tim_Shallice ).
+      [fr] Синдром дисфункции исполнительных функций используется для обозначения нарушений этих функций.
+
     #endregion
 
 
@@ -1725,7 +1731,26 @@ zh	管控功能
 
       [ar][ca][en] Ещё в 1940-х годах британский психолог Дональд Бродбент (https://en.wikipedia.org/wiki/Donald_Broadbent ), интегрировавший концепции исследования человеческой производительности и недавно разработанную теорию информации, проложил путь в этой области.[ca:20] Он выделил различие между "автоматическими" и "контролируемыми" процессами (это различие было более подробно описано Шиффрином (https://en.wikipedia.org/wiki/Richard_Shiffrin ) и Шнайдером в 1977 году)[ca:21][en:24], а также ввел понятие избирательного внимания/контроля внимания (https://en.wikipedia.org/wiki/Selective_attention ), тесно связанного с исполнительными функциями.
 
-      [es] Александр Лурия (https://en.wikipedia.org/wiki/Alexander_Luria ) впервые приблизился к понятию исполнительных функций в своей книге «Высшие корковые функции человека» в 1966 году.
+      Александр Лурия
+        [es] Александр Лурия (https://en.wikipedia.org/wiki/Alexander_Luria ) впервые приблизился к понятию исполнительных функций в своей книге «Высшие корковые функции человека» в 1966 году.
+
+        [fr] Для Александра Лурии (https://en.wikipedia.org/wiki/Alexander_Luria ) любая деятельность по решению проблем предполагает четыре вещи: анализ ситуации, разработку плана решения, последовательное и организованное выполнение этого плана, а также проверку, сравнивая исходную цель с полученным результатом.
+        
+        [fr] Он определяет три функции:
+        * [fr] воля: это желание действовать, инициатива;
+        * [fr] планирование этапов;
+        * [fr] контроль.
+        [fr] Он подчеркивает важность лобных долей мозга для выполнения этих функций.
+
+      Патрик Раббитт
+        https://en.wikipedia.org/wiki/Patrick_Rabbitt
+      
+        [fr] Раббитт определяет пять функций [fr:4]:
+        * [fr] адаптация к новым ситуациям (что можно связать с понятием гибкого интеллекта);
+        * [fr] планирование и внедрение новых стратегий (что также может быть связано с гибким интеллектом);
+        * [fr] контроль и регулирование действий;
+        * [fr] способность учитывать информацию, получаемую в ответ, для корректировки своей реакции;
+        * [fr] способность подавлять нерелевантную информацию для выполнения задачи.
 
       [ar][ca][en] В 1975 году американский психолог Майкл Познер (https://en.wikipedia.org/wiki/Michael_Posner_(psychologist) ) использовал термин «когнитивный контроль» в одной из глав своей книги «Внимание и когнитивный контроль».[ar:18][ar:19][ca:22][en:25].
 
@@ -1752,7 +1777,7 @@ zh	管控功能
     #endregion
 
 
-    #region Виды / Примеры / Обязанности исполнительных функций  (также в Общая информация)
+    #region Виды / Примеры / Обязанности / Роли исполнительных функций  (также в Общая информация)
       [ar][de] Примеры исполнительных функций включают:
       * [ar][de] Постановка цели
       * [ar][de] Стратегическое планирование действий для достижения этой цели
@@ -1776,7 +1801,6 @@ zh	管控功能
       * [da] думать креативно
       ?[da:3]
 
-
       ([fa] Обязанности исполнительных функций)
       [fa] Процессы, такие как концентрация, внимание, планирование, контроль мыслей и поведения, организация рассуждений и памяти, происходят в мозге и являются когнитивными функциями, которые позволяют человеку выполнять интеллектуальные действия.[2]
 
@@ -1788,6 +1812,21 @@ zh	管控功能
       * [fa] Гибкость и ориентация на будущее поведение.
       * [fa] Успешное выполнение повседневных задач. [1]
       [fa] Исполнительные функции выполняют эти задачи с помощью ряда ключевых механизмов, таких как рабочая память, гибкость, подавление реакций, рассуждение, планирование и внимание.
+
+
+      [fr] Исполнительные функции позволяют [fr:5]:
+      * [fr] строить планы;
+      * [fr] следить за временем и выполнять работу вовремя;
+      * [fr] отслеживать более чем одну вещь одновременно;
+      * [fr] осмысленно включать предыдущие знания в обсуждения;
+      * [fr] оценивать идеи и размышлять о своей работе;
+      * [fr] менять мнение и вносить коррективы в процессе мышления, чтения и письма;
+      * [fr] просить о помощи или запрашивать больше информации, когда это необходимо;
+      * [fr] вовлекаться в динамику группы;
+      * [fr] направлять поведение, ориентированное на цель;
+      * [fr] размышлять перед действием.[fr:6]
+      
+      [fr] Исследования [fr:7][fr:8] показывают, например, участие исполнительных функций в ежедневном приеме препаратов при хронических заболеваниях. Подросткам сложно соблюдать предписания из-за нарушений исполнительных функций в этот период жизни.[fr:9]
     #endregion
 
 
@@ -1802,25 +1841,50 @@ zh	管控功能
       * [es] Рабочая память (https://en.wikipedia.org/wiki/Working_memory ): способность активно управлять информацией во время выполнения когнитивной задачи.
       * [es] Саморегуляция: способность контролировать эмоциональные состояния для достижения целей и задач.
 
+
       ([fa] Обязанности исполнительных функций)
-      [fa] Рабочая память
+      ([fr] Виды исполнительных функций)
+
+      [fr] Исполнительное управление представляет собой серию высокоуровневых функций, которые контролируют поведение, ориентированное на достижение цели [fr:10]. Теория Мияке, Фридмана, Эмерсона, Уитцки, Ховертер и Вагнера является одной из самых доминирующих теорий в литературе по исполнительным функциям [fr:11]. Благодаря регрессионному анализу они смогли выделить три конкретные исполнительные функции, которые являются как независимыми, так и входят в состав определенного блок (коррелируют между собой).
+
+      Рабочая память
         [fa] Примечание: В этом разделе (?) упоминается, что Доусон и Гуайер (2004) определяют планирование как способность составлять план для достижения цели или выполнения задачи. Также планирование включает в себя способность расставлять приоритеты.[fa:3]
         (как это относится к рабочей памяти?)
-      
-      [fa] Гибкость
+
+        [fr] кратковременная память (https://en.wikipedia.org/wiki/Short-term_memory ) обычно рассматривается как обеспечивающая временное сохранение информации, в то время как рабочая память предполагает не только временное хранение, но и манипуляцию сохраненной информацией.
+
+        [fr] см. модель Баддели на странице Рабочая память (https://en.wikipedia.org/wiki/Working_memory ).
+
+      Психическая гибкость (shifting)
         [fa] Доусон и Гуайер (2004) описывают гибкость как способность пересматривать планы при столкновении с препятствиями, новой информацией или ошибками. Доусон также определяет гибкость как умение адаптироваться к меняющимся обстоятельствам.[fa:3]
-      
-      [fa] Торможение реакции
+
+        [fr] Эта функция определяет способность изменять задачу или умственную стратегию, а также переходить от одной когнитивной операции к другой.[fr:12] Она может требовать прекращения выполнения одной задачи для того, чтобы переключиться на другую. Существует три подкатегории ментальной гибкости: гибкость информации в рабочей памяти (внутренняя), внешняя гибкость (для стимулов окружающей среды) и гибкость источников.[fr:13]
+
+      [fr] Обновление (updating)
+        [fr] Эта функция позволяет обновлять информацию в рабочей памяти. Это включает изменение содержимого на основе поступающей более актуальной информации.[fr:11][fr:14] Обновление действия требует мониторинга и кодирования поступающей информации для оценки на соответствие текущей задачи. Затем она корректирует элементы, хранящиеся в рабочей памяти, заменяя информацию, которая больше не актуальна, на более актуальную и релевантную.[fr:15]
+
+      Торможение / Ингибиция
         [fa] Лофтус (2009) описывает торможение реакции как показатель того, как и когда следует выполнять поведенческие действия. С точки зрения Гарнера (2009), способность к торможению помогает человеку: планировать цели, саморегулироваться, подавлять неуместные реакции, проявлять гибкость, направлять свое поведение в будущем.[fa:5]
+
+        [fr] Ингибиция обозначает серию механизмов подавления неподобающих когниций и действий, а также сопротивление вмешательству нерелевантной информации.[fr:16] Это способность подавлять выражение или подготовку информации, которая может помешать успешному достижению цели.[fr:17] Эта исполнительная функция обеспечивает контроль над когнитивными процессами и сложным поведением, и является важной для эффективного взаимодействия с окружающей средой.[fr:18]
+        
+        [fr] Ингибиция важна для интеллекта, памяти и внимания. Она также связана с социальной компетентностью, которая включает эмоциональную регуляцию.[fr:19]
 
       [fa] Рассуждение
         [fa] Берк описывает рассуждение как стратегию решения проблем на стадии формальных операций. В процессе ребенок начинает с общей теории, охватывающей все возможные факторы, которые могут повлиять на решение задачи. Затем он формулирует конкретные гипотезы и систематически их проверяет.[fa:1]
       
-      [fa] Планирование
+      Планирование
         [fa] Доусон и Гуайер (2004) определяют планирование как способность создавать "дорожную карту" для достижения цели или выполнения задачи. Кроме того, планирование включает в себя способность принимать решения о приоритетах.[fa:3]
+
+        [fr] Планирование — это организация выполнения целей во времени:
+        * [fr] в определенной области;
+        * [fr] с использованием различных средств;
+        * [fr] и на определенную продолжительность (и с конкретными этапами).
       
-      [fa] Внимание
+      Внимание
         [fa] Информация, поступающая в рабочую память, должна быть подвергнута вниманию, чтобы перейти в долгосрочную память (https://en.wikipedia.org/wiki/Long-term_memory ), что способствует лучшему усвоению учебного материала. Уровень и качество внимания являются ключевыми факторами в процессе обучения. Недостаток внимания лишает человека возможности обрабатывать, сохранять и вспоминать информацию. [fa:6]
+
+        [fr] Уильям Джеймс (https://en.wikipedia.org/wiki/William_James ): «Внимание (https://en.wikipedia.org/wiki/Attention ) — это овладение разумом в ясной и яркой форме каким-либо объектом или последовательностью мыслей среди нескольких, которые кажутся возможными […] Это предполагает удаление некоторых объектов, чтобы более эффективно обработать другие».
     #endregion
 
 
@@ -1847,6 +1911,12 @@ zh	管控功能
       [fa] Было проведено множество исследований, посвященных изучению областей мозга, связанных с исполнительными функциями, или, другими словами, с высшими когнитивными функциями. В результате были выделены и изучены различные области мозга.
       
       [fa] Наибольшее влияние оказывают два лобных полушария (https://en.wikipedia.org/wiki/Frontal_lobe ), префронтальная кора (https://en.wikipedia.org/wiki/Prefrontal_cortex ) и теменная доля (https://en.wikipedia.org/wiki/Parietal_lobe ). Кроме того, важнейшую роль играет дорсолатеральная префронтальная кора (https://en.wikipedia.org/wiki/Dorsolateral_prefrontal_cortex ) в лобной доле, а также области, связанные с вниманием (https://en.wikipedia.org/wiki/Attention ), особенно в правой теменной доле.[fa:4]
+
+      [fr] Нейронный субстрат когнитивного контроля часто связывают с фронтальной корой мозга.[fr:20] Это было продемонстрировано, в первую очередь, с помощью исследований пациентов.[fr:21] Однако три различные функции когнитивного контроля, похоже, активируют разные части фронтальной коры, а также другие области мозга.[fr:22]
+      * [fr] Обновление информации связано с активацией областей префронтальной коры (дорсолатеральной, нижней и поясной) и теменной коры (задней и верхней).[fr:23]
+      * [fr] Ментальная гибкость требует участия префронтальных, теменных и подкорковых областей мозга.[fr:24][fr:25][fr:26][fr:27]
+      * [fr] Ингибиция/торможение в первую очередь ассоциируется с нижней правой фронтальной извилиной (https://en.wikipedia.org/wiki/Inferior_frontal_gyrus ),[fr:28] но исследования также показали вовлеченность других мозговых структур, таких как поясная, префронтальная, теменная и височная области.[fr:29] Исследования также подтвердили участие базальных ганглиев, структуры мозга, которая в первую очередь важна для регуляции моторики.[fr:30]
+
     #endregion
 
 
@@ -1924,7 +1994,7 @@ zh	管控功能
         [ca][en] Одной из влиятельных моделей является многокомпонентная модель рабочей памяти, предложенная Бэддели. Она включает центральный исполнительный механизм, который управляет тремя подсистемами:
         * [ca][en] Фонологическая петля, которая удерживает вербальную информацию.
         * [ca][en] Визуально-пространственный блокнот, поддерживающая визуальную и пространственную информацию.
-        * [ca][en] Эпизодический буфер, разработанный позже, интегрирует краткосрочную и долговременную память. Он содержит и обрабатывает ограниченный объем информации из разных областей, организуя ее в последовательные эпизоды с временной и пространственной привязкой. [ca:25][ca:46][en:28][en:50]
+        * [ca][en] Эпизодический буфер, разработанный позже, интегрирует кратковременную и долговременную память. Он содержит и обрабатывает ограниченный объем информации из разных областей, организуя ее в последовательные эпизоды с временной и пространственной привязкой. [ca:25][ca:46][en:28][en:50]
 
         [en] Исследователи обнаружили значительное положительное влияние релаксации с использованием биологической обратной связи на память и способность к торможению у детей.[en:51] Биологическая обратная связь — это инструмент, который помогает человеку научиться контролировать и регулировать свое тело, чтобы улучшить навыки исполнительного функционирования. Для измерения процессов используют такие показатели, как частота сердечных сокращений или дыхание.[en:52] Релаксация с использованием биологической обратной связи включает музыкальную терапию, арт-терапию и другие практики осознанности.[en:52]
 
@@ -1950,7 +2020,7 @@ zh	管控功能
         [ca][en] Ещё одна модель исполнительных функций представляет их как структуру высокого уровня (макроконструкт), состоящую из подфункций, которые работают на разных этапах:
         * [ca][en] представление проблемы
         * [ca][en] планирование решения путем выбора и упорядочивания стратегий
-        * [ca][en] удержание стратегий в краткосрочной памяти для их выполнения согласно определенным правилам
+        * [ca][en] удержание стратегий в кратковременной памяти для их выполнения согласно определенным правилам
         * [ca][en] оценка результатов с выявлением и исправлением ошибок.[ca:51][en:58]
 
       Концептуальная модель Лезака
@@ -2039,16 +2109,32 @@ zh	管控功能
       * [en] Pediatric Attention Disorders Diagnostic Screener (PADDS) (https://en.wikipedia.org/wiki/Pediatric_Attention_Disorders_Diagnostic_Screener ) / Диагностический скрининг синдрома дефицита внимания у детей (PADDS) [en:93]
       * [ca][de][en] Rey-Osterrieth Complex Figure (https://en.wikipedia.org/wiki/Rey–Osterrieth_complex_figure ) / Сложная фигура Рея-Остерриета [en:83]
         [de] Испытуемый должен сначала скопировать сложную геометрическую фигуру, а затем через 30 минут повторить её по памяти.[de:11]
-      * [ca][en] Stroop Test (https://en.wikipedia.org/wiki/Stroop_effect ) / Тест Струпа [en:94]
+      * [ca][en][fr] Stroop Test (https://en.wikipedia.org/wiki/Stroop_effect ) / Тест Струпа [en:94]
+        [fr] Следующая информация в основном взята из работы: Stroop, 1935.[fr:35]
+        [fr] Этот тест позволяет измерить уровень ингибирования. В этом задании участникам показывают названия цветов, напечатанные разными цветами чернил. Задача состоит в том, чтобы как можно быстрее назвать цвет чернил, игнорируя содержание слова. Результаты обычно показывают трудности в правильном назывании цвета в несоответствующих попытках, когда цвет чернил отличается от названия цвета. Люди склонны автоматически читать слово, что приводит к вмешательству между словом и цветом чернил. Чтобы успешно выполнить задачу, важно подавить тенденцию читать слова и сосредоточиться на цвете чернил.
       * [en] Test of Variables of Attention (https://en.wikipedia.org/wiki/Test_of_Variables_of_Attention ) (T.O.V.A.) / Тест переменных внимания [en:95]
       * [ca][de][en] Tower of London Test (https://en.wikipedia.org/wiki/Tower_of_London_Test ) / Тест "Башня Лондона" [en:96]
         [de] Handlungsorganisation und Tagesplanung (HOTAP) [de:8]
         [de] В этих тестах, представленных в нескольких вариациях, необходимо перемещать элементы, такие как бусины, из начальной позиции в заданное конечное положение на трёх вертикальных стержнях. Эффективность выполнения оценивается по времени или количеству необходимых ходов.[de:9]
-      * [ca][de][en] Trail-Making Test (TMT) (https://en.wikipedia.org/wiki/Trail-Making_Test ) or Trails A & B / Тест соединения точек [en:94]
+      * [ca][de][en][fr] Trail-Making Test (TMT) (https://en.wikipedia.org/wiki/Trail-Making_Test ) or Trails A & B / Тест соединения точек [en:94]
         [de] Не отрывая ручку от бумаги, необходимо поочерёдно соединить числа от 1 до 13 и буквы от A до L в возрастающем порядке, следуя схеме: 1-A-2-B-3-C и так далее. Оценивается время выполнения задания. [de:12]
-      * [ca][en] Wisconsin Card Sorting Test (WCST) (https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test ) / Висконсинский тест сортировки карточек [en:94]
+        [fr] Следующая информация в основном взята из работы: Reitan, 1958.[fr:31]
+        [fr] Этот тест измеряет ментальную гибкость и проводится в два этапа. На первом этапе испытуемый должен как можно быстрее соединить числа в порядке возрастания (1-2-3-4 и т.д.), а на втором этапе он должен выполнить тот же процесс, но чередуя числа и буквы (1-А-2-Б-3-В и т.д.). «Стоимость изменения» (shifting) рассчитывается как разница между результатами на втором и первом этапах.
+      * [ca][en][fr] Wisconsin Card Sorting Test (WCST) (https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test ) / Висконсинский тест сортировки карточек [en:94]
         [de] Испытуемому нужно сопоставлять ряд карт с эталонными по определённым правилам (например, «Сортируй карты по цвету/форме/числовому значению»). Когда правила внезапно меняются, пациенты с определёнными повреждениями мозга испытывают трудности в переходе на новую систему правил.[de:12]
+        [fr] разработан Дэвидом А. Грантом и Эстой А. Берг в 1948 году.[fr:37]
+        [fr] Этот тест измеряет гибкость мышления, которая является важным показателем исполнительных функций. Участнику предъявляют четыре карты, которые различаются по цвету, форме изображенных объектов (круги, квадраты, треугольники и т.д.) и их количеству. Участник получает колоду остальных карт и должен поочередно раскладывать их на одну из четырех стопок. Критерий для сортировки заранее не сообщается — участник может по своему желанию классифицировать карты по цвету, форме или количеству объектов. Экзаменатор лишь сообщает, правильный ли выбранный критерий (ответы "да" или "нет").
+        [fr] После того как участник отсортировал несколько карт по выбранному критерию, экзаменатор меняет критерий, не уведомляя об этом, и задача участника — найти новый критерий классификации.
+        [fr] Основным показателем в этом тесте являются "персеверативные ошибки" (то есть ошибки, связанные с продолжением использования старого, ставшего привычным критерия). Это позволяет оценить, способен ли участник учитывать новую обратную связь и подавлять привычный способ реагирования.
       * [en] Symbol Digit Modalities Test / Тест символ-цифра [en:97]
+      * [fr] Тест «Плюс-минус»
+        [fr] Этот тест измеряет ментальную гибкость. Испытуемый сначала тренируется выполнять серию сложений с двузначными числами (+3), затем тренируется выполнять серию вычитаний (–3), а в финальной части ему нужно чередовать сложения и вычитания (+3; –3; +3 и т.д.).
+      * [fr] Тест n-back
+        [fr] Следующая информация в основном взята из работы: Smith и Jonides, 1997.[fr:32]
+        [fr] Этот тест измеряет обновление информации в рабочей памяти.[fr:33] Задача n-back — это задача на распознавание, в которой участники должны указать, соответствует ли элемент в представленной списке элементу, который был представлен n позиций назад (например, F-B-L-B — это пример совпадения для задачи 2-back; F-B-L-G — это пример сдвига для задачи 2-back). Важную роль в этой парадигме играют "ложные" приманки, где элемент соответствует элементу, представленному сразу перед или после целевой позиции n-back (например, испытание 2-back B-G-L-B). Обычно наблюдается, что люди медленнее и делают больше ошибок на этих попытках из-за упреждающего вмешательства. Шмалек и коллеги [fr:34] обнаружили эффекты ложных приманок не только с идентичными элементами, но и с семантически связанными объектами. Они предложили участникам задачу 2-back с словами и добавили семантические приманки (например, вилка-осел-дом-нож), что привело к явным эффектам семантических ложных совпадений.
+      * [fr] Тест Flanker
+        [fr] Следующая информация в основном взята из работы: Eriksen и Eriksen, 1974.[fr:36]
+        [fr] Тест Flanker — это задача на скорость реакции, разработанная для измерения способности фокусировать зрительное внимание, подавляя отвлекающую информацию. В этом тесте участники должны быстро ответить влево или вправо на центральную стрелку, игнорируя сопровождающие стрелки, которые могут быть согласованными (например, < < < < <) или несогласованными (например, < < > < <). Люди склонны автоматически обрабатывать отвлекающую информацию, что приводит к более медленным реакциям на несогласованные стимулы по сравнению с согласованными.
 
     #endregion
 
@@ -2137,6 +2223,9 @@ zh	管控功能
         
         [fi] Нарушения автоматической регуляции действий можно попытаться компенсировать за счет сознательного управления действиями, например, с помощью тщательного предварительного планирования, а также использования календарей и записок-напоминаний. Однако выполнение простых повторяющихся рутинных действий с помощью сознательного планирования и записок-напоминаний расходует когнитивные ресурсы и умственную энергию, которые могли бы быть использованы на другие задачи, если бы у человека не было нарушения регуляции действий.
 
+      [fr] Некоторые патологии или нейроатипичные состояния (например, расстройства аутистического спектра (РАС) (https://en.wikipedia.org/wiki/Autism_spectrum )) связаны с дисэкзекутивным синдромом — состоянием, объединяющим различные нарушения исполнительных функций, такие как проблемы с контролем подавления, планированием или когнитивной гибкостью, особенно в новых обстоятельствах и/или в ситуациях, требующих решения проблем, управления конфликтами или просто в условиях социального взаимодействия.[fr:38] В таких случаях часто также наблюдаются нарушения внимания и памяти.
+      
+      [fr] Эти нарушения могут значительно осложнять процесс обучения, делая его более трудным и утомительным, а порой даже изнурительным.
     #endregion
 
 
@@ -2510,6 +2599,53 @@ zh	管控功能
       [fi:3] Toiminnanohjauksen ongelmat ja ADHD (https://www.kaypahoito.fi/nix00963 ) www.kaypahoito.fi. Viitattu 13.4.2021.
     #endregion
 
+    #region fr
+      Литература
+      * R CHAN, D SHUM, T TOULOPOULOU et E CHEN, «Assessment of executive functions: Review of instruments and identification of critical issues», Archives of Clinical Neuropsychology, OECD, vol. 23, no 2, mars 2008, p. 201–216 (ISBN: 978-92-64-25104-5, ISSN: 0887-6177, DOI: 10.1016/j.acn.2007.08.010, lire en ligne [archive (https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.acn.2007.08.010 )], consulté le 23 avril 2023)
+      * Adele Diamond, «Executive Functions», Annual Review of Psychology, vol. 64, no 1, 3 janvier 2013, p. 135–168 (ISSN: 0066-4308 et 1545-2085, DOI: 10.1146/annurev-psych-113011-143750, lire en ligne [archive (https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fdx.doi.org%2F10.1146%2Fannurev-psych-113011-143750 )], consulté le 23 avril 2023)
+      * (en) Wilhelm Hofmann, Brandon J. Schmeichel et Alan D. Baddeley, «Executive functions and self-regulation», Trends in Cognitive Sciences, vol. 16, no 3, 1er mars 2012, p. 174–180 (ISSN: 1364-6613, DOI: 10.1016/j.tics.2012.01.006, lire en ligne (https://www.sciencedirect.com/science/article/pii/S1364661312000289 ) [archive (https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1364661312000289 )], consulté le 23 avril 2023)
+
+      Ссылки
+      [fr:1] Chan, R., Shum, D., Toulopoulou, T., & Chen, e. (2008). Assessment of executive functions: Review of instruments and identification of critical issues. Archives of Clinical Neuropsychology, 23, 201-216.
+      [fr:2] Wagner, A., Bunge, S.,& Badre, D. (2004). Cognitive control, semantic memory, and priming: Contributions from prefrontal cortex. In M. Gazzaniga (Ed.), The new cognitive neurosciences. (3e éd.). Camebridge, MA: MIT PRESS.
+      [fr:3] Alvarez, J., & Emory, E. (2006). Executive function and the frontal lobes: A meta-analytic review. Neuropsychology Review, 16, 17-42.
+      [fr:4] (en) Rabbitt, Patrick., Methodology of frontal and executive function, Psychology Press, 1997 (ISBN: 0-585-10249-X, 978-0-585-10249-8 et 0-203-34418-9, OCLC: 43475838)
+      [fr:5] (en) Adele Diamond, «Executive Functions», Annual Review of Psychology, vol. 64, no 1, 3 janvier 2013, p. 135–168 (ISSN: 0066-4308 et 1545-2085, PMID: 23020641, PMCID: PMC4084861, DOI: 10.1146/annurev-psych-113011-143750)
+      [fr:6] Adele Diamond, «Executive Functions», Annual Review of Psychology, vol. 64, no 1, 3 janvier 2013, p. 135–168 (ISSN: 0066-4308 et 1545-2085, DOI: 10.1146/annurev-psych-113011-143750)
+      [fr:7] (en) Cynthia A. Berg, Deborah J. Wiebe, Yana Suchy et Sara L. Turner, «Executive Function Predicting Longitudinal Change in Type 1 Diabetes Management During the Transition to Emerging Adulthood», Diabetes Care, vol. 41, no 11, 1er novembre 2018, p. 2281–2288 (ISSN: 0149-5992 et 1935-5548, PMID: 30131398, DOI: 10.2337/dc18-0351, lire en ligne (https://care.diabetesjournals.org/content/41/11/2281 ) [archive (https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fcare.diabetesjournals.org%2Fcontent%2F41%2F11%2F2281 )], consulté le 21 décembre 2020)
+      [fr:8] (en) Danny C. Duke et Michael A. Harris, «Executive Function, Adherence, and Glycemic Control in Adolescents with Type 1 Diabetes: a Literature Review», Current Diabetes Reports, vol. 14, no 10, 21 août 2014, p. 532 (ISSN: 1539-0829, DOI: 10.1007/s11892-014-0532-y)
+      [fr:9] G. Reach, «Observance à l’adolescence», Médecine des Maladies Métaboliques, vol. 11, no 7, novembre 2017, p. 650–656 (ISSN: 1957-2557, DOI: 10.1016/s1957-2557(17)30157-8)
+      [fr:10] Taconnat, L., & Lemaire, P. (2013). Fonctions exécutives, vieillissement cognitif et variations stratégiques. In Psychologie Française. https://dx.doi.org/10.1016/j.psfr.2013.03.007 [archive (https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.psfr.2013.03.007 )] (consulté le 28 février 2014).
+      [fr:11] Miyake, A., Friedman, N.P., Emerson, M.J., Witzki, A.H., Howerter, A., & Wager, T.D. (2000). The unity and diversity of executive fonctions and their contributions to complex 'Frontal Lobe' tasks: A latent variable analysis. Cognitive Psychology, 41, 49-100.
+      [fr:12] Collette, F., Hogge, M., & Van der Linden, M. (2006). Exploration of the neural substrates of executive fonctioning by functional neuroimaging. Journal of Neuroscience, 139, 209-221.
+      [fr:13] Rochat, L., Billieux, J., & Van der Linden, M. (2012). Difficulties to disengage attentional resources from self-generated thoughts moderate the link between dysphoria and maladaptive self-referential thinking. Cognition & Emotion, 26, 748-757.
+      [fr:14] Shimamura, A. (2000). The role of prefrontal cortex in dynamic filtering. Psychobiology, 28, 207-218. [lire en ligne (http://socrates.berkeley.edu/~shimlab/2000_Shimamura_DynFilter.pdf ) [archive (https://archive.wikiwix.com/cache/?url=http%3A%2F%2Fsocrates.berkeley.edu%2F~shimlab%2F2000_Shimamura_DynFilter.pdf )]] [PDF] (consulté le 28 février 2014).
+      [fr:15] Morris, N., & Jones, D. (1990). Memory updating in working memory: The role of the central executive. British Journal of Psyhcologie, 81, 111-121.
+      [fr:16] Bjorklund, D., & Harnishfeger, K. (1995). The evolution of inhibition mechanisms and their role in human cognition and behavior. In D.F.N. & B.C.J. (Eds). Interference and inhibition in cognition. San Diego: Academic Press (p. 142-169).
+      [fr:17] Dempster, F. (1992). The rise and fall of the inhibitory mechanism: Toward a unified theory of cognitive development and aging. Developmental Review, 12, 45-75.
+      [fr:18] Burke, W., Zencius, A., Wesolowski, M., & Doubleday, F. (1991). Improving executive function disorders in brain-injured clients. Brain Injury, 5, 241-252.
+      [fr:19] Urben, S. (2011). L'inhibition d'une réponse dominante chez l'enfant: développement et interaction avec les processus émotionnels. http://archives-ouverture.unige.ch/unige:16693 [archive (https://archive.wikiwix.com/cache/?url=http%3A%2F%2Farchives-ouverture.unige.ch%2Funige%3A16693 )] (consulté le 28 février 2014).
+      [fr:20] Wagner, A., Bunge, S., & Badre, D. (2004). Cognitive control, semantic memory, and priming: Contributions from prefrontal cortex. In M. Gazzaniga (Ed.), The new cognitive neurosciences. (3rd ed). Cambridge, MA:MIT PRESS.
+      [fr:21] Godefroy, O., Jeannerod, M., Allain, P., & Le Gall, D. (2008). Lobe frontal, fonctions exécutives et contrôle cognitif. Revue Neurologique, 164, 119-127
+      [fr:22] Elliot, R. (2003). Executive functions and their disorders. British Medical Bulletin, 65, 49-59.
+      [fr:23] Schumacher, E., Lauber, E., Awh, E., Jonides, J.E.E., & Koeppe, R. (1996). Pet evidence for an amodal verbal working memory system. Neuroimage, 3, 79-88.
+      [fr:24] Fink, G., Halligan, P., Marshall, J., Frith, C., Frackowlack, R., & Dolan, R. (1997). Neural mechanisms involved in the processing of global and local aspects of hierarchically organized visual stimuli. Brain, 120, 1779-1791.
+      [fr:25] Gurd, J., Amunts, K., Weiss, P., Zafiris, O., Zilles, K., Marshall, J., & Fink, G. (2002). Posterior parietal cortex is implicated in continuous switching between verbal fluency tasks: An fMRI study with clinical implications. Brain, 125, 1024-1038.
+      [fr:26] Rogers, R., Andrews, T., Grasby, P., Brooks, D., & Robbins, T. (2000). Contrasting cortical and subcortical activations produced by attentional set-shifting and reversal learning in humans. Journal of Cognitive Neuroscience, 12, 142-162.
+      [fr:27] Wilkinson, D., Halligan, P., Marshall, J., Buchel, C., & Dolan, R. (2001). Switching between the forest and the trees: Brain systems involved in local/global changed-level judgements. Neuroimage, 13, 56-67.
+      [fr:28] Aron, A., Robbins, T., & Poldrack, R. (2004). Inhibition and the right inferior cortex. Trends in Cognitive Sciences, 8, 170-177.
+      [fr:29] Collette, F., Van der Linden, M.,Delfiore, G., Degueldre, C., Luxen, A., & Salmon, E. (2001). The functional anatomy of inhibition processes investigating the hayling task. Neuroimage, 14, 258-267.
+      [fr:30] Heyder, K., Suchan, B, & Daum, I. (2003). Cortico-subcortical contributions to executive control. Acta Psychologica, 115, 271-289.
+      [fr:31] (en) Ralph M. Reitan, «VALIDITY OF THE TRAIL MAKING TEST AS AN INDICATOR OF ORGANIC BRAIN DAMAGE», Perceptual and Motor Skills, vol. 8, no 3, décembre 1958, p. 271-276 (ISSN: 0031-5125 et 1558-688X, DOI: 10.2466/pms.1958.8.3.271, lire en ligne (http://www.amsciepub.com/doi/abs/10.2466/pms.1958.8.3.271 ) [archive (https://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.amsciepub.com%2Fdoi%2Fabs%2F10.2466%2Fpms.1958.8.3.271 )], consulté le 14 octobre 2012).
+      [fr:32] Smith, E.E., & Jonides, J. (1997). Neuroimaging analyses of human working memory. Proceedings of the National Academy of Sciences, 95, 12061-12068.
+      [fr:33] Collette, F., & Van der Linden, M. (2002). Brain imaging and the central executive componant of working memory. Neurosci Biobehav Rev., 26, 105-125.
+      [fr:34] Szmalec, A., Verbruggen, F., Vandierendonck, A., & Kemps, E. (2011). Control of interference during working memory updating. Journal of Experimental Psychology: Human Perception & Performance, 37, 137-151.
+      [fr:35] Stroop, J. (1935). Studies of interference in serial verbal reaction. Journal of Experimental Psychology, 18, 643-662.
+      [fr:36] Eriksen, B., & Eriksen, C. (1974). Effects of noise letters upon identification of a target letter in a non-search task. Perception and Psychophysics, 16, 143-149.
+      [fr:37] (en) Grant D. A. et Berg E., «A behavioral analysis of degree of reinforcement and ease of shifting to new responses in Weigl-type card-sorting problem», Journal of Experimental Psychology, no 38, 1948, p. 404-411
+      [fr:38] Joffrey Trauchessec, Claire Sainson, Christelle Bolloré (2022) Neurologie et orthophonie : Théorie et évaluation: Évaluation et prise en soin des troubles acquis de l’adulte - 2 ; De Boeck Supérieur, 24 oct. - 864 pages
+    #endregion
+
     #endregion
 
   #endregion
@@ -2528,6 +2664,8 @@ zh	管控功能
     (from Executive_functions: For similar terms, see Adaptive behavior and Self-control.)
     <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Inhibitory_control
+    <= https://en.wikipedia.org/wiki/Executive_functions
+  https://en.wikipedia.org/wiki/Supervisory_attentional_system
     <= https://en.wikipedia.org/wiki/Executive_functions
   https://en.wikipedia.org/wiki/Attentional_control  концентрация/контроль внимания
     (повтор)
